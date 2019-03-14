@@ -1,0 +1,5102 @@
+[
+  {
+    "collcode": 1,
+    "coll_name": "UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI - CEG CAMPUS                 ",
+    "addr_l1": "Sardar Patel Road, Guindy",
+    "addr_l2": "Saidapet Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600025,
+    "catcode": 0,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2,
+    "coll_name": "UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI - ACT CAMPUS                 ",
+    "addr_l1": "Sardar Patel Road, Guindy",
+    "addr_l2": "Saidapet Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600025,
+    "catcode": 0,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4,
+    "coll_name": "UNIVERSITY DEPARTMENTS OF ANNA UNIVERSITY, CHENNAI - MIT CAMPUS                 ",
+    "addr_l1": "Chrompet",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600044,
+    "catcode": 0,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1013,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, VILLUPURAM                                   ",
+    "addr_l1": "",
+    "addr_l2": "Villupuram Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605103,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1014,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, TINDIVANAM                                   ",
+    "addr_l1": "",
+    "addr_l2": "Tindivanam Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 604001,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1015,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, ARNI                                         ",
+    "addr_l1": "Arni To Devikapuram Road, Thatchur, Arni",
+    "addr_l2": "Arni Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 632326,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1026,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, KANCHIPURAM                                  ",
+    "addr_l1": "Nh-4, Chennai Bangalore Highway, Ponnerikkarai",
+    "addr_l2": "Kanchipuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631552,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1101,
+    "coll_name": "AALIM MUHAMMED SALEGH COLLEGE OF ENGINEERING",
+    "addr_l1": "Nizara Educational Campus,",
+    "addr_l2": "Avadi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600055,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1102,
+    "coll_name": "BHAJARANG ENGINEERING COLLEGE",
+    "addr_l1": "Near Avadi, Veppampattu (Rs),",
+    "addr_l2": "Thiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 602024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1106,
+    "coll_name": "JAYA ENGINEERING COLLEGE",
+    "addr_l1": "C.T.H.Road, Prakash Nagar, Near Avadi",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 602024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1107,
+    "coll_name": "JAYA INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Tiruvallur - Tiruttani NH  Road,",
+    "addr_l2": "Tiruttani Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 631204,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1110,
+    "coll_name": "PRATHYUSHA ENGINEERING COLLEGE",
+    "addr_l1": "Poonamallee-Thiruvallur Rd,",
+    "addr_l2": "Tiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 602025,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1112,
+    "coll_name": "R.M.D. ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "R.S.M. Nagar, G.N.T.Road,",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1113,
+    "coll_name": "R.M.K. ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "R.S.M. Nagar,",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1114,
+    "coll_name": "S.A. ENGINEERING COLLEGE",
+    "addr_l1": "Poonamallee-Avadi Main Road,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600077,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1115,
+    "coll_name": "SRIRAM ENGINEERING COLLEGE",
+    "addr_l1": "",
+    "addr_l2": "Tiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 602024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1116,
+    "coll_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Thiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 631203,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1118,
+    "coll_name": "VEL TECH MULTI TECH DR.RANGARAJAN DR.SAKUNTHALA ENGINEERING COLLEGE             ",
+    "addr_l1": "42, Avadi - Vel Tech  Road,",
+    "addr_l2": "Avadi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1120,
+    "coll_name": "VELAMMAL ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "Velammal Newgen Park, Ambattur- Red Hills Road",
+    "addr_l2": "Madhavaram Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600066,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1121,
+    "coll_name": "SRI VENKATESWARA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Tiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 631203,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1122,
+    "coll_name": "VEL TECH HIGH TECH DR.RANGARAJAN DR.SAKUNTHALA ENGINEERING COLLEGE              ",
+    "addr_l1": "60, Avadi-Veltech  Road,",
+    "addr_l2": "Ambattur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1123,
+    "coll_name": "GOJAN SCHOOL OF BUSINESS AND TECHNOLOGY                                         ",
+    "addr_l1": "80 Feet Road, Edapalayam, Redhills",
+    "addr_l2": "Ponneri Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600052,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1124,
+    "coll_name": "SAMS COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "# 82, Near Periyapalayam,",
+    "addr_l2": "Uthukottai Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1125,
+    "coll_name": "PMR ENGINEERING COLLEGE                                                         ",
+    "addr_l1": "",
+    "addr_l2": "Ambattur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600095,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1126,
+    "coll_name": "JNN INSTITUTE OF ENGINEERING                                                    ",
+    "addr_l1": "90, Ushaa Garden, Chennai-Periyapalayam High Road, Near Redhills",
+    "addr_l2": "Uthukottai Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1127,
+    "coll_name": "St. PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY                               ",
+    "addr_l1": "College Road,   Avadi,  Paruthipattu",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600054,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1128,
+    "coll_name": "R.M.K. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "R.S.M. Nagar, Puduvoyal, Gummidipoondi (T.K)",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1131,
+    "coll_name": "VEL TECH                                                                        ",
+    "addr_l1": "60, Avadi- Vel Tech Road,",
+    "addr_l2": "Avadi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1133,
+    "coll_name": "ANNAI VEILANKANNI'S COLLEGE OF ENGINEERING                                      ",
+    "addr_l1": "No.33,Gandhi Rd, Nedungundram, Near Perungalathur Railway Station",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600127,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1136,
+    "coll_name": "VEDHANTHA INSTITUTE OF TECHNOLOGY                                               ",
+    "addr_l1": "Vedhantha Nagar, Trichy-Chennai  NH 45,",
+    "addr_l2": "Ulundurpet Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 606115,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1137,
+    "coll_name": "ANNAI MIRA COLLEGE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "Nh-46, Chennai-Bengaluru Highways,",
+    "addr_l2": "Walaja Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632517,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1140,
+    "coll_name": "JEPPIAAR INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "Sunguvarchatram,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631604,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1141,
+    "coll_name": "R.V.S. PADHMAVATHY COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "addr_l1": "RVS Nagar",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601202,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1143,
+    "coll_name": "KUMARAN INSTITUTE OF TECHNOLOGY                                                 ",
+    "addr_l1": "Near Nandiambakkam Railway Station, Nandiabakkam",
+    "addr_l2": "Ponneri Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600120,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1149,
+    "coll_name": "St. JOSEPH'S INSTITUTE OF TECHNOLOGY                                            ",
+    "addr_l1": "Old Mamallapuram Road",
+    "addr_l2": "Sholinganallur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600119,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1150,
+    "coll_name": "SRI JAYARAM INSTITUTE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "51N, Elavur, 58N, Natham,",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601201,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1157,
+    "coll_name": "SHRI SITHESWARAR ENGINEERING COLLEGE                                            ",
+    "addr_l1": "Kalavai Road, Poongodu,",
+    "addr_l2": "Arcot Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1201,
+    "coll_name": "ARIGNAR ANNA INSTITUTE OF SCIENCE AND TECHNOLOGY                                ",
+    "addr_l1": "Chennai-Bangalore Highway,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1202,
+    "coll_name": "D M I COLLEGE OF ENGINEERING",
+    "addr_l1": "Mevallur Kuppam, 'B' Village",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1205,
+    "coll_name": "LORD VENKATESHWARAA ENGINEERING COLLEGE                                         ",
+    "addr_l1": " Walajabad Via",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631605,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1206,
+    "coll_name": "JEPPIAAR MAAMALLAN ENGINEERING COLLEGE                                          ",
+    "addr_l1": "Jeppiaar Maamallan Nagar,",
+    "addr_l2": "Sriperumpudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602108,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1207,
+    "coll_name": "KINGS ENGINEERING COLLEGE",
+    "addr_l1": "Chennai - Bangalore Highways, Opp. Hyundai Motors",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1208,
+    "coll_name": "KANCHI PALLAVAN ENGINEERING COLLEGE                                             ",
+    "addr_l1": "",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1209,
+    "coll_name": "PALLAVAN COLLEGE OF ENGINEERING                                                 ",
+    "addr_l1": "",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1210,
+    "coll_name": "PANIMALAR ENGINEERING COLLEGE                                                   ",
+    "addr_l1": "Bangalore Trunk Road,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1211,
+    "coll_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+    "addr_l1": "Rajalakshmi Nagar, Chennai-Bangalore Highway,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1212,
+    "coll_name": "RAJIV GANDHI COLLEGE OF ENGINEERING                                             ",
+    "addr_l1": "",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1213,
+    "coll_name": "S.K.R. ENGINEERING COLLEGE",
+    "addr_l1": "Nazarathpet, Poonamallee Taluk",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1214,
+    "coll_name": "SAKTHI MARIAMMAN ENGINEERING COLLEGE                                            ",
+    "addr_l1": "Narayanasamy Nagar, 55,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1216,
+    "coll_name": "SAVEETHA ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "Saveetha Nagar,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1217,
+    "coll_name": "SREE SASTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Sree Sastha Nagar, Chennai Bangalore High Way,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1218,
+    "coll_name": "SRI MUTHUKUMARAN INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Chikkarayapuram, Kunrathur,",
+    "addr_l2": "Pallavaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600069,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1219,
+    "coll_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING (AUTONOMOUS)                            ",
+    "addr_l1": "Post Bag No.1,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1221,
+    "coll_name": "JAYA COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "Poonamallee By Pass Road,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600056,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1222,
+    "coll_name": "P.B. COLLEGE OF ENGINEERING",
+    "addr_l1": "Chennai-Bangalore Highway,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1225,
+    "coll_name": "LOYOLA INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Mevalurkuppam 'B' Village,",
+    "addr_l2": "Sriperumpudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1226,
+    "coll_name": "P.T. LEE CHENGALVARAYA NAICKER COLLEGE OF ENGINEERING AND TECHNOLOGY            ",
+    "addr_l1": "Chengalvaraya Nagar,",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1228,
+    "coll_name": "ALPHA COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "34,Udayavar Koil Street,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600124,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1229,
+    "coll_name": "INDIRA INSTITUTE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "No.1 VGR Gardens, VGR Nagar,",
+    "addr_l2": "Thiruvallur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 631203,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1230,
+    "coll_name": "APOLLO ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "Near Queensland,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1231,
+    "coll_name": "PANIMALAR INSTITUTE OF TECHNOLOGY                                               ",
+    "addr_l1": "391,Bangalore trunk road,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1232,
+    "coll_name": "ARM COLLEGE OF ENGINEERING AND TECHNOLOGY                                       ",
+    "addr_l1": "",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603209,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1233,
+    "coll_name": "ADHI COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "No.6, Munu Adhi Nagar, Near Oragadam.",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631605,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1234,
+    "coll_name": "INDIRA GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN                   ",
+    "addr_l1": "Chengalpattu - Kancheepuram High Road,",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603101,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 1235,
+    "coll_name": "J E I MATHAAJEE COLLEGE OF ENGINEERING                                          ",
+    "addr_l1": "Kancheepuram To Arakkonam Rd., Siruvakkam,Vishakandikuppam",
+    "addr_l2": "Kanchipuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631552,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1237,
+    "coll_name": "VELAMMAL INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "Chennai - Kolkatta Highway,",
+    "addr_l2": "Ponneri Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601204,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1238,
+    "coll_name": "GRT INSTITUTE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "GRT Mahalakshmi Nagar, Chennai-Tirupathi Highway,",
+    "addr_l2": "Tiruttani Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 631209,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1241,
+    "coll_name": "T.J.S. ENGINEERING COLLEGE",
+    "addr_l1": "T.J.S.Nagar, Near Kavaraipettai,",
+    "addr_l2": "Gummidipoondi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 601206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1242,
+    "coll_name": "SREE SASTHA COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Chembarambakkam Village Road,",
+    "addr_l2": "Poonamalee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600123,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1243,
+    "coll_name": "MADHA INSTITUTE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "Irandamkattalai,",
+    "addr_l2": "Pallavaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600128,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1301,
+    "coll_name": "MOHAMED SATHAK A.J.COLLEGE OF ENGINEERING",
+    "addr_l1": "34,Rajiv Gandhi Road (OMR), IT-Park Siruseri",
+    "addr_l2": "-- Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603103,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1303,
+    "coll_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY                                            ",
+    "addr_l1": "Kalasalingam Nagar, Old Mahabalipuram Road",
+    "addr_l2": "Thirupporur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603103,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1304,
+    "coll_name": "EASWARI ENGINEERING COLLEGE                                                     ",
+    "addr_l1": "Bharathi Salai,",
+    "addr_l2": "Ambattur Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600089,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1306,
+    "coll_name": "JEPPIAAR ENGINEERING COLLEGE",
+    "addr_l1": "Rajiv Gandhi Salai,",
+    "addr_l2": "Sholinganallur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600119,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1307,
+    "coll_name": "JERUSALEM COLLEGE OF ENGINEERING                                                ",
+    "addr_l1": "Narayanapuram,",
+    "addr_l2": "Solinganallur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600100,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1309,
+    "coll_name": "MEENAKSHI SUNDARARAJAN ENGINEERING COLLEGE                                      ",
+    "addr_l1": "No.363, Arcot Road,",
+    "addr_l2": "-- Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1310,
+    "coll_name": "MISRIMAL NAVAJEE MUNOTH JAIN ENGINEERING COLLEGE",
+    "addr_l1": "Jyothi Nagar,",
+    "addr_l2": "Sholinganallor Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600097,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1311,
+    "coll_name": "K.C.G. COLLEGE OF TECHNOLOGY",
+    "addr_l1": "Rajiv Gandhi Salai,",
+    "addr_l2": "Sholinganallur Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600097,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1313,
+    "coll_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Fomra Nagar, OMR, IT High Way",
+    "addr_l2": "Chennai Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 603103,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1315,
+    "coll_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+    "addr_l1": "Rajiv Gandhi Salai (OMR)",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603110,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1316,
+    "coll_name": "AGNI COLLEGE OF TECHNOLOGY                                                      ",
+    "addr_l1": "Thalambur, Old Mahabalipuram Road",
+    "addr_l2": "Thiruporur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600130,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1317,
+    "coll_name": "St.JOSEPH'S COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Old Mamallapuram Road",
+    "addr_l2": "Sholinganallur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600119,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1318,
+    "coll_name": "T.J. INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Rajiv Gandhi Salai (Old Mahabalipuram Road), Karapakkam",
+    "addr_l2": "Sholinganallur Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600097,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1319,
+    "coll_name": "THANGAVELU ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "Rajiv Gandhi Salai (Old Mahabalipuram Road),",
+    "addr_l2": "Sholinganallur Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600097,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1320,
+    "coll_name": "JEPPIAAR SRR ENGINEERING COLLEGE                                                ",
+    "addr_l1": "Old Mamallapuram Road, I.T Highway, Chennai,",
+    "addr_l2": "Chengalpat Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603103,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1321,
+    "coll_name": "CENTRAL INSTITUTE OF PLASTICS ENGINEERING AND TECHNOLOGY                        ",
+    "addr_l1": "T.V.K Industrial Estate,",
+    "addr_l2": "-- Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600032,
+    "catcode": 5,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1322,
+    "coll_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "ECR,",
+    "addr_l2": "Thirukazhukundram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603104,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1323,
+    "coll_name": "A.C.T. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Nelvoy, Maduranthagam(Tk.)",
+    "addr_l2": "Maduranthagam Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1324,
+    "coll_name": "SRI SAI RAM INSTITUTE OF TECHNOLOGY                                             ",
+    "addr_l1": "Sai Leo Nagar, West Tambaram",
+    "addr_l2": "Sriperumpudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600044,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1325,
+    "coll_name": "St. JOSEPH COLLEGE OF ENGINEERING",
+    "addr_l1": "Near Toll Plaza, Sriperumbudur",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1333,
+    "coll_name": "VI INSTITUTE OF TECHNOLOGY                                                      ",
+    "addr_l1": "No:96,  Chengalpattu - Thiruporur Highway",
+    "addr_l2": "Thiruporur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603108,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1334,
+    "coll_name": "ARS COLLEGE OF ENGINEERING                                                      ",
+    "addr_l1": "Sattamangalam, Maraimalai Nagar,",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603209,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1335,
+    "coll_name": "SRI KRISHNA INSTITUTE OF TECHNOLOGY                                             ",
+    "addr_l1": "Navaneedham Nagar,Near Padappai,Via Tambaram,",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 601301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1399,
+    "coll_name": "CHENNAI INSTITUTE OF TECHNOLOGY                                                 ",
+    "addr_l1": "Sarathy Nagar, Kundrathur",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600069,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1401,
+    "coll_name": "ADHIPARASAKTHI ENGINEERING COLLEGE                                              ",
+    "addr_l1": "",
+    "addr_l2": "Cheyyur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603319,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1402,
+    "coll_name": "ANNAI TERESA COLLEGE OF ENGINEERING                                             ",
+    "addr_l1": "Cuddalore-Ulundurpet Road,",
+    "addr_l2": "Ulundurpet Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 607204,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1405,
+    "coll_name": "DHANALAKSHMI COLLEGE OF ENGINEERING                                             ",
+    "addr_l1": "",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 601301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1406,
+    "coll_name": "DR. PAULS ENGINEERING COLLEGE",
+    "addr_l1": "Pauls Nagar, Nh66,",
+    "addr_l2": "Vanur Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1407,
+    "coll_name": "G.K.M. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "G. K. M. Nagar, Near Tambaram,",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600063,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1408,
+    "coll_name": "IFET COLLEGE OF ENGINEERING                                                     ",
+    "addr_l1": "IFET Nagar, Valavanur",
+    "addr_l2": "Villupuram Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605108,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1409,
+    "coll_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY                          ",
+    "addr_l1": "G S T Road,",
+    "addr_l2": "Maduranthagam Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603308,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1411,
+    "coll_name": "MADHA ENGINEERING COLLEGE",
+    "addr_l1": "Kundrathur",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600069,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1412,
+    "coll_name": "MAILAM ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Tindivanam Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 604304,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1413,
+    "coll_name": "SRI VENKATESWARAA COLLEGE OF TECHNOLOGY                                         ",
+    "addr_l1": "Vadakal Village,",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 602105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1414,
+    "coll_name": "PRINCE SHRI VENKATESHWARA PADMAVATHY ENGINEERING COLLEGE                        ",
+    "addr_l1": "Medavakkam - Mambakkam Rd,",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600127,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1415,
+    "coll_name": "T.S.M. JAIN COLLEGE OF TECHNOLOGY                                               ",
+    "addr_l1": "Kallakurichi",
+    "addr_l2": "Kallakurichi Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 606201,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1416,
+    "coll_name": "JAYA SAKTHI ENGINEERING COLLEGE",
+    "addr_l1": "St. Mary'S Nagar, C.T.H. Road, Near Avadi",
+    "addr_l2": "Avadi Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 602024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1417,
+    "coll_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING                                        ",
+    "addr_l1": "#6, G.S.T. Road,",
+    "addr_l2": "Madurantakam Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1418,
+    "coll_name": "SRI LAKSHMI AMMAL ENGINEERING COLLEGE                                           ",
+    "addr_l1": "Agaram Main Road, Thiruvancherry, East Tambaram",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600126,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1419,
+    "coll_name": "SRI SAIRAM ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "Sai Leo Nagar, West Tambaram",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600044,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1420,
+    "coll_name": "TAGORE ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "Rathinamangalam, Vandalur-Kelambakkam Road",
+    "addr_l2": "Chengalpet Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600127,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1421,
+    "coll_name": "V.R.S. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Arasur,",
+    "addr_l2": "Ulundurpet Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 607107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1422,
+    "coll_name": "VALLIAMMAI ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603203,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1423,
+    "coll_name": "ASAN MEMORIAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "P. B. No:6, Asan Ngr, 9th Km Chengalpattu-Mahabalipuram Highway,",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603001,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1424,
+    "coll_name": "DHAANISH AHMED COLLEGE OF ENGINEERING",
+    "addr_l1": "Dhaanish Nagar(Near Tambaram),",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 601301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1426,
+    "coll_name": "SRI RAMANUJAR ENGINEERING COLLEGE                                               ",
+    "addr_l1": "Kolapakkam,",
+    "addr_l2": "Chengalpet Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600127,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1427,
+    "coll_name": "SRI KRISHNA ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "Tambaram-Oragadam State Highway,Near Padappai,",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 601301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1428,
+    "coll_name": "E.S ENGINEERING COLLEGE                                                         ",
+    "addr_l1": "E.S. Nagar, No. 3/249,  Chennai Trunk Road, Nh 45, Ayyankoilpattu",
+    "addr_l2": "Villupuram Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605601,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1430,
+    "coll_name": "MAHA BARATHI ENGINEERING COLLEGE                                                ",
+    "addr_l1": "NH - 79, Salem Chennai Highway,",
+    "addr_l2": "Chinnasalem Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 606201,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1431,
+    "coll_name": "NEW PRINCE SHRI BHAVANI COLLEGE OF ENGINEERING AND TECHNOLOGY                   ",
+    "addr_l1": "Vengaivasal Main Road,",
+    "addr_l2": "Tambaram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600073,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1432,
+    "coll_name": "RAJALAKSHMI INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Chennai -Bangalore Highway,",
+    "addr_l2": "Poonamallee Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600124,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1433,
+    "coll_name": "SRI ARAVINDAR ENGINEERING COLLEGE                                               ",
+    "addr_l1": "Pondy - Mailam Road, Sedarapet, Akasampet",
+    "addr_l2": "Vanur Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1434,
+    "coll_name": "SURYA GROUP OF INSTITUTIONS                                                     ",
+    "addr_l1": "Nh - 45, Gst Road,",
+    "addr_l2": "Villupuram Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605652,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1435,
+    "coll_name": "BALAJI INSTITUTE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "Near Thiruporur,",
+    "addr_l2": "Thiruporur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603110,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1436,
+    "coll_name": "A.R. ENGINEERING COLLEGE                                                        ",
+    "addr_l1": "Nh 45c,",
+    "addr_l2": "Villupuram Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 605601,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1437,
+    "coll_name": "RRASE COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "Tambaram - Oragadam Highway - Sh48 - (Near Tambaram),",
+    "addr_l2": "Sriperumbudur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 601301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1438,
+    "coll_name": "SREE KRISHNA COLLEGE OF ENGINEERING                                             ",
+    "addr_l1": "Unai",
+    "addr_l2": "Vellore Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632101,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1439,
+    "coll_name": "S.R.I COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "321/15, Melmaruvathur Road,",
+    "addr_l2": "Vandavasi Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 604408,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1440,
+    "coll_name": "JAYA SURIYA ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "Redhills-Thiruvallur High Road",
+    "addr_l2": "Redhills Taluk, Thiruvallur District.",
+    "state": "Tamilnadu",
+    "pin_code": 600055,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1441,
+    "coll_name": "A.K.T. MEMORIAL COLLEGE OF ENGINEERING AND TECHNOLOGY                           ",
+    "addr_l1": "A.K.T Nagar,",
+    "addr_l2": "Kallakurichi Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 606202,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1442,
+    "coll_name": "PRINCE Dr.K.VASUDEVAN COLLEGE OF ENGINEERING AND TECHNOLOGY                     ",
+    "addr_l1": "Medavakkam - Mambakkam Road,",
+    "addr_l2": "Tiruporur Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600127,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1444,
+    "coll_name": "CHENDU COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "",
+    "addr_l2": "Madurantakam Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 603311,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1445,
+    "coll_name": "SRI RANGAPOOPATHI COLLEGE OF ENGINEERING                                        ",
+    "addr_l1": "Tindivanam -  Tiruvanamalai Highway(Nh66), Alampoondi,Gingee",
+    "addr_l2": "Gingee Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 604151,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1447,
+    "coll_name": "JAWAHAR ENGINEERING COLLEGE                                                     ",
+    "addr_l1": "\"Sabarmathi\",K.K.Road,Saligramam(Near Vadapalani)",
+    "addr_l2": "Mambalam Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600093,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1448,
+    "coll_name": "SRI RAMANA MAHARISHI COLLEGE OF ENGINEERING                                     ",
+    "addr_l1": "",
+    "addr_l2": "Cheyyar Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 604407,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1449,
+    "coll_name": "SARASWATHY COLLEGE OF ENGINEERING & TECHNOLOGY                                  ",
+    "addr_l1": "Nh-45, Main Road, Olakkur,Tindivanam",
+    "addr_l2": "Tindiavanam Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 604305,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1450,
+    "coll_name": "LOYOLA - ICAM COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Loyola College Campus,",
+    "addr_l2": "Egmore Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600034,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1452,
+    "coll_name": "PERI INSTITUTE OF TECHNOLOGY                                                    ",
+    "addr_l1": "West Tambaram,",
+    "addr_l2": "Chengalpattu Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 600048,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1501,
+    "coll_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING                                           ",
+    "addr_l1": "G.B.Nagar,",
+    "addr_l2": "Arcot Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632506,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1503,
+    "coll_name": "ARULMIGU MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+    "addr_l1": "Vadamavandal (Vi),(Near Kanchipuram)",
+    "addr_l2": "Vembakkam Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 604410,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1504,
+    "coll_name": "ARUNAI ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Tiruvannamalai Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 606603,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1505,
+    "coll_name": "C.ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Hakeem Nagar,",
+    "addr_l2": "Walaja Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632509,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1506,
+    "coll_name": "G.G.R. COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Chennai Bangalore Highway,",
+    "addr_l2": "Vellore Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1507,
+    "coll_name": "GANADIPATHY TULSI'S JAIN ENGINEERING COLLEGE                                    ",
+    "addr_l1": "Chittoor-Cuddalore Road,",
+    "addr_l2": "Vellore Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1508,
+    "coll_name": "ARUNAI COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "",
+    "addr_l2": "Tiruvannamalai Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 606603,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1509,
+    "coll_name": "MEENAKSHI COLLEGE OF ENGINEERING",
+    "addr_l1": "12, Vembuliamman Koil Street,",
+    "addr_l2": "Mambalam - Guindy Taluk, Chennai District.",
+    "state": "Tamilnadu",
+    "pin_code": 600078,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1510,
+    "coll_name": "PRIYADARSHINI ENGINEERING COLLEGE                                               ",
+    "addr_l1": "Barath Nagar,  Vaniyambadi",
+    "addr_l2": "Vaniyambadi Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 635751,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1511,
+    "coll_name": "RANIPPETTAI ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "",
+    "addr_l2": "Walajapet Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632513,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1512,
+    "coll_name": "S.K.P. ENGINEERING COLLEGE",
+    "addr_l1": "",
+    "addr_l2": "Tiruvannamalai Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 606611,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1513,
+    "coll_name": "SRI BALAJI CHOCKALINGAM ENGINEERING COLLEGE                                     ",
+    "addr_l1": "Arni-Arcot Road,",
+    "addr_l2": "Arni Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 632317,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1514,
+    "coll_name": "SRI NANDHANAM COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Molagarampatti,",
+    "addr_l2": "Tirupattur Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 635601,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1515,
+    "coll_name": "SARASWATHI VELU COLLEGE OF ENGINEERING                                          ",
+    "addr_l1": "Jambukulam Road,",
+    "addr_l2": "Walajah Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 631102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1516,
+    "coll_name": "THANTHAI PERIYAR GOVT INSTITUTE OF TECHNOLOGY                                   ",
+    "addr_l1": "Bagayam",
+    "addr_l2": "Vellore Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632002,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1517,
+    "coll_name": "THIRUMALAI ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "Kilambi,",
+    "addr_l2": "Kancheepuram Taluk, Kancheepuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 631551,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1518,
+    "coll_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Arunachala City, Ponnur Hills, Chetpet Road,",
+    "addr_l2": "Vandavasi Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 604505,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1519,
+    "coll_name": "BHARATHIDASAN ENGINEERING COLLEGE                                               ",
+    "addr_l1": "MGR Nagar, K.Bandarapalli Patchur (Via)",
+    "addr_l2": "Nattrampalli Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 635854,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1520,
+    "coll_name": "KINGSTON ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "Chittoor Main Road,",
+    "addr_l2": "Katpadi Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632059,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1521,
+    "coll_name": "SHRI SAPTHAGIRI INSTITUTE OF TECHNOLOGY                                         ",
+    "addr_l1": "No.381, MBT Road,",
+    "addr_l2": "Nemili Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632531,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1523,
+    "coll_name": "GLOBAL INSTITUTE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "257/1, Bangalore - Chennai Highway,",
+    "addr_l2": "Walaja Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 632509,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1524,
+    "coll_name": "ANNAMALAIAR COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Chetpet - Polur Road,",
+    "addr_l2": "Polur Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 606902,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1525,
+    "coll_name": "PODHIGAI COLLEGE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "",
+    "addr_l2": "Tirupattur Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 635601,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1526,
+    "coll_name": "SRI KRISHNA COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Sri Krishna Nagar, TRS Campus,",
+    "addr_l2": "Arakkonam Taluk, Vellore District.",
+    "state": "Tamilnadu",
+    "pin_code": 631003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1529,
+    "coll_name": "OXFORD COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Venmani,",
+    "addr_l2": "Polur Taluk, Thiruvannamalai District.",
+    "state": "Tamilnadu",
+    "pin_code": 606803,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 1605,
+    "coll_name": "IDHAYA ENGINEERING COLLEGE FOR WOMEN",
+    "addr_l1": "",
+    "addr_l2": "Chinnasalem Taluk, Villupuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 606201,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 2005,
+    "coll_name": "GOVERNMENT COLLEGE OF TECHNOLOGY, COIMBATORE",
+    "addr_l1": "Thadagam Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641013,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2006,
+    "coll_name": "P.S.G. COLLEGE OF TECHNOLOGY (AUTONOMOUS)                                       ",
+    "addr_l1": "Avinashi Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641004,
+    "catcode": 3,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2007,
+    "coll_name": "COIMBATORE INSTITUTE OF TECHNOLOGY (AUTONOMOUS)                                 ",
+    "addr_l1": "",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641014,
+    "catcode": 3,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2025,
+    "coll_name": "ANNA UNIVERSITY REGIONAL CAMPUS, COIMBATORE",
+    "addr_l1": "Maruthamalai Main Road, Navavoor",
+    "addr_l2": "Bharathiar University Post ,Somayampalayam",
+    "state": "TAMIL NADU",
+    "pin_code": 641046,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2302,
+    "coll_name": "SRI SHANMUGHA COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Thiruchengode - Sankari Main Road,",
+    "addr_l2": "Sankari Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 637304,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2314,
+    "coll_name": "MUTHAYAMMAL COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Kakkaveri,",
+    "addr_l2": "Rasipuram Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637408,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2327,
+    "coll_name": "N.S.N. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "N.S.N. Kalvi Nagar,  NH-7",
+    "addr_l2": "Karur Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2328,
+    "coll_name": "K S R INSTITUTE FOR ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2329,
+    "coll_name": "RATHINAM TECHNICAL CAMPUS                                                       ",
+    "addr_l1": "Rathinam Techzone Campus, Pollachi Road,",
+    "addr_l2": "Coimbatore - South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641021,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2332,
+    "coll_name": "AISHWARYA COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "Errattaikaradu,",
+    "addr_l2": "Bhavani Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638312,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2337,
+    "coll_name": "VIDHYA MANDHIR INSTITUTE OF TECHNOLOGY                                          ",
+    "addr_l1": "Perundurai - Chennimalai State Highway,",
+    "addr_l2": "Perundurai Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638052,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2338,
+    "coll_name": "ASIAN COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Asian College Road, Near NH - 948, Saravanampatti,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641110,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2340,
+    "coll_name": "SRI VENKATESHWARA INSTITUTE OF ENGINEERING                                      ",
+    "addr_l1": "Nh - 7, Bangalore Main Road,",
+    "addr_l2": "Hosur Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635115,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2341,
+    "coll_name": "GANESH COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Attur Main Road, Mettupatti",
+    "addr_l2": "Valapady Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2342,
+    "coll_name": "SRI RANGANATHAR INSTITUTE OF ENGINEERING & TECHNOLOGY                           ",
+    "addr_l1": "1/162, Thudiyalur To Kovilpalayam Rd,",
+    "addr_l2": "Annur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641110,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2343,
+    "coll_name": "INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY                                         ",
+    "addr_l1": "Foulke'S Compound, Thillai Nagar,",
+    "addr_l2": "-- Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636001,
+    "catcode": 5,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2345,
+    "coll_name": "DHIRAJLAL GANDHI COLLEGE OF TECHNOLOGY                                          ",
+    "addr_l1": "Salem Bengaluru Highway,Opposite To Airport,",
+    "addr_l2": "Omalur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636309,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2346,
+    "coll_name": "SHREE SATHYAM COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "NH-47, Manjakkalpatti,",
+    "addr_l2": "Sankari Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 637301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2347,
+    "coll_name": "AVS COLLEGE OF TECHNOLOGY                                                       ",
+    "addr_l1": "Attur Main Road,Near Avs College Of Arts",
+    "addr_l2": "Valapady Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636106,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2349,
+    "coll_name": "DHAANISH AHMED INSTITUTE OF TECHNOLOGY                                          ",
+    "addr_l1": "K.G. Chavadi,",
+    "addr_l2": "Madukkarai Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2350,
+    "coll_name": "JAIRUPAA COLLEGE OF ENGINEERING                                                 ",
+    "addr_l1": "Thottiapalayam,",
+    "addr_l2": "Kangeyam Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 641604,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2354,
+    "coll_name": "POLLACHI INSTITUTE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "107/1B, Main Road, PIE Tech Campus,",
+    "addr_l2": "Pollachi Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642205,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2355,
+    "coll_name": "CHERAN COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Cheran Nagar, NH-67, Coimbatore Main Road,",
+    "addr_l2": "Aravakurichi Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2356,
+    "coll_name": "ARULMURUGAN COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "",
+    "addr_l2": "Aravakkurichi Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2357,
+    "coll_name": "V.S.B. COLLEGE OF ENGINEERING TECHNICAL CAMPUS                                  ",
+    "addr_l1": "NH-209,Coimbatore-Pollachi Main Road",
+    "addr_l2": "Kinathukadavu Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2358,
+    "coll_name": "SCAD INSTITUTE OF TECHNOLOGY                                                    ",
+    "addr_l1": "Knowledge City,",
+    "addr_l2": "Palladam Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 641664,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2360,
+    "coll_name": "SUGUNA COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Nehru Nagar West, Kalapatty Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641014,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2362,
+    "coll_name": "HOSUR INSTITUTE OF TECHNOLOGY AND SCIENCE                                       ",
+    "addr_l1": "",
+    "addr_l2": "Hosur Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635115,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2367,
+    "coll_name": "ARJUN COLLEGE OF TECHNOLOGY                                                     ",
+    "addr_l1": "Thamaraikulam-Negamam Road",
+    "addr_l2": "Kinathukadavu Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642120,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2368,
+    "coll_name": "VISHNU LAKSHMI COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "10/1, Kambar Street,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2369,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING - DHARMAPURI                                  ",
+    "addr_l1": "",
+    "addr_l2": "Dharmapuri Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 636704,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2377,
+    "coll_name": "PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH                                ",
+    "addr_l1": "NH 544, Avinashi Road,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2601,
+    "coll_name": "ADHIYAMAAN COLLEGE OF ENGINEERING (AUTONOMOUS)                                  ",
+    "addr_l1": "Dr. MGR Nagar,",
+    "addr_l2": "Hosur Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2602,
+    "coll_name": "ANNAI MATHAMMAL SHEELA ENGINEERING COLLEGE                                      ",
+    "addr_l1": "",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637013,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2603,
+    "coll_name": "GOVERNMENT COLLEGE OF  ENGINEERING - BARGUR (AUTONOMOUS)",
+    "addr_l1": "",
+    "addr_l2": "Krishnagiri Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635104,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2606,
+    "coll_name": "JAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Hogenakkal Main Road,",
+    "addr_l2": "Pennagaram Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 636813,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2607,
+    "coll_name": "K.S.RANGASAMY COLLEGE OF TECHNOLOGY (AUTONOMOUS)                                ",
+    "addr_l1": "KSR Kalvi Nagar,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2608,
+    "coll_name": "M.KUMARASAMY COLLEGE OF ENGINEERING",
+    "addr_l1": "",
+    "addr_l2": "Manmangalam Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639113,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2609,
+    "coll_name": "MAHENDRA ENGINEERING COLLEGE (AUTONOMOUS)                                       ",
+    "addr_l1": "Mahendhirapuri,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2610,
+    "coll_name": "MUTHAYAMMAL ENGINEERING COLLEGE (AUTONOMOUS)                                    ",
+    "addr_l1": "Kakkaveri,",
+    "addr_l2": "Rasipuram Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637408,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2611,
+    "coll_name": "PAAVAI ENGINEERING COLLEGE (AUTONOMOUS)                                         ",
+    "addr_l1": "NH-7, Paavai Nagar,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637018,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2612,
+    "coll_name": "P G P COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "NH-7 Namakkal-Karur Road",
+    "addr_l2": "Paramathi Velur Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637207,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2613,
+    "coll_name": "K.S.R. COLLEGE OF ENGINEERING",
+    "addr_l1": "K.S.R. Kalvi Nagar,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2614,
+    "coll_name": "S.S.M. COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Nh-47, Salem Main Road,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 638183,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2615,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING - SALEM",
+    "addr_l1": "NH 7, Bangalore Highway,",
+    "addr_l2": "Omalur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636011,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2616,
+    "coll_name": "SAPTHAGIRI COLLEGE OF ENGINEERING                                               ",
+    "addr_l1": "Nh - 44,Krishnagiri Main Road",
+    "addr_l2": "Palacode Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635205,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2617,
+    "coll_name": "SENGUNTHAR ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637205,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2618,
+    "coll_name": "SONA COLLEGE OF TECHNOLOGY (AUTONOMOUS)                                         ",
+    "addr_l1": "Junction Main Road,",
+    "addr_l2": "Salem Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2620,
+    "coll_name": "VIVEKANANDHA COLLEGE OF ENGINEERING FOR WOMEN",
+    "addr_l1": "",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637205,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 2621,
+    "coll_name": "ER.PERUMAL MANIMEKALAI COLLEGE OF ENGINEERING",
+    "addr_l1": "",
+    "addr_l2": "Hosur Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2622,
+    "coll_name": "V.S.B. ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "N.H.67, Karur - Coimbatore Main Road",
+    "addr_l2": "Aravakurichi Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2623,
+    "coll_name": "MAHENDRA COLLEGE OF ENGINEERING                                                 ",
+    "addr_l1": "Mahendra Salem Campus, Attur-Salem Main Road,",
+    "addr_l2": "Valapady Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636106,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2624,
+    "coll_name": "GNANAMANI COLLEGE OF TECHNOLOGY",
+    "addr_l1": "NH-7,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637018,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2625,
+    "coll_name": "THE KAVERY ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "",
+    "addr_l2": "Mettur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636453,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2627,
+    "coll_name": "SELVAM COLLEGE OF TECHNOLOGY                                                    ",
+    "addr_l1": "NH-7, Ponnusamy Nagar,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2628,
+    "coll_name": "PAAVAI COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "NH 44, Paavai Nagar, Puduchatram,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637018,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2629,
+    "coll_name": "SENGUNTHAR COLLEGE OF ENGINEERING                                               ",
+    "addr_l1": "Tiruchengode",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637205,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2630,
+    "coll_name": "CHETTINAD COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "NH-67 Karur - Trichy Highways,",
+    "addr_l2": "Karur Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639114,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2631,
+    "coll_name": "KING COLLEGE OF TECHNOLOGY                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637020,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2632,
+    "coll_name": "MAHENDRA INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "Mahendhirapuri, Mallasamudram West",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2633,
+    "coll_name": "VIDYAA VIKAS COLLEGE OF ENGINEERING AND TECHNOLOGY                              ",
+    "addr_l1": "",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637214,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2634,
+    "coll_name": "EXCEL ENGINEERING COLLEGE                                                       ",
+    "addr_l1": "NH 544 Salem Main Road,",
+    "addr_l2": "Komarapalayam Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637303,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2635,
+    "coll_name": "CMS COLLEGE OF ENGINEERING                                                      ",
+    "addr_l1": "C M S Nagar,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2636,
+    "coll_name": "A V S ENGINEERING COLLEGE                                                       ",
+    "addr_l1": "Military Road, Near Sakthi Kailash Womens College,",
+    "addr_l2": "-- Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2638,
+    "coll_name": "MAHENDRA ENGINEERING COLLEGE FOR WOMEN                                          ",
+    "addr_l1": "",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637205,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 2639,
+    "coll_name": "NARASU'S SARATHY INSTITUTE OF TECHNOLOGY                                        ",
+    "addr_l1": "",
+    "addr_l2": "Kadayampatti Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636305,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2640,
+    "coll_name": "JAYALAKSHMI INSTITUTE OF TECHNOLOGY                                             ",
+    "addr_l1": "",
+    "addr_l2": "Nallampalli Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 636352,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2641,
+    "coll_name": "VARUVAN VADIVELAN INSTITUTE OF TECHNOLOGY                                       ",
+    "addr_l1": "NH-44, Krishnagiri Main Road,",
+    "addr_l2": "Dharmapuri Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 636703,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2642,
+    "coll_name": "P.S.V.COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Chennai - Bangalore Highway (NH-46),",
+    "addr_l2": "Krishnagiri Taluk, Krishnagiri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635108,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2643,
+    "coll_name": "BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN                                  ",
+    "addr_l1": "43/3,",
+    "addr_l2": "Attur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636112,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 2646,
+    "coll_name": "TAGORE INSTITUTE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "NH-79, Salem-Chennai By Pass Road,",
+    "addr_l2": "Attur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636112,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2647,
+    "coll_name": "J.K.K. NATTRAJA COLLEGE OF ENGINEERING AND TECHNOLOGY                           ",
+    "addr_l1": "Natarajapuram, NH - 544, (Salem To Coimbatore),",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 638183,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2648,
+    "coll_name": "ANNAPOORANA ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "Sankari Main Road, NH-47,",
+    "addr_l2": "Salem Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636308,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2649,
+    "coll_name": "KARUR COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "Karur-Erode Main Road, Sanjay Nagar,",
+    "addr_l2": "Karur Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639008,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2650,
+    "coll_name": "CHRIST THE KING ENGINEERING COLLEGE                                             ",
+    "addr_l1": "Cecilia Gardens,",
+    "addr_l2": "Mettupalayam Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641104,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2651,
+    "coll_name": "JAI SHRIRAM ENGINEERING COLLEGE",
+    "addr_l1": "Dharapuram Road,",
+    "addr_l2": "Tirupur Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 638660,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2652,
+    "coll_name": "AL-AMEEN ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "Karundevanpalayam,",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638104,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2653,
+    "coll_name": "KNOWLEDGE INSTITUTE OF TECHNOLOGY                                               ",
+    "addr_l1": "KIOT Campus,",
+    "addr_l2": "Salem Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 637504,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2654,
+    "coll_name": "S V S COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "Jp Nagar, Arasampalayam",
+    "addr_l2": "Kinathukadavu Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2655,
+    "coll_name": "V K S COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Near Ayyarmalai",
+    "addr_l2": "Krishnarayapuram Taluk, Karur District.",
+    "state": "Tamilnadu",
+    "pin_code": 639120,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2656,
+    "coll_name": "BUILDERS ENGINEERING COLLEGE",
+    "addr_l1": "EBET Knowledge Park, Nathakadaiyur,",
+    "addr_l2": "Kangayam Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 638108,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2657,
+    "coll_name": "PAVAI COLLEGE OF TECHNOLOGY                                                     ",
+    "addr_l1": "Salem-Namakkal Highways,",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637018,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2658,
+    "coll_name": "VSA GROUP OF INSTITUTIONS",
+    "addr_l1": "NH-47,Main Road,",
+    "addr_l2": "Salem Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636010,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2659,
+    "coll_name": "SALEM COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Salem-Attur Main Road,  Near Toll Plaza,",
+    "addr_l2": "Valappady Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636111,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2660,
+    "coll_name": "GNANAMANI COLLEGE OF ENGINEERING",
+    "addr_l1": "NH-7,  A. K. Samuthiram, Pachal Post",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637018,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2661,
+    "coll_name": "VIVEKANANDHA COLLEGE OF TECHNOLOGY FOR WOMEN                                    ",
+    "addr_l1": "Elayampalayam,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637205,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 2662,
+    "coll_name": "DR.NAGARATHINAM'S COLLEGE OF ENGINEERING                                        ",
+    "addr_l1": "Mallur Via,",
+    "addr_l2": "Rasipuram Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637505,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2663,
+    "coll_name": "S R S COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Harur Main Road",
+    "addr_l2": "Salem Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636122,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2664,
+    "coll_name": "EXCEL COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "NH - 544 Salem Main Road, Komarapalayam",
+    "addr_l2": "B.Komarapalayam Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637303,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2665,
+    "coll_name": "MAHENDRA INSTITUTE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "Mahendhirapuri,",
+    "addr_l2": "Tiruchengode Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2666,
+    "coll_name": "THE KAVERY COLLEGE OF ENGINEERING                                               ",
+    "addr_l1": "",
+    "addr_l2": "Mettur Taluk, Salem District.",
+    "state": "Tamilnadu",
+    "pin_code": 636453,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2673,
+    "coll_name": "SREE SAKTHI ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "",
+    "addr_l2": "Coimbatore - North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641104,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2682,
+    "coll_name": "AMBAL PROFESSIONAL GROUP OF INSTITUTIONS                                        ",
+    "addr_l1": "Professional Nagar,",
+    "addr_l2": "Palladam Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 641662,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2683,
+    "coll_name": "SHREENIVASA ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "Bommidi (Via)",
+    "addr_l2": "Papireddipatti Taluk, Dharmapuri District.",
+    "state": "Tamilnadu",
+    "pin_code": 635301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2702,
+    "coll_name": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY (AUTONOMOUS)                              ",
+    "addr_l1": "Sathy-Bhavani (State Highway),",
+    "addr_l2": "Sathyamangalam Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638401,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2704,
+    "coll_name": "COIMBATORE INSTITUTE OF ENGINEERING AND TECHNOLOGY                              ",
+    "addr_l1": "Thondamuthur Via,",
+    "addr_l2": "Coimbatore (South) Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2705,
+    "coll_name": "CSI COLLEGE OF ENGINEERING                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Coonoor Taluk, The Nilgiris District.",
+    "state": "Tamilnadu",
+    "pin_code": 643215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2706,
+    "coll_name": "DR. MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+    "addr_l1": "Udumalai Road,",
+    "addr_l2": "Pollachi Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2707,
+    "coll_name": "ERODE SENGUNTHAR ENGINEERING COLLEGE                                            ",
+    "addr_l1": "",
+    "addr_l2": "Perundurai Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638057,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2708,
+    "coll_name": "HINDUSTHAN COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)                   ",
+    "addr_l1": "Coimbatore To Pollachi Main Road,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641032,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2709,
+    "coll_name": "INSTITUTE OF ROAD AND TRANSPORT TECHNOLOGY                                      ",
+    "addr_l1": "",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638316,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2710,
+    "coll_name": "KARPAGAM COLLEGE OF ENGINEERING (AUTONOMOUS)                                    ",
+    "addr_l1": "SF No.758, 759 And 760,",
+    "addr_l2": "Coimbatore-South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641032,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2711,
+    "coll_name": "KONGU ENGINEERING COLLEGE (AUTONOMOUS)",
+    "addr_l1": "Perundurai Railway Station Road,",
+    "addr_l2": "Perundurai Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638060,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2712,
+    "coll_name": "KUMARAGURU COLLEGE OF TECHNOLOGY  (AUTONOMOUS)                                  ",
+    "addr_l1": "Post Box No. 2034",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641049,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2713,
+    "coll_name": "M.P. NACHIMUTHU M. JAGANATHAN ENGINEERING COLLEGE                               ",
+    "addr_l1": "Sudhanandhen Kalvi Nagar,",
+    "addr_l2": "Perundurai Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638112,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2714,
+    "coll_name": "MAHARAJA ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "",
+    "addr_l2": "Avinashi Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641654,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2715,
+    "coll_name": "NANDHA ENGINEERING COLLEGE",
+    "addr_l1": "Erode - Perundurai Road, Vaikkalmedu",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638052,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2716,
+    "coll_name": "PARK COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "Avinashi Road (NH-47),",
+    "addr_l2": "-- Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641659,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2717,
+    "coll_name": "SASURIE COLLEGE OF ENGINEERING                                                  ",
+    "addr_l1": "Uthukuli Road,",
+    "addr_l2": "Uthukuli Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 638056,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2718,
+    "coll_name": "SRI KRISHNA COLLEGE OF ENGINEERING & TECHNOLOGY (AUTONOMOUS)",
+    "addr_l1": "",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641008,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2719,
+    "coll_name": "SRI RAMAKRISHNA ENGINEERING COLLEGE (AUTONOMOUS)                                ",
+    "addr_l1": "Vattamalaipalayam,",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641022,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2721,
+    "coll_name": "TAMILNADU COLLEGE OF ENGINEERING                                                ",
+    "addr_l1": "Palanisame Ravi Nagar,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641659,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2722,
+    "coll_name": "SRI KRISHNA COLLEGE OF TECHNOLOGY (AUTONOMOUS)",
+    "addr_l1": "",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641042,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2723,
+    "coll_name": "VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)                      ",
+    "addr_l1": "Perundurai Road,",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638012,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2725,
+    "coll_name": "SRI RAMAKRISHNA INSTITUTE OF TECHNOLOGY (AUTONOMOUS)",
+    "addr_l1": "Pachapalayam,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641010,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2726,
+    "coll_name": "SNS COLLEGE OF TECHNOLOGY (AUTONOMOUS)                                          ",
+    "addr_l1": "SNS Kalvi Nagar,NH 209. Sathy Main  Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641035,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2727,
+    "coll_name": "SRI SHAKTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Sri Shakthi Nagar, L & T By Pass,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2729,
+    "coll_name": "NEHRU INSTITUTE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "Nehru Gardens,",
+    "addr_l2": "Madukkarai Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2730,
+    "coll_name": "MAHARAJA INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "Arasur",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641407,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2731,
+    "coll_name": "R V S COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Kumaran Kottam Campus",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641402,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2732,
+    "coll_name": "INFO INSTITUTE OF ENGINEERING                                                   ",
+    "addr_l1": "N.H.209, Sathy Road,",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2733,
+    "coll_name": "ANGEL COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "P K Palayam, Ugayanur, Dharapuram Main Road",
+    "addr_l2": "Tiruppur Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 641665,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2734,
+    "coll_name": "SNS COLLEGE OF ENGINEERING                                                      ",
+    "addr_l1": "SNS Kalvi Nagar, Sathy Main Road",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2735,
+    "coll_name": "KARPAGAM INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "L",
+    "addr_l2": "Coimbatore-South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2736,
+    "coll_name": "DR.N G P INSTITUTE OF TECHNOLOGY                                                ",
+    "addr_l1": "Dr.N G P Nagar, Kalappatti Road,",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641048,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2737,
+    "coll_name": "RANGANATHAN ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "REC Kalvi Nagar,  Thondamuthur (Via)",
+    "addr_l2": "Perur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2738,
+    "coll_name": "SASURIE ACADEMY OF ENGINEERING                                                  ",
+    "addr_l1": "NH-209, Sathy Main Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641653,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2739,
+    "coll_name": "SRI ESHWAR COLLEGE OF ENGINEERING                                               ",
+    "addr_l1": "Vadasithur (Via),",
+    "addr_l2": "Kinathukadavu Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641202,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2740,
+    "coll_name": "HINDUSTHAN INSTITUTE OF TECHNOLOGY                                              ",
+    "addr_l1": "Pollachi Main Road,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641032,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2741,
+    "coll_name": "P A COLLEGE OF ENGINEERING AND TECHNOLOGY                                       ",
+    "addr_l1": "Palladam Road,",
+    "addr_l2": "Pollachi Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642002,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2743,
+    "coll_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+    "addr_l1": "Nh-47, Palakkad Main Road, Navakkarai Post, Near Nandhi Temple",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2744,
+    "coll_name": "ADITHYA INSTITUTE OF TECHNOLOGY                                                 ",
+    "addr_l1": "Sathy Main Road (Nh 209)",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2745,
+    "coll_name": "KATHIR COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Wisdom Tree,  Avinashi Road,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641062,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2747,
+    "coll_name": "SHREE VENKATESHWARA HI-TECH ENGINEERING COLLEGE                                 ",
+    "addr_l1": "",
+    "addr_l2": "Gobichettipalayam Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638455,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2748,
+    "coll_name": "SURYA ENGINEERING COLLEGE                                                       ",
+    "addr_l1": "Perundurai Road,",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638107,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2749,
+    "coll_name": "EASA COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "NH-47,Palakkad Main Road,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2750,
+    "coll_name": "KIT - KALAIGNAR KARUNANIDHI INSTITUTE OF TECHNOLOGY                             ",
+    "addr_l1": "",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641402,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2751,
+    "coll_name": "KGISL INSTITUTE OF TECHNOLOGY                                                   ",
+    "addr_l1": "365, Thudiyalur Road, KGISL Campus,",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641035,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2752,
+    "coll_name": "NANDHA COLLEGE OF TECHNOLOGY                                                    ",
+    "addr_l1": "Erode - Perundurai Road, Vaikkalmedu",
+    "addr_l2": "Erode Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638052,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2753,
+    "coll_name": "PPG INSTITUTE OF TECHNOLOGY                                                     ",
+    "addr_l1": "NH-209, Sathy Road,",
+    "addr_l2": "Coimbatore Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641035,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2754,
+    "coll_name": "SRI RAMANATHAN ENGINEERING COLLEGE                                              ",
+    "addr_l1": "Uthukuli Main Road, Vijayamangalam",
+    "addr_l2": "Uthukuli Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 638056,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2755,
+    "coll_name": "NEHRU INSTITUTE OF TECHNOLOGY                                                   ",
+    "addr_l1": "Jawahar Gardens,",
+    "addr_l2": "Madukkarai Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2758,
+    "coll_name": "J K K MUNIRAJAH COLLEGE OF TECHNOLOGY                                           ",
+    "addr_l1": "",
+    "addr_l2": "Gobichettipalayam Taluk, Erode District.",
+    "state": "Tamilnadu",
+    "pin_code": 638506,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2761,
+    "coll_name": "UNITED INSTITUTE OF TECHNOLOGY                                                  ",
+    "addr_l1": " Periyanaickenpalayam",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641020,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2762,
+    "coll_name": "JANSONS INSTITUTE OF TECHNOLOGY                                                 ",
+    "addr_l1": "SF No.443/1,443/2,442/1A,442/1B,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641659,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2763,
+    "coll_name": "AKSHAYA COLLEGE OF ENGINEERING & TECHNOLOGY                                     ",
+    "addr_l1": "",
+    "addr_l2": "Kinathukadavu Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 642109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2764,
+    "coll_name": "K P R INSTITUTE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641407,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2765,
+    "coll_name": "SRIGURU INSTITUTE OF TECHNOLOGY                                                 ",
+    "addr_l1": "Varathaiyangarpalayam, Near Saravanampatti",
+    "addr_l2": "Coimbatore North Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641110,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2767,
+    "coll_name": "SRG ENGINEERING COLLEGE                                                         ",
+    "addr_l1": "SH-95, Mohanur Road",
+    "addr_l2": "Namakkal Taluk, Namakkal District.",
+    "state": "Tamilnadu",
+    "pin_code": 637017,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2768,
+    "coll_name": "PARK COLLEGE OF TECHNOLOGY                                                      ",
+    "addr_l1": "Prema Ravi Nagar,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641659,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2769,
+    "coll_name": "J C T COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2770,
+    "coll_name": "STUDY WORLD COLLEGE OF ENGINEERING",
+    "addr_l1": "1/2A-1 Alagu Nachiamman Kovil Road,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2771,
+    "coll_name": "DR.NALLINI INSTITUTE OF ENGINEERING AND TECHNOLOGY                              ",
+    "addr_l1": "Dr.Nallini Nagar, Palani Bye-Pass Road,",
+    "addr_l2": "Dharapuram Taluk, Tiruppur District.",
+    "state": "Tamilnadu",
+    "pin_code": 638673,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2772,
+    "coll_name": "C M S COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Appachigoundenpathy,",
+    "addr_l2": "Coimbatore South Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641032,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 2776,
+    "coll_name": "RVS TECHNICAL CAMPUS - COIMBATORE                                               ",
+    "addr_l1": "Kumaran Kottam Campus,",
+    "addr_l2": "Sulur Taluk, Coimbatore District.",
+    "state": "Tamilnadu",
+    "pin_code": 641402,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3011,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, TIRUCHIRAPPALLI                              ",
+    "addr_l1": "Trichy",
+    "addr_l2": "Tiruverumbur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620024,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3016,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, ARIYALUR                                     ",
+    "addr_l1": "",
+    "addr_l2": "Ariyalur Taluk, Ariyalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621704,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3018,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, THIRUKKUVALAI                                ",
+    "addr_l1": "",
+    "addr_l2": "Thirukkuvalai Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 610204,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3019,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, PANRUTI                                      ",
+    "addr_l1": "Chennai - Kumbakonam Highway,",
+    "addr_l2": "Panruti Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 607106,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3021,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, PATTUKKOTTAI                                 ",
+    "addr_l1": "ECR Road,",
+    "addr_l2": "Pattukkottai Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 614701,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3403,
+    "coll_name": "MAHALAKSHMI ENGINEERING COLLEGE                                                 ",
+    "addr_l1": "Trichy-Salem Highway,Near No.1 Tollgate,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621213,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3410,
+    "coll_name": "KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Nellikuppam Main Road,",
+    "addr_l2": "Cuddalore Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 607109,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3425,
+    "coll_name": "C.K. COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "Jayaram Nagar,",
+    "addr_l2": "Cuddalore Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 607003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3451,
+    "coll_name": "SMR EAST COAST COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "East Coast Road,",
+    "addr_l2": "Peravurani Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 614612,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3454,
+    "coll_name": "SRI RAMAKRISHNA COLLEGE OF ENGINEERING                                          ",
+    "addr_l1": "Sri Saradha Nagar, NH-45",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621113,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3456,
+    "coll_name": "K.S.K COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Thanjavur Main Road,",
+    "addr_l2": "Kumbakonam Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 612702,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3457,
+    "coll_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+    "addr_l1": "Thuraiyur Road",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621212,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3458,
+    "coll_name": "DHANALAKSHMI SRINIVASAN INSTITUTE OF RESEARCH AND TECHNOLOGY",
+    "addr_l1": "NH-45, Trichy - Chennai Main Road",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621113,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3459,
+    "coll_name": "DHANALAKSHMI SRINIVASAN INSTITUTE OF TECHNOLOGY                                 ",
+    "addr_l1": "NH-45, Trichy-Chennai Trunk Road,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621112,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3460,
+    "coll_name": "SUREYA COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Somu Nagar,",
+    "addr_l2": "Manachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621132,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3461,
+    "coll_name": "HAJI SHEIK ISMAIL ENGINEERING COLLEGE                                           ",
+    "addr_l1": "",
+    "addr_l2": "Thirukkuvalai Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 611103,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3462,
+    "coll_name": "ARIYALUR ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "NH-227 Trichy - Chidambaram High Way,",
+    "addr_l2": "Ariyalur Taluk, Ariyalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621707,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3463,
+    "coll_name": "ELIZABETH COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "Selcrim Land,",
+    "addr_l2": "Veppanthattai Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3464,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING - THANJAVUR                                   ",
+    "addr_l1": "Gandarvakottai Road,",
+    "addr_l2": "Budalur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 613402,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3465,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING - SRIRANGAM                                   ",
+    "addr_l1": "GCES,",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620012,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3466,
+    "coll_name": "NELLIANDAVAR INSTITUTE OF TECHNOLOGY                                            ",
+    "addr_l1": "Trichy Main Road,",
+    "addr_l2": "Ariyalur Taluk, Ariyalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621704,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3701,
+    "coll_name": "K.RAMAKRISHNAN COLLEGE OF TECHNOLOGY                                            ",
+    "addr_l1": "Kariyamanickam Road,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621112,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3760,
+    "coll_name": "SIR ISSAC NEWTON COLLEGE OF ENGINEERING AND TECHNOLOGY                          ",
+    "addr_l1": "Velankanni Road,",
+    "addr_l2": "Nagapattinam Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 611102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3766,
+    "coll_name": "STAR LION COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "Main Road,",
+    "addr_l2": "Thanjavur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 614206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3781,
+    "coll_name": "K.K.C COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "K.K.C Kalvi Valagam,",
+    "addr_l2": "Udaiyarpalayam Taluk, Ariyalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621802,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3782,
+    "coll_name": "OASYS INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Trichy-Thuraiyur Main Road,",
+    "addr_l2": "Musiri Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621006,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3786,
+    "coll_name": "M.A.M. SCHOOL OF ENGINEERING                                                    ",
+    "addr_l1": "Trichy - Chennai Trunk Road,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3795,
+    "coll_name": "SRM TRP ENGINEERING COLLEGE",
+    "addr_l1": "Irungalur , Mannachanallur Taluk, Near Samayapuram",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3801,
+    "coll_name": "A.V.C COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "",
+    "addr_l2": "Mayiladuthurai Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 609305,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3802,
+    "coll_name": "SHRI ANGALAMMAN COLLEGE OF ENGINEERING AND TECHNOLOGY                           ",
+    "addr_l1": "",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3803,
+    "coll_name": "ANJALAI AMMAL MAHALINGAM ENGINEERING COLLEGE                                    ",
+    "addr_l1": "",
+    "addr_l2": "Needamangalam Taluk, Thiruvarur District.",
+    "state": "Tamilnadu",
+    "pin_code": 614403,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3804,
+    "coll_name": "ARASU ENGINEERING COLLEGE                                                       ",
+    "addr_l1": "Chennai Main Road,",
+    "addr_l2": "Kumbakonam Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 612501,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3805,
+    "coll_name": "DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE",
+    "addr_l1": "Thuraiyur Road,",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621212,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3806,
+    "coll_name": "E.G.S.PILLAY ENGINEERING COLLEGE (AUTONOMOUS)                                   ",
+    "addr_l1": "Old Nagore Road,",
+    "addr_l2": "Nagapattinam Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 611002,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3807,
+    "coll_name": "J.J.COLLEGE OF ENGINEERING AND TECHNOLOGY                                       ",
+    "addr_l1": "",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3808,
+    "coll_name": "JAYARAM COLLEGE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "",
+    "addr_l2": "Thuraiyur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621014,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3809,
+    "coll_name": "KURINJI COLLEGE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "Trichy - Dindigul NH Road,",
+    "addr_l2": "Manapparai Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621307,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3810,
+    "coll_name": "M.A.M COLLEGE OF ENGINEERING",
+    "addr_l1": "Trichy-Chennai Trunk Road,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3811,
+    "coll_name": "M.I.E.T ENGINEERING COLLEGE",
+    "addr_l1": "Trichy Pudukkottai Main Road,",
+    "addr_l2": "Tiruchirappalli Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620007,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3812,
+    "coll_name": "MOOKAMBIGAI COLLEGE OF ENGINEERING",
+    "addr_l1": "Srinivasanagar,",
+    "addr_l2": "Kulathur Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3813,
+    "coll_name": "OXFORD ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3814,
+    "coll_name": "P.R.ENGINEERING COLLEGE                                                         ",
+    "addr_l1": "Thanjavur-Trichy Highways,",
+    "addr_l2": "Thanjavur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 613403,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3815,
+    "coll_name": "PAVENDAR BHARATHIDASAN COLLEGE OF ENGINEERING AND TECHNOLOGY                    ",
+    "addr_l1": "Thanjai Natarajan Nagar,Pudukottai Main Road",
+    "addr_l2": "Kulathur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620024,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3817,
+    "coll_name": "ROEVER ENGINEERING COLLEGE                                                      ",
+    "addr_l1": "",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621220,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3819,
+    "coll_name": "SARANATHAN COLLEGE OF ENGINEERING                                               ",
+    "addr_l1": "Venkateswara Nagar,",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620012,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3820,
+    "coll_name": "TRICHY ENGINEERING COLLEGE",
+    "addr_l1": "Sivagnanam Nagar,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621132,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3821,
+    "coll_name": "A.R.J COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Thirumakkottai Main Road,",
+    "addr_l2": "Mannargudi Taluk, Thiruvarur District.",
+    "state": "Tamilnadu",
+    "pin_code": 614001,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3822,
+    "coll_name": "DR.NAVALAR NEDUNCHEZHIYAN COLLEGE OF ENGINEERING                                ",
+    "addr_l1": "",
+    "addr_l2": "Tittagudi Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 606303,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3823,
+    "coll_name": "SRINIVASAN ENGINEERING COLLEGE",
+    "addr_l1": "Thuraiyur Road,",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621212,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3825,
+    "coll_name": "St. JOSEPH'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "A.S.Nagar,",
+    "addr_l2": "Thanjavur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 613403,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3826,
+    "coll_name": "KONGUNADU COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "Trichy - Namakkal Main Road,",
+    "addr_l2": "Thottiam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3829,
+    "coll_name": "M.A.M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Trichy - Chennai Trunk Road,",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621105,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3830,
+    "coll_name": "K. RAMAKRISHNAN COLLEGE OF ENGINEERING                                          ",
+    "addr_l1": "",
+    "addr_l2": "Mannachanallur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621112,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3831,
+    "coll_name": "INDRA GANESAN COLLEGE OF ENGINEERING                                            ",
+    "addr_l1": "Madurai Main Road (NH45B),",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620012,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3833,
+    "coll_name": "PARISUTHAM INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "addr_l1": "NH-67 Ring Road,",
+    "addr_l2": "Thanjavur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 613006,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3841,
+    "coll_name": "C.A.R.E. GROUP OF INSTITUTIONS                                                  ",
+    "addr_l1": "#27, Thayanur, Dindigul Road",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3843,
+    "coll_name": "M R K INSTITUTE OF TECHNOLOGY                                                   ",
+    "addr_l1": "",
+    "addr_l2": "Kattumannarkoil Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 608301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3844,
+    "coll_name": "SHIVANI ENGINEERING COLLEGE                                                     ",
+    "addr_l1": "Trichy-Dindigul Main Road,",
+    "addr_l2": "Srirangam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 620009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3845,
+    "coll_name": "IMAYAM COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "",
+    "addr_l2": "Thuraiyur Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621206,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3846,
+    "coll_name": "MOTHER TERASA COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Mettusalai,",
+    "addr_l2": "Illuppur Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3847,
+    "coll_name": "ROEVER COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "",
+    "addr_l2": "Perambalur Taluk, Perambalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621220,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3848,
+    "coll_name": "VANDAYAR ENGINEERING COLLEGE                                                    ",
+    "addr_l1": "Mariamman Kovil (Via), Nagai Road,",
+    "addr_l2": "Papanasam Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 613501,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3849,
+    "coll_name": "ANNAI COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Anakudi Road,",
+    "addr_l2": "Kumbakonam Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 612503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3850,
+    "coll_name": "VETRI VINAYAHA COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "Vetri Campus,Namakkal-Trichy Main Road,",
+    "addr_l2": "Thottiam Taluk, Tiruchirapalli District.",
+    "state": "Tamilnadu",
+    "pin_code": 621215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3852,
+    "coll_name": "SRI BHARATHI ENGINEERING COLLEGE FOR WOMEN                                      ",
+    "addr_l1": "",
+    "addr_l2": "Alangudi Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622303,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 3854,
+    "coll_name": "MAHATH AMMA INSTITUTE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "N.M.Nagar, Sithannavasal Road,",
+    "addr_l2": "Illupur Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622101,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3855,
+    "coll_name": "AS-SALAM COLLEGE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "Aduthurai To Anaikkarai Main Road",
+    "addr_l2": "Thiruvidaimaruthur Taluk, Thanjavur District.",
+    "state": "Tamilnadu",
+    "pin_code": 612102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3857,
+    "coll_name": "MEENAKSHI RAMASWAMY ENGINEERING COLLEGE                                         ",
+    "addr_l1": "Trichy Main Road,MR Kalvi Nagar,",
+    "addr_l2": "Udayarpalayam Taluk, Ariyalur District.",
+    "state": "Tamilnadu",
+    "pin_code": 621804,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3859,
+    "coll_name": "SEMBODAI RUKMANI VARATHARAJAN ENGINEERING COLLEGE                               ",
+    "addr_l1": "Sembodai (Post),",
+    "addr_l2": "Vedaraniam Taluk, Nagapattinam District.",
+    "state": "Tamilnadu",
+    "pin_code": 614809,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3860,
+    "coll_name": "St. ANNE'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Panruti Taluk, Cuddalore District.",
+    "state": "Tamilnadu",
+    "pin_code": 607106,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3905,
+    "coll_name": "KINGS COLLEGE OF ENGINEERING                                                    ",
+    "addr_l1": "",
+    "addr_l2": "Gandarvakottai Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 613303,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3908,
+    "coll_name": "MOUNT ZION COLLEGE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "Lena Vilakku,",
+    "addr_l2": "Tirumayam Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622507,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3918,
+    "coll_name": "SHANMUGANATHAN ENGINEERING COLLEGE                                              ",
+    "addr_l1": "",
+    "addr_l2": "Thirumayam Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622507,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3920,
+    "coll_name": "SUDHARSAN ENGINEERING COLLEGE                                                   ",
+    "addr_l1": "NH-336,",
+    "addr_l2": "Kulathur Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622501,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3923,
+    "coll_name": "MNSK COLLEGE OF ENGINEERING                                                     ",
+    "addr_l1": "",
+    "addr_l2": "Alangudi Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622305,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3925,
+    "coll_name": "M.A.R. COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Trichy - Viralimalai Main Road,",
+    "addr_l2": "Viralimalai Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 621316,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3926,
+    "coll_name": "CHENDHURAN COLLEGE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "Lena Vilakku,",
+    "addr_l2": "Thirumayam Taluk, Pudukkottai District.",
+    "state": "Tamilnadu",
+    "pin_code": 622507,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 3940,
+    "coll_name": "ANNAMALAI UNIVERSITY - FACULTY OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "\nDean Faculty of Engineering and Technology, Annamalai University",
+    "addr_l2": "Chidambaram Taluk, Cuddalore District",
+    "state": "TAMILNADU",
+    "pin_code": 608002,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4020,
+    "coll_name": "ANNA UNIVERSITY REGIONAL CAMPUS, TIRUNELVELI",
+    "addr_l1": "Anna University Regional Campus Tirunelveli",
+    "addr_l2": "TRIVANDRUM ROAD                                    ,PALAYAMKOTTAI ",
+    "state": "TAMIL NADU",
+    "pin_code": 627007,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4023,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, NAGERCOIL                                    ",
+    "addr_l1": "",
+    "addr_l2": "Agastheeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629004,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4024,
+    "coll_name": "UNIVERSITY VOC COLLEGE OF ENGINEERING, THOOTHUKUDI                              ",
+    "addr_l1": "7th Street, Bryant Nagar West,",
+    "addr_l2": "Thoothukudi Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628008,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4669,
+    "coll_name": "THAMIRABHARANI ENGINEERING COLLEGE                                              ",
+    "addr_l1": "Chidambaranagar - Vepemkulam Road,",
+    "addr_l2": "Tirunelveli Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627358,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4670,
+    "coll_name": "ROHINI COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Anjugramam-Kanyakumari Main Road,",
+    "addr_l2": "Agastheeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629401,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4672,
+    "coll_name": "STELLA MARY'S  COLLEGE OF ENGINEERING                                           ",
+    "addr_l1": "Aruthengan Vilai, Kallukatti Junction,",
+    "addr_l2": "Agasteeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629202,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4675,
+    "coll_name": "UNIVERSAL COLLEGE OF ENGINEERING & TECHNOLOGY                                   ",
+    "addr_l1": "Anbagam Campus, Radhapuram Road,",
+    "addr_l2": "Radhapuram Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4676,
+    "coll_name": "RENGANAYAGI VARATHARAJ COLLEGE OF ENGINEERING                                   ",
+    "addr_l1": "Sattur - Sivakasi Main Road (Thayilpatti - Via),",
+    "addr_l2": "Sivakasi Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626128,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4677,
+    "coll_name": "LOURDES MOUNT COLLEGE OF ENGINEERING AND TECHNOLOGY                             ",
+    "addr_l1": "Marthandam - Karingal Road,Chundavilai, Mullanganavilai",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629195,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4678,
+    "coll_name": "RAMCO INSTITUTE OF TECHNOLOGY                                                   ",
+    "addr_l1": "North Venganallur Village,",
+    "addr_l2": "Rajapalayam Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4680,
+    "coll_name": "AAA COLLEGE OF ENGINEERING AND TECHNOLOGY                                       ",
+    "addr_l1": "Kamarajar Educational Road,",
+    "addr_l2": "Virudhunagar Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4864,
+    "coll_name": "V V COLLEGE OF ENGINEERING                                                      ",
+    "addr_l1": "V.V. Nagar,",
+    "addr_l2": "Sattankulam Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628656,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4917,
+    "coll_name": "SETHU INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "Pulloor,",
+    "addr_l2": "Kariapatti Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626115,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4927,
+    "coll_name": "MARIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629177,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4928,
+    "coll_name": "MAR EPHRAEM COLLEGE OF ENGINEERING AND TECHNOLOGY                               ",
+    "addr_l1": "Malankara Hills, Marthandam",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629171,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4929,
+    "coll_name": "M.E.T ENGINEERING COLLEGE",
+    "addr_l1": "No:13/142A 9/9, Mogals Garden,",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629304,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4931,
+    "coll_name": "CHANDY COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Chandy Nagar,",
+    "addr_l2": "Thoothukudi Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4932,
+    "coll_name": "IMMANUEL ARASAR J J COLLEGE OF ENGINEERING                                      ",
+    "addr_l1": "Edavilagam,",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629165,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4933,
+    "coll_name": "St.MOTHER THERESA ENGINEERING COLLEGE                                           ",
+    "addr_l1": "",
+    "addr_l2": "Srivaikundam Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628102,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4934,
+    "coll_name": "HOLY CROSS ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "7/131, Holycross Nagar, Vagaikulam Srivaikuntam Rd",
+    "addr_l2": "Srivaikuntam Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628851,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4937,
+    "coll_name": "A.R. COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "A R Nagar, Kadayam-Alangulam Road",
+    "addr_l2": "Ambasamudram Taluk, Tirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627423,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4938,
+    "coll_name": "SIVAJI COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629170,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4941,
+    "coll_name": "UNNAMALAI INSTITUTE OF TECHNOLOGY                                               ",
+    "addr_l1": "Suba Nagar,",
+    "addr_l2": "Kovilpatti Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4943,
+    "coll_name": "SATYAM COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Satyam Nagar, Thovalai(Tk.)",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4944,
+    "coll_name": "ARUNACHALA COLLEGE OF ENGINEERING FOR WOMEN                                     ",
+    "addr_l1": "Thanka Gardens, Manavilai,",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629203,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 4945,
+    "coll_name": "VINS CHRISTIAN WOMEN'S COLLEGE OF ENGINEERING",
+    "addr_l1": "Vins Nagar,",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629807,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 4946,
+    "coll_name": "DMI ENGINEERING COLLEGE",
+    "addr_l1": "Kumarapuram Road,",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4948,
+    "coll_name": "RAJAS INTERNATIONAL INSTITUTE OF TECHNOLOGY FOR WOMEN                           ",
+    "addr_l1": "Ozhuginasery,",
+    "addr_l2": "Nagercoil Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629001,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 4949,
+    "coll_name": "PSN INSTITUTE OF TECHNOLOGY AND SCIENCE                                         ",
+    "addr_l1": "",
+    "addr_l2": "Palayamkottai Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627152,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4950,
+    "coll_name": "TAMIZHAN COLLEGE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "Tamizhan Nagar,",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629304,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4952,
+    "coll_name": "C.S.I. INSTITUTE OF TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629302,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4953,
+    "coll_name": "CAPE INSTITUTE OF TECHNOLOGY                                                    ",
+    "addr_l1": "",
+    "addr_l2": "Radhapuram Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627114,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4954,
+    "coll_name": "DR.SIVANTHI ADITANAR COLLEGE OF ENGINEERING                                     ",
+    "addr_l1": "Tirunelveli Road,",
+    "addr_l2": "Tiruchendur Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628215,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4955,
+    "coll_name": "FRANCIS XAVIER ENGINEERING COLLEGE                                              ",
+    "addr_l1": "103, G2, Bye Pass Road,",
+    "addr_l2": "Palayamkottai Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4956,
+    "coll_name": "JAYAMATHA ENGINEERING COLLEGE",
+    "addr_l1": "Thirurajapuram, Muppandal,",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4957,
+    "coll_name": "JAYARAJ ANNAPACKIAM CSI COLLEGE OF ENGINEERING                                  ",
+    "addr_l1": "Margoschis Nagar,",
+    "addr_l2": "Tiruchendur Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628617,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4959,
+    "coll_name": "KAMARAJ COLLEGE OF ENGINEERING AND TECHNOLOGY                                   ",
+    "addr_l1": "S.P.G. Chidambara Nadar - C.Nagammal Campus, S.P.G.C. Nagar, Near Virudhunagar,",
+    "addr_l2": "Thirumangalam Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625701,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4960,
+    "coll_name": "MEPCO SCHLENK ENGINEERING COLLEGE (AUTONOMOUS)                                  ",
+    "addr_l1": "Sivakasi,",
+    "addr_l2": "Virudhunagar Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4961,
+    "coll_name": "NATIONAL COLLEGE OF ENGINEERING",
+    "addr_l1": "Moondradaippu,",
+    "addr_l2": "Nanguneri Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627151,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4962,
+    "coll_name": "NATIONAL ENGINEERING COLLEGE",
+    "addr_l1": "",
+    "addr_l2": "Kovilpatti Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628503,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4964,
+    "coll_name": "PSN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "",
+    "addr_l2": "Palayamkottai Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627152,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4965,
+    "coll_name": "P.S.R ENGINEERING COLLEGE",
+    "addr_l1": "",
+    "addr_l2": "Sivakasi Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626140,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4966,
+    "coll_name": "PET ENGINEERING COLLEGE",
+    "addr_l1": "",
+    "addr_l2": "Radhapuram Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627117,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4967,
+    "coll_name": "S.VEERASAMY CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY                      ",
+    "addr_l1": "S.V. Nagar,",
+    "addr_l2": "Sivagiri Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627855,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4968,
+    "coll_name": "SARDAR RAJA COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Raja Nagar,",
+    "addr_l2": "Alangulam Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627808,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4969,
+    "coll_name": "SCAD COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Scad Nagar,",
+    "addr_l2": "Cheranmahadevi Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627414,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4970,
+    "coll_name": "SREE SOWDAMBIKA COLLEGE OF ENGINEERING",
+    "addr_l1": "",
+    "addr_l2": "Aruppukottai Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626134,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4971,
+    "coll_name": "St.XAVIER'S CATHOLIC COLLEGE OF ENGINEERING                                     ",
+    "addr_l1": "NH-47, Chunkankadai,",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4972,
+    "coll_name": "AMRITA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Sun Nagar,",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629902,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4973,
+    "coll_name": "RAJAS ENGINEERING COLLEGE                                                       ",
+    "addr_l1": "Raja Nagar,",
+    "addr_l2": "Radhapuram Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627116,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4974,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING - TIRUNELVELI                                 ",
+    "addr_l1": "Kanyakumari Road,",
+    "addr_l2": "Palayamkottai Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627007,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4975,
+    "coll_name": "DR.G.U.POPE COLLEGE OF ENGINEERING                                              ",
+    "addr_l1": "Pope Nagar,",
+    "addr_l2": "Thoothukudi Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628251,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4976,
+    "coll_name": "INFANT JESUS COLLEGE OF ENGINEERING",
+    "addr_l1": "Kamarajar Nagar, Tirunelveli-Thoothukudi Highway NH 138",
+    "addr_l2": "Srivaikundam Taluk, Thoothukudi District.",
+    "state": "Tamilnadu",
+    "pin_code": 628851,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4977,
+    "coll_name": "NARAYANAGURU COLLEGE OF ENGINEERING",
+    "addr_l1": "Manjalumoodu,",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629151,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4978,
+    "coll_name": "UDAYA SCHOOL OF ENGINEERING                                                     ",
+    "addr_l1": "Udaya Nagar,",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629204,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4979,
+    "coll_name": "V.P.MUTHAIAH PILLAI MEENAKSHI AMMAL ENGINEERING COLLEGE FOR WOMEN               ",
+    "addr_l1": "V.P.M.Nagar,",
+    "addr_l2": "Srivilliputtur Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626190,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 4980,
+    "coll_name": "EINSTEIN COLLEGE OF ENGINEERING                                                 ",
+    "addr_l1": "Sir C V Raman Nagar,",
+    "addr_l2": "Tirunelveli Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627012,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4981,
+    "coll_name": "PONJESLY COLLEGE OF ENGINEERING",
+    "addr_l1": "Near Parvathipuram, Nagercoil",
+    "addr_l2": "Agasteeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4982,
+    "coll_name": "VINS CHRISTIAN COLLEGE OF ENGINEERING",
+    "addr_l1": "Vins Nager, Nagercoil",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629003,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4983,
+    "coll_name": "LORD JEGANNATH COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "Kumarapuram, Thoppur",
+    "addr_l2": "Agasteeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629402,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4984,
+    "coll_name": "MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY                                ",
+    "addr_l1": "P.M. Village Road, Kuttakuzhi,",
+    "addr_l2": "Kalkulam Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629177,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4985,
+    "coll_name": "KALAIVANAR  N S K COLLEGE OF ENGINEERING",
+    "addr_l1": "PCP Nagar, Nagercoil",
+    "addr_l2": "Agasteeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629901,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4987,
+    "coll_name": "JAMES COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Jamespuram, Near Nagercoil",
+    "addr_l2": "Thovalai Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629852,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4989,
+    "coll_name": "PSN ENGINEERING COLLEGE                                                         ",
+    "addr_l1": "",
+    "addr_l2": "Palayamkottai Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627152,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4991,
+    "coll_name": "KALASALINGAM INSTITUTE OF TECHNOLOGY                                            ",
+    "addr_l1": "Anand Nagar,",
+    "addr_l2": "Srivilliputtur Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626126,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4992,
+    "coll_name": "BETHLAHEM INSTITUTE OF ENGINEERING                                              ",
+    "addr_l1": "Nadutheri,",
+    "addr_l2": "Vilavancode Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629157,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4993,
+    "coll_name": "LOYOLA INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "addr_l1": "Loyola Nagar,",
+    "addr_l2": "Agastheeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629302,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4994,
+    "coll_name": "J P COLLEGE OF ENGINEERING",
+    "addr_l1": "College Road, Agarakattu",
+    "addr_l2": "Tenkasi Taluk, Tirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627852,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4995,
+    "coll_name": "P.S.R.RENGASAMY COLLEGE OF ENGINEERING FOR WOMEN                                ",
+    "addr_l1": "",
+    "addr_l2": "Sivakasi Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626140,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 4996,
+    "coll_name": "SRI VIDYA COLLEGE OF ENGINEERING & TECHNOLOGY                                   ",
+    "addr_l1": "Sivakasi Main Road,",
+    "addr_l2": "Virudhunagar Taluk, Virudhunagar District.",
+    "state": "Tamilnadu",
+    "pin_code": 626005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4998,
+    "coll_name": "MAHAKAVI BHARATHIYAR COLLEGE OF ENGINEERING AND TECHNOLOGY                      ",
+    "addr_l1": "Thalayanai Road,",
+    "addr_l2": "Sivagiri Taluk, Thirunelveli District.",
+    "state": "Tamilnadu",
+    "pin_code": 627760,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 4999,
+    "coll_name": "ANNAI VAILANKANNI COLLEGE OF ENGINEERING                                        ",
+    "addr_l1": "Pothaiyadisalai, Pottalkulam,",
+    "addr_l2": "Agasteeswaram Taluk, Kanyakumari District.",
+    "state": "Tamilnadu",
+    "pin_code": 629401,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5008,
+    "coll_name": "THIAGARAJAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+    "addr_l1": "",
+    "addr_l2": "Madurai Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625015,
+    "catcode": 3,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5009,
+    "coll_name": "GOVERNMENT COLLEGE OF ENGINEERING, BODIYANAYAKKANUR                             ",
+    "addr_l1": "",
+    "addr_l2": "Bodinayakkanur Taluk, Theni District.",
+    "state": "Tamilnadu",
+    "pin_code": 625582,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5010,
+    "coll_name": "ANNA UNIVERSITY REGIONAL CAMPUS, MADURAI",
+    "addr_l1": "Kanyakumari National Highway",
+    "addr_l2": "Keelakuilkudi                                      ,Keelakuilkudi",
+    "state": "TAMIL NADU",
+    "pin_code": 625019,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5012,
+    "coll_name": "CENTRAL ELECTROCHEMICAL RESEARCH INSTITUTE (CSIR) KARAIKUDI                     ",
+    "addr_l1": "CSIR-CECRI,",
+    "addr_l2": "Karaikudi Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630006,
+    "catcode": 5,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5017,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, RAMANATHAPURAM                               ",
+    "addr_l1": "",
+    "addr_l2": "Ramanathapuram Taluk, Ramanathapuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 623513,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5022,
+    "coll_name": "UNIVERSITY COLLEGE OF ENGINEERING, DINDIGUL                                     ",
+    "addr_l1": "",
+    "addr_l2": "Athoor Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624622,
+    "catcode": 1,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5502,
+    "coll_name": "SRI RAAJA RAAJAN COLLEGE OF ENGINEERING AND TECHNOLOGY                          ",
+    "addr_l1": "",
+    "addr_l2": "Karaikudi Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5530,
+    "coll_name": "SSM INSTITUTE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Dindigul - Palani Highway, Akkaraipatty",
+    "addr_l2": "Dindigul Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624002,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5532,
+    "coll_name": "VAIGAI COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "Madurai-Melur Road,",
+    "addr_l2": "Melur Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625122,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5533,
+    "coll_name": "KIT & KIM TECHNICAL CAMPUS                                                      ",
+    "addr_l1": "Kit",
+    "addr_l2": "Karaikudi Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630307,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5536,
+    "coll_name": "MANGAYARKARASI COLLEGE OF ENGINEERING                                           ",
+    "addr_l1": "7-1-139, 1st Street, Mangayarkarasi Nagar,",
+    "addr_l2": "Madurai North Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625402,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5537,
+    "coll_name": "JAINEE COLLEGE OF ENGINEERING AND TECHNOLOGY                                    ",
+    "addr_l1": "Dindigul-Theni Road, Aathupattiprivu,Veerakkal B.P.O,",
+    "addr_l2": "Athur Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624303,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5540,
+    "coll_name": "ARINGER ANNA COLLEGE OF ENGINEERING AND TECHNOLOGY                              ",
+    "addr_l1": "145/1A1,",
+    "addr_l2": "Palini(Tk) Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624616,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5703,
+    "coll_name": "CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "",
+    "addr_l2": "Oddanchatram Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624619,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5720,
+    "coll_name": "SRI SUBRAMANYA COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "",
+    "addr_l2": "Palani Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624615,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5832,
+    "coll_name": "N P R COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "NPR Nagar,",
+    "addr_l2": "Natham Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624401,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5842,
+    "coll_name": "MADURAI INSTITUTE OF ENGINEERING AND TECHNOLOGY                                 ",
+    "addr_l1": "Madurai - Chinthamani -Nedunkulam Road-Pottapalayam,",
+    "addr_l2": "Manamadurai Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630612,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5851,
+    "coll_name": "VEERAMMAL ENGINEERING COLLEGE                                                   ",
+    "addr_l1": "P.V.P. Nagar,",
+    "addr_l2": "Athoor Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624708,
+    "catcode": 4,
+    "coll_gender": 2
+  },
+  {
+    "collcode": 5862,
+    "coll_name": "R.V.S. SCHOOL OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "RVS Nagar, Karur Road,",
+    "addr_l2": "Vedasandur Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5865,
+    "coll_name": "NADAR SARASWATHI COLLEGE OF ENGINEERING & TECHNOLOGY                            ",
+    "addr_l1": "",
+    "addr_l2": "Theni Taluk, Theni District.",
+    "state": "Tamilnadu",
+    "pin_code": 625531,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5901,
+    "coll_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+    "addr_l1": "Accet, Karaikudi (An Autonomous Govt. Institution)",
+    "addr_l2": "Karaikudi Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630003,
+    "catcode": 2,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5902,
+    "coll_name": "BHARATH NIKETAN ENGINEERING COLLEGE                                             ",
+    "addr_l1": "Sri Gowri Nagar, Madurai-Cochin National Highway",
+    "addr_l2": "Aundipatty Taluk, Theni District.",
+    "state": "Tamilnadu",
+    "pin_code": 625536,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5903,
+    "coll_name": "K.L.N.COLLEGE OF INFORMATION TECHNOLOGY",
+    "addr_l1": "Madurai-Nedunkulam Road,",
+    "addr_l2": "Manamadurai Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630612,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5904,
+    "coll_name": "K.L.N.COLLEGE OF ENGINEERING",
+    "addr_l1": "Madurai-Nedunkulam Road,",
+    "addr_l2": "Thirupuvanam Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630612,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5907,
+    "coll_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+    "addr_l1": "Sathak Nagar, East Coast Road, Kilakarai",
+    "addr_l2": "Ramanathapuram Taluk, Ramanathapuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 623806,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5910,
+    "coll_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY                                      ",
+    "addr_l1": "Kothandaraman Nagar,",
+    "addr_l2": "Dindigul Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624622,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5911,
+    "coll_name": "P.T.R.COLLEGE OF ENGINEERING AND TECHNOLOGY                                     ",
+    "addr_l1": "Madurai -Kanyakumari National Highway",
+    "addr_l2": "Madurai(South) Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625008,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5912,
+    "coll_name": "PANDIAN SARASWATHI YADAV ENGINEERING COLLEGE                                    ",
+    "addr_l1": "Madurai - Sivagangai Highway,",
+    "addr_l2": "Sivagangai Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630561,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5913,
+    "coll_name": "R.V.S. COLLEGE OF ENGINEERING                                                   ",
+    "addr_l1": "R.V.S. Nagar, Karur Road,",
+    "addr_l2": "Vedasandur Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5914,
+    "coll_name": "SOLAMALAI COLLEGE OF ENGINEERING",
+    "addr_l1": "S.V.Raja Nagar,",
+    "addr_l2": "Madurai Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625020,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5915,
+    "coll_name": "SACS M.A.V.M.M ENGINEERING COLLEGE                                              ",
+    "addr_l1": "Alagarkoil (Via),",
+    "addr_l2": "Melur Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625301,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5919,
+    "coll_name": "St.MICHAEL COLLEGE OF ENGINEERING & TECHNOLOGY                                  ",
+    "addr_l1": "St.Santhiagaper Nagar,",
+    "addr_l2": "Sivagangai Taluk, Sivaganga District.",
+    "state": "Tamilnadu",
+    "pin_code": 630551,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5921,
+    "coll_name": "SYED AMMAL ENGINEERING COLLEGE                                                  ",
+    "addr_l1": "Dr.E.M.Abdullah Campus, Lanthai",
+    "addr_l2": "Ramanathapuram Taluk, Ramanathapuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 623502,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5922,
+    "coll_name": "VICKRAM COLLEGE OF ENGINEERING                                                  ",
+    "addr_l1": "Sreenivasa Gardens, Madurai Sivagangai Road,",
+    "addr_l2": "Sivagangai Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 630561,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5924,
+    "coll_name": "GANAPATHY CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY                        ",
+    "addr_l1": "",
+    "addr_l2": "Paramakudi Taluk, Ramanathapuram District.",
+    "state": "Tamilnadu",
+    "pin_code": 623706,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5930,
+    "coll_name": "SBM COLLEGE OF ENGINEERING AND TECHNOLOGY                                       ",
+    "addr_l1": "SBM Nagar,",
+    "addr_l2": "Dindigul Taluk, Dindigul District.",
+    "state": "Tamilnadu",
+    "pin_code": 624005,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5935,
+    "coll_name": "FATIMA MICHAEL COLLEGE OF ENGINEERING AND TECHNOLOGY                            ",
+    "addr_l1": "Sivaganga Madurai Main Road,",
+    "addr_l2": "Madurai East Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625020,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5942,
+    "coll_name": "ULTRA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "addr_l1": "Ultra Nagar, Madurai - Chennai Highway",
+    "addr_l2": "Madurai Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625104,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5986,
+    "coll_name": "VELAMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY                                  ",
+    "addr_l1": "Velammal Nagar,",
+    "addr_l2": "Madurai-South Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625009,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5988,
+    "coll_name": "THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY                                     ",
+    "addr_l1": "Theni Main Road,  Veerapandi Via",
+    "addr_l2": "Theni Taluk, Theni District.",
+    "state": "Tamilnadu",
+    "pin_code": 625534,
+    "catcode": 4,
+    "coll_gender": 1
+  },
+  {
+    "collcode": 5990,
+    "coll_name": "LATHA MATHAVAN ENGINEERING COLLEGE                                              ",
+    "addr_l1": "Latha Mathavan Nagar,",
+    "addr_l2": "Melur Taluk, Madurai District.",
+    "state": "Tamilnadu",
+    "pin_code": 625301,
+    "catcode": 4,
+    "coll_gender": 1
+  }
+]
