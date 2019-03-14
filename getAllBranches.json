@@ -1,0 +1,330 @@
+[
+  {
+    "bcode": "AE",
+    "branch_name": "Aeronautical Engineering"
+  },
+  {
+    "bcode": "AG",
+    "branch_name": "Agriculture Engg."
+  },
+  {
+    "bcode": "AI",
+    "branch_name": "Agricultural and Irrigation Engg.(SS)"
+  },
+  {
+    "bcode": "AP",
+    "branch_name": "Apparel Technology(SS)"
+  },
+  {
+    "bcode": "AS",
+    "branch_name": "Automobile Engineering (SS)"
+  },
+  {
+    "bcode": "AU",
+    "branch_name": "Automobile Engineering"
+  },
+  {
+    "bcode": "BM",
+    "branch_name": "Bio Medical Engineering"
+  },
+  {
+    "bcode": "BS",
+    "branch_name": "Bio-Technology (SS)"
+  },
+  {
+    "bcode": "BT",
+    "branch_name": "Bio-Technology"
+  },
+  {
+    "bcode": "BY",
+    "branch_name": "Bio Medical Engg(SS)"
+  },
+  {
+    "bcode": "CC",
+    "branch_name": "Ch and Elect.Chem Engineering (SS)"
+  },
+  {
+    "bcode": "CE",
+    "branch_name": "Civil Engineering"
+  },
+  {
+    "bcode": "CH",
+    "branch_name": "Chemical Engineering"
+  },
+  {
+    "bcode": "CL",
+    "branch_name": "CHEMICAL ENGINEERING(SS)"
+  },
+  {
+    "bcode": "CM",
+    "branch_name": "Computer Science and Engg.(SS)"
+  },
+  {
+    "bcode": "CN",
+    "branch_name": "Civil Engg (SS)"
+  },
+  {
+    "bcode": "CP",
+    "branch_name": "CIVIL ENGINEERING AND PLANNING"
+  },
+  {
+    "bcode": "CR",
+    "branch_name": "Ceramic Technology(SS)"
+  },
+  {
+    "bcode": "CS",
+    "branch_name": "Computer Science and Engg."
+  },
+  {
+    "bcode": "EC",
+    "branch_name": "Electronics and Comm Engg."
+  },
+  {
+    "bcode": "EE",
+    "branch_name": "Electrical and Elec. Engg."
+  },
+  {
+    "bcode": "EI",
+    "branch_name": "Electronics and Instru Engg."
+  },
+  {
+    "bcode": "EM",
+    "branch_name": "Electronics and Comm Engg(SS)"
+  },
+  {
+    "bcode": "EN",
+    "branch_name": "Environmental Engineering"
+  },
+  {
+    "bcode": "ES",
+    "branch_name": "Elec and Electronics(Sandwich)(SS)"
+  },
+  {
+    "bcode": "ET",
+    "branch_name": "Electronics and Telecommunication Engg."
+  },
+  {
+    "bcode": "EX",
+    "branch_name": "Electronics and Instru Engg(SS)"
+  },
+  {
+    "bcode": "EY",
+    "branch_name": "Elec and Electronics Engg (SS)"
+  },
+  {
+    "bcode": "FD",
+    "branch_name": "Food Technology"
+  },
+  {
+    "bcode": "FS",
+    "branch_name": "Food Technology(SS)"
+  },
+  {
+    "bcode": "FT",
+    "branch_name": "Fashion Technology"
+  },
+  {
+    "bcode": "FY",
+    "branch_name": "Fashion Technology(SS)"
+  },
+  {
+    "bcode": "GI",
+    "branch_name": "Geo-Informatics"
+  },
+  {
+    "bcode": "HT",
+    "branch_name": "HANDLOOM AND  TEXTILE TECHNOLOGY"
+  },
+  {
+    "bcode": "IB",
+    "branch_name": "Industrial Bio-Technology"
+  },
+  {
+    "bcode": "IC",
+    "branch_name": "Instrumentation and Control Engg."
+  },
+  {
+    "bcode": "IE",
+    "branch_name": "Industrial Engineering"
+  },
+  {
+    "bcode": "IM",
+    "branch_name": "Information Technology(SS)"
+  },
+  {
+    "bcode": "IN",
+    "branch_name": "Industrial Engineering and Management"
+  },
+  {
+    "bcode": "IS",
+    "branch_name": "Industrial Bio-Technology(SS)"
+  },
+  {
+    "bcode": "IT",
+    "branch_name": "Information Technology"
+  },
+  {
+    "bcode": "IY",
+    "branch_name": "Instrumentation and Control Engg(SS)"
+  },
+  {
+    "bcode": "LE",
+    "branch_name": "Leather Technology"
+  },
+  {
+    "bcode": "MA",
+    "branch_name": "Materials Science and Engg.(SS)"
+  },
+  {
+    "bcode": "MC",
+    "branch_name": "Mechatronics"
+  },
+  {
+    "bcode": "MD",
+    "branch_name": "Medical Electronics Engg."
+  },
+  {
+    "bcode": "ME",
+    "branch_name": "Mechanical Engineering"
+  },
+  {
+    "bcode": "MF",
+    "branch_name": "Mechanical Engineering(SS)"
+  },
+  {
+    "bcode": "MG",
+    "branch_name": "Mechatronics (SS)"
+  },
+  {
+    "bcode": "MH",
+    "branch_name": "Mechanical Engg (Sandwich)"
+  },
+  {
+    "bcode": "MI",
+    "branch_name": "Mining Engineering"
+  },
+  {
+    "bcode": "MN",
+    "branch_name": "Manufacturing Engineering"
+  },
+  {
+    "bcode": "MR",
+    "branch_name": "Marine Engineering"
+  },
+  {
+    "bcode": "MS",
+    "branch_name": "Mechanical Engg (Sandwich)(SS)"
+  },
+  {
+    "bcode": "MT",
+    "branch_name": "Metallurgical Engineering"
+  },
+  {
+    "bcode": "MU",
+    "branch_name": "Mechanical and Automation Engg."
+  },
+  {
+    "bcode": "MY",
+    "branch_name": "Metallurgical Engineering (SS)"
+  },
+  {
+    "bcode": "NS",
+    "branch_name": "Nano Science and Technology"
+  },
+  {
+    "bcode": "PA",
+    "branch_name": "Plastic Technology"
+  },
+  {
+    "bcode": "PC",
+    "branch_name": "Petro Chemical Technology"
+  },
+  {
+    "bcode": "PD",
+    "branch_name": "Petrochemical Engg."
+  },
+  {
+    "bcode": "PE",
+    "branch_name": "Petroleum Engineering"
+  },
+  {
+    "bcode": "PH",
+    "branch_name": "Pharmaceutical Technology"
+  },
+  {
+    "bcode": "PL",
+    "branch_name": "Polymer Technology"
+  },
+  {
+    "bcode": "PM",
+    "branch_name": "Pharmaceutical Technology(SS)"
+  },
+  {
+    "bcode": "PN",
+    "branch_name": "Production Engineering (SS)"
+  },
+  {
+    "bcode": "PP",
+    "branch_name": "Petroleum Engineering And Tech(SS)"
+  },
+  {
+    "bcode": "PR",
+    "branch_name": "Production Engineering"
+  },
+  {
+    "bcode": "PS",
+    "branch_name": "Production Engg.(Sandwich)(SS)"
+  },
+  {
+    "bcode": "PT",
+    "branch_name": "Printing Technology"
+  },
+  {
+    "bcode": "RA",
+    "branch_name": "Robotics and Automation(SS)"
+  },
+  {
+    "bcode": "RM",
+    "branch_name": "Robotics and Automation"
+  },
+  {
+    "bcode": "RP",
+    "branch_name": "Rubber and Plastic Technology"
+  },
+  {
+    "bcode": "TC",
+    "branch_name": "Textile Chemistry"
+  },
+  {
+    "bcode": "TT",
+    "branch_name": "Textile Technology (SS)"
+  },
+  {
+    "bcode": "TX",
+    "branch_name": "Textile Technology"
+  },
+  {
+    "bcode": "XC",
+    "branch_name": "Civil Engineering (Tamil Medium)"
+  },
+  {
+    "bcode": "XM",
+    "branch_name": "Mechanical Engineering (Tamil Medium)"
+  },
+  {
+    "bcode": "CZ",
+    "branch_name": "Civil and Structural Engineering"
+  },
+  {
+    "bcode": "MM",
+    "branch_name": "Mechanical Engineering (Manufacturing)"
+  },
+  {
+    "bcode": "AO",
+    "branch_name": "Aerospace Engineering"
+  },
+  {
+    "bcode": "GE",
+    "branch_name": "Geo Informatics Engineering"
+  }
+]
