@@ -537,7 +537,10 @@
         "a3": 1,
         "a4": "12, Sardar Patel Road, Guindy, Chennai",
         "a5": 13.0109,
-        "a6": 80.2354
+        "a6": 80.2354,
+        "a7": {
+          "a71": "University Departments of Anna University"
+        }
       },
       {
         "a1": "2",
@@ -545,7 +548,10 @@
         "a3": 2,
         "a4": "Anna University, Sardar Patel Road, Anna University, Guindy, Chennai",
         "a5": 13.0079,
-        "a6": 80.2388
+        "a6": 80.2388,
+        "a7": {
+          "a71": "University Departments of Anna University"
+        }
       },
       {
         "a1": "3",
@@ -553,7 +559,10 @@
         "a3": 4,
         "a4": "MIT Road, Chromepet, Radha Nagar, Chennai",
         "a5": 12.9482,
-        "a6": 80.1398
+        "a6": 80.1398,
+        "a7": {
+          "a71": "University Departments of Anna University"
+        }
       },
       {
         "a1": "4",
@@ -561,7 +570,10 @@
         "a3": 1013,
         "a4": "Kakuppam, Villupuram",
         "a5": 11.9508,
-        "a6": 79.5124
+        "a6": 79.5124,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "5",
@@ -569,7 +581,10 @@
         "a3": 1014,
         "a4": "Melpakkam, College Road, Tindivanam",
         "a5": 12.2626,
-        "a6": 79.6591
+        "a6": 79.6591,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "6",
@@ -577,7 +592,10 @@
         "a3": 1015,
         "a4": "Major District Road 40, Thatchur",
         "a5": 12.5894,
-        "a6": 79.2723
+        "a6": 79.2723,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "7",
@@ -585,7 +603,10 @@
         "a3": 1026,
         "a4": "NH 4 , Chennai -Bangalore Highway, Karaipettai Village and Post, Kanchipuram, National Highway 4, Kanchipuram",
         "a5": 12.8727,
-        "a6": 79.7054
+        "a6": 79.7054,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "8",
@@ -593,7 +614,10 @@
         "a3": 1101,
         "a4": "Nizara Educational Campus, Muthapudupet, Avadi, IAF, Chennai",
         "a5": 13.1472,
-        "a6": 80.0591
+        "a6": 80.0591,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "9",
@@ -601,7 +625,10 @@
         "a3": 1102,
         "a4": "Veppampattu , Thiruvallur, Chennai",
         "a5": 13.1382,
-        "a6": 79.9977
+        "a6": 79.9977,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "10",
@@ -609,7 +636,10 @@
         "a3": 1106,
         "a4": "CTH Road, Prakash Nagar, Thiruninravur, Chennai",
         "a5": 13.135,
-        "a6": 80.045
+        "a6": 80.045,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "11",
@@ -617,7 +647,10 @@
         "a3": 1107,
         "a4": "Kanchipadi, Thiruthani High Road, NH 205, Kanchipadi",
         "a5": 13.201,
-        "a6": 79.7845
+        "a6": 79.7845,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "12",
@@ -625,7 +658,10 @@
         "a3": 1110,
         "a4": "Aranvoyalkuppam, Poonaamallee-Tiruvallur Road, Tiruvallur",
         "a5": 13.092,
-        "a6": 79.973
+        "a6": 79.973,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "13",
@@ -633,7 +669,10 @@
         "a3": 1112,
         "a4": "RMD College Road, Kavaraipettai",
         "a5": 13.359,
-        "a6": 80.141
+        "a6": 80.141,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "14",
@@ -641,7 +680,10 @@
         "a3": 1113,
         "a4": "National Highway 16, Kavaraipettai",
         "a5": 13.3552,
-        "a6": 80.1414
+        "a6": 80.1414,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "15",
@@ -649,7 +691,10 @@
         "a3": 1114,
         "a4": "Poonamallee, Avadi Road Veeraraghavapuram, Thiruverkadu",
         "a5": 13.0663,
-        "a6": 80.1111
+        "a6": 80.1111,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "16",
@@ -657,7 +702,10 @@
         "a3": 1115,
         "a4": "Perumalpattu, Veppampattu [R.S], Thiruvallur District, Chennai",
         "a5": 13.1167,
-        "a6": 79.9925
+        "a6": 79.9925,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "17",
@@ -665,7 +713,10 @@
         "a3": 1116,
         "a4": "Dist. Thiruvallur, Thirupachur",
         "a5": 13.14,
-        "a6": 79.872
+        "a6": 79.872,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "18",
@@ -673,7 +724,10 @@
         "a3": 1118,
         "a4": "42,Alamathi Road,Avadi,Thiruvallur, Chennai",
         "a5": 13.1895,
-        "a6": 80.1064
+        "a6": 80.1064,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "19",
@@ -681,7 +735,10 @@
         "a3": 1120,
         "a4": "Ambattur Red Hills Road, Velammal Nagar, Surapet, Chennai",
         "a5": 13.15,
-        "a6": 80.1918
+        "a6": 80.1918,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "20",
@@ -689,7 +746,10 @@
         "a3": 1121,
         "a4": "Kolundhalur Road, Tiruvallur",
         "a5": 13.155,
-        "a6": 79.87
+        "a6": 79.87,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "21",
@@ -697,7 +757,10 @@
         "a3": 1122,
         "a4": "#60,Avadi, Vel Tech Road, Vel Nagar, Avadi, Chennai",
         "a5": 13.1885,
-        "a6": 80.1064
+        "a6": 80.1064,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "22",
@@ -705,7 +768,10 @@
         "a3": 1123,
         "a4": "80 Feet Road, Edapalayam, Redhills, Chennai",
         "a5": 13.2128,
-        "a6": 80.1472
+        "a6": 80.1472,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "23",
@@ -713,7 +779,10 @@
         "a3": 1124,
         "a4": "82, Panapakkam, Near Periyapalayam, Chennai Thirupathi Road, Uthukottai, Taluk, Thiruvallur District, Near Honda Factory, Chennai",
         "a5": 13.2917,
-        "a6": 80.06
+        "a6": 80.06,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "24",
@@ -721,7 +790,10 @@
         "a3": 1125,
         "a4": "Adayalampattu, Vanagaram, Next to Maduravoyil, Chennai",
         "a5": 13.07,
-        "a6": 80.1581
+        "a6": 80.1581,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "25",
@@ -729,7 +801,10 @@
         "a3": 1126,
         "a4": "90, Ushaa Garden, Kannigaipair, Chennai Periyapalayam Highway",
         "a5": 13.2622,
-        "a6": 80.106
+        "a6": 80.106,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "26",
@@ -737,7 +812,10 @@
         "a3": 1127,
         "a4": "Avadi",
         "a5": 13.111,
-        "a6": 80.118
+        "a6": 80.118,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "27",
@@ -745,7 +823,10 @@
         "a3": 1128,
         "a4": "R.S.M. Nagar Puduvoyal, Gummidipoondi Taluk",
         "a5": 13.322,
-        "a6": 80.152
+        "a6": 80.152,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "28",
@@ -753,7 +834,10 @@
         "a3": 1131,
         "a4": "Tiruvallur",
         "a5": 13.1889,
-        "a6": 80.1017
+        "a6": 80.1017,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "29",
@@ -761,7 +845,10 @@
         "a3": 1133,
         "a4": "33, Gandhi Road, Nedungundram, Chennai",
         "a5": 12.8879,
-        "a6": 80.1065
+        "a6": 80.1065,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "30",
@@ -769,7 +856,10 @@
         "a3": 1136,
         "a4": "Padur",
         "a5": 11.7288,
-        "a6": 79.3455
+        "a6": 79.3455,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "31",
@@ -777,7 +867,10 @@
         "a3": 1137,
         "a4": "NH-46, Chennai-Bengaluru Highway, Arappakkam, Vellore",
         "a5": 12.943,
-        "a6": 79.229
+        "a6": 79.229,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "32",
@@ -785,7 +878,10 @@
         "a3": 1140,
         "a4": "Kunnam Sunguvarchatram, Sriperumbudur",
         "a5": 12.8896,
-        "a6": 79.8745
+        "a6": 79.8745,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "33",
@@ -793,7 +889,10 @@
         "a3": 1141,
         "a4": "State Highway 52, Chedilpakkam",
         "a5": 13.433,
-        "a6": 79.9771
+        "a6": 79.9771,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "34",
@@ -801,7 +900,10 @@
         "a3": 1143,
         "a4": "Railway Station, Near Nandiambakkam, Minjur",
         "a5": 13.2765,
-        "a6": 80.2735
+        "a6": 80.2735,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "35",
@@ -809,7 +911,10 @@
         "a3": 1149,
         "a4": "Old Mahabalipuram Road, Semmancheri, Chennai",
         "a5": 12.8699,
-        "a6": 80.2184
+        "a6": 80.2184,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "36",
@@ -817,7 +922,10 @@
         "a3": 1150,
         "a4": "no-57,, jayaram nagar, Guntur-Chennai Hwy",
         "a5": 13.4639,
-        "a6": 80.1392
+        "a6": 80.1392,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "37",
@@ -825,7 +933,10 @@
         "a3": 1157,
         "a4": "Vellore",
         "a5": 12.8923,
-        "a6": 79.3531
+        "a6": 79.3531,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "38",
@@ -833,7 +944,10 @@
         "a3": 1201,
         "a4": "Sriperumbudur, Pennalur EB, Sriperumbudur",
         "a5": 12.9675,
-        "a6": 79.9418
+        "a6": 79.9418,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "39",
@@ -841,7 +955,10 @@
         "a3": 1202,
         "a4": "NH-48, Palanchur � Nazarethpet Post, Opp Queens Land, Chennai",
         "a5": 13.026,
-        "a6": 80.027
+        "a6": 80.027,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "40",
@@ -849,7 +966,10 @@
         "a3": 1205,
         "a4": "Puliyambakkam Main Road, Walajabad",
         "a5": 12.7859,
-        "a6": 79.8429
+        "a6": 79.8429,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "41",
@@ -857,7 +977,10 @@
         "a3": 1206,
         "a4": "Jeppiaar Nagar,",
         "a5": 12.9656,
-        "a6": 79.8996
+        "a6": 79.8996,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "42",
@@ -865,7 +988,10 @@
         "a3": 1207,
         "a4": "Chennai � Bangalore Highway, Opposite to Hyundai Motors, Sriperumbudur Taluk, Irungattukottai",
         "a5": 12.9991,
-        "a6": 79.9819
+        "a6": 79.9819,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "43",
@@ -873,7 +999,10 @@
         "a3": 1208,
         "a4": "Kolivakkam",
         "a5": 12.7873,
-        "a6": 79.6514
+        "a6": 79.6514,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "44",
@@ -881,7 +1010,10 @@
         "a3": 1209,
         "a4": "Thimmasamudram, Kanchipuram",
         "a5": 12.877,
-        "a6": 79.6934
+        "a6": 79.6934,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "45",
@@ -889,7 +1021,10 @@
         "a3": 1210,
         "a4": "Bangalore Trunk Road, Varadharajapuram, Nazarethpettai, Poonamallee, Chennai",
         "a5": 13.0515,
-        "a6": 80.0763
+        "a6": 80.0763,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "46",
@@ -897,7 +1032,10 @@
         "a3": 1211,
         "a4": "Rajalakshmi Nagar, Thandalam, Chennai",
         "a5": 13.0096,
-        "a6": 80.0042
+        "a6": 80.0042,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "47",
@@ -905,7 +1043,10 @@
         "a3": 1212,
         "a4": "Nemili, Valarpuram Post, Kanchipuram District, Sriperumbudu",
         "a5": 13.0012,
-        "a6": 79.9605
+        "a6": 79.9605,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "48",
@@ -913,7 +1054,10 @@
         "a3": 1213,
         "a4": "Agaramel, Nazarathpettai, Poonamallee, Chennai",
         "a5": 13.0386,
-        "a6": 80.0744
+        "a6": 80.0744,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "49",
@@ -921,7 +1065,10 @@
         "a3": 1214,
         "a4": "Narayanasamy nagar 55, Thandalam",
         "a5": 13.0127,
-        "a6": 79.9997
+        "a6": 79.9997,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "50",
@@ -929,7 +1076,10 @@
         "a3": 1216,
         "a4": "Saveetha Nagar, Thandalam Opposite Chembarambakkam Lake Chennai-Bangalore National Highways, Chennai",
         "a5": 13.0259,
-        "a6": 80.0164
+        "a6": 80.0164,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "51",
@@ -937,7 +1087,10 @@
         "a3": 1217,
         "a4": "Chennai - Bangalore Highway, Chembarambakkam, Chennai",
         "a5": 13.0376,
-        "a6": 80.0538
+        "a6": 80.0538,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "52",
@@ -945,7 +1098,10 @@
         "a3": 1218,
         "a4": "Mangadu Road, Chikkarayapuram, Chennai",
         "a5": 13.0186,
-        "a6": 80.1076
+        "a6": 80.1076,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "53",
@@ -953,7 +1109,10 @@
         "a3": 1219,
         "a4": "Chennai-Bengaluru High Road, Pennalur Village, Kancheepuram District, Sriperambudur",
         "a5": 12.9871,
-        "a6": 79.9721
+        "a6": 79.9721,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "54",
@@ -961,7 +1120,10 @@
         "a3": 1221,
         "a4": "Bypass Rd, Poonamallee, Chennai",
         "a5": 13.0612,
-        "a6": 80.092
+        "a6": 80.092,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "55",
@@ -969,7 +1131,10 @@
         "a3": 1222,
         "a4": "Chennai-Bangalore Highway, Sriperumbudur Taluk,, Irungattukottai, Kancheepuram District, Chennai",
         "a5": 12.9852,
-        "a6": 79.9856
+        "a6": 79.9856,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "56",
@@ -977,7 +1142,10 @@
         "a3": 1225,
         "a4": "NH4, Palanchur, Nazareth Pet Post, Kuthambakkam",
         "a5": 13.0251,
-        "a6": 80.0339
+        "a6": 80.0339,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "57",
@@ -985,7 +1153,10 @@
         "a3": 1226,
         "a4": "SH-58, Kancheepuram Arakonam Thiruthani Road, Oovery, Veliyur Post, Kanchipuram",
         "a5": 12.9254,
-        "a6": 79.6807
+        "a6": 79.6807,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "58",
@@ -993,7 +1164,10 @@
         "a3": 1228,
         "a4": "34, Udayavar, Thirumazhisai, Koil Street, Poonamallee, Chennai",
         "a5": 13.0548,
-        "a6": 80.069
+        "a6": 80.069,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "59",
@@ -1001,7 +1175,10 @@
         "a3": 1229,
         "a4": "1, VGR Nagar, Pandur, NH-205, Tiruvallur",
         "a5": 13.1517,
-        "a6": 79.848
+        "a6": 79.848,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "60",
@@ -1009,7 +1186,10 @@
         "a3": 1230,
         "a4": "Chettipedu, Poonamallee",
         "a5": 13.0367,
-        "a6": 80.0153
+        "a6": 80.0153,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "61",
@@ -1017,7 +1197,10 @@
         "a3": 1231,
         "a4": "No.391, Bangalore Trunk Road, Varadharajapuram, Poonamallee, Chennai",
         "a5": 13.0528,
-        "a6": 80.0749
+        "a6": 80.0749,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "62",
@@ -1025,7 +1208,10 @@
         "a3": 1232,
         "a4": "Sattamangalam, Maraimalai Nagar, Sattamangalam Padappai Road",
         "a5": 12.8117,
-        "a6": 79.9997
+        "a6": 79.9997,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "63",
@@ -1033,7 +1219,10 @@
         "a3": 1233,
         "a4": "No.6, Munu Adhi Nagar Sankarapuram, Near Oragadam Chennai, Chennai",
         "a5": 12.7983,
-        "a6": 79.8627
+        "a6": 79.8627,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "64",
@@ -1041,7 +1230,10 @@
         "a3": 1234,
         "a4": "58, Chengalpattu - Kancheepuram High Road, Athur Post, Chengalpattu, Kanchipuram District, Athur",
         "a5": 12.726,
-        "a6": 79.9534
+        "a6": 79.9534,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "65",
@@ -1049,7 +1241,10 @@
         "a3": 1235,
         "a4": "Kanchipuram To Arakkonam Road, Kooram Gate, Vishakandikuppam, Siruvakkam",
         "a5": 12.9006,
-        "a6": 79.6869
+        "a6": 79.6869,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "66",
@@ -1057,7 +1252,10 @@
         "a3": 1237,
         "a4": "Chennai - Kolkata Highway, Panchetti, Thiruvallur District, Chennai",
         "a5": 13.2944,
-        "a6": 80.1493
+        "a6": 80.1493,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "67",
@@ -1065,7 +1263,10 @@
         "a3": 1238,
         "a4": "Block - A Tirupathi Highway Mahalakshmi Nagar Tiruvallur Dist",
         "a5": 13.1934,
-        "a6": 79.6475
+        "a6": 79.6475,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "68",
@@ -1073,7 +1274,10 @@
         "a3": 1241,
         "a4": "Puduvoyal",
         "a5": 13.3378,
-        "a6": 80.1357
+        "a6": 80.1357,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "69",
@@ -1081,7 +1285,10 @@
         "a3": 1242,
         "a4": "Chembarambakkam",
         "a5": 13.0361,
-        "a6": 80.0549
+        "a6": 80.0549,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "70",
@@ -1089,7 +1296,10 @@
         "a3": 1243,
         "a4": "Behind Anakaputhur Bus stand, Chennai Bypass Road Flyover Bridge, Tharapakkam, Chennai",
         "a5": 12.9884,
-        "a6": 80.1225
+        "a6": 80.1225,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "71",
@@ -1097,7 +1307,10 @@
         "a3": 1301,
         "a4": "IT Park, Siruseri, Old Mahabalipuram Road, Chennai",
         "a5": 12.8362,
-        "a6": 80.2189
+        "a6": 80.2189,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "72",
@@ -1105,7 +1318,10 @@
         "a3": 1303,
         "a4": "Kalasalingam Nagar, IT Corridor, Old Mahablipuram Road, Kazhipathur",
         "a5": 12.8183,
-        "a6": 80.2285
+        "a6": 80.2285,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "73",
@@ -1113,7 +1329,10 @@
         "a3": 1304,
         "a4": "162, Bharathi Salai, Ramapuram, Chennai",
         "a5": 13.0331,
-        "a6": 80.1782
+        "a6": 80.1782,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "74",
@@ -1121,7 +1340,10 @@
         "a3": 1306,
         "a4": "Old Mahabalipuram Road, Semmancheri, Rajiv Gandhi Salai, Jeppiaar Nagar, Chennai",
         "a5": 12.8664,
-        "a6": 80.2194
+        "a6": 80.2194,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "75",
@@ -1129,7 +1351,10 @@
         "a3": 1307,
         "a4": "Velachery Main Road, Pallikaranai, Narayanpuram, Chennai",
         "a5": 12.9453,
-        "a6": 80.2078
+        "a6": 80.2078,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "76",
@@ -1137,7 +1362,10 @@
         "a3": 1309,
         "a4": "363, Arcot Road, Kodambakkam, Chennai",
         "a5": 13.0559,
-        "a6": 80.2265
+        "a6": 80.2265,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "77",
@@ -1145,7 +1373,10 @@
         "a3": 1310,
         "a4": "Guru Marudhar Kesari Building, Subramanya Nagar Street Road, Thorapakkam, Jyothi Nagar, Chennai",
         "a5": 12.946,
-        "a6": 80.245
+        "a6": 80.245,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "78",
@@ -1153,7 +1384,10 @@
         "a3": 1311,
         "a4": "Old Mahabalipuram Road, KCG Nagar, Karappakam, Chennai",
         "a5": 12.9221,
-        "a6": 80.2406
+        "a6": 80.2406,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "79",
@@ -1161,7 +1395,10 @@
         "a3": 1313,
         "a4": "India",
         "a5": 12.764,
-        "a6": 80.2016
+        "a6": 80.2016,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "80",
@@ -1169,7 +1406,10 @@
         "a3": 1315,
         "a4": "Old Mahabalipuram Road, Kalavakkam",
         "a5": 12.7509,
-        "a6": 80.1973
+        "a6": 80.1973,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "81",
@@ -1177,7 +1417,10 @@
         "a3": 1316,
         "a4": "Old Mahabalipuram Road, Thalambur, Chennai",
         "a5": 12.8485,
-        "a6": 80.1955
+        "a6": 80.1955,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "82",
@@ -1185,7 +1428,10 @@
         "a3": 1317,
         "a4": "Off Old Mamallapuram Road, Kamaraj Nagar, Semmancheri, Chennai",
         "a5": 12.8699,
-        "a6": 80.2184
+        "a6": 80.2184,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "83",
@@ -1193,7 +1439,10 @@
         "a3": 1318,
         "a4": "Old Mahabalipuram Road, Karappakam, Chennai",
         "a5": 12.9214,
-        "a6": 80.2227
+        "a6": 80.2227,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "84",
@@ -1201,7 +1450,10 @@
         "a3": 1319,
         "a4": "IT Highway Complex, Number 6, Old Mahabalipuram Road, Karappakam, Chennai",
         "a5": 12.9226,
-        "a6": 80.2231
+        "a6": 80.2231,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "85",
@@ -1209,7 +1461,10 @@
         "a3": 1320,
         "a4": "Old Mamallapuram Road, I.T High Way, Padur, Chennai",
         "a5": 12.8123,
-        "a6": 80.2157
+        "a6": 80.2157,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "86",
@@ -1217,7 +1472,10 @@
         "a3": 1321,
         "a4": "Thiru Vi Ka Industrial Estate, Guindy, Chennai",
         "a5": 13.0137,
-        "a6": 80.2055
+        "a6": 80.2055,
+        "a7": {
+          "a71": "Government of India"
+        }
       },
       {
         "a1": "87",
@@ -1225,7 +1483,10 @@
         "a3": 1322,
         "a4": "East Coast Road, Mallapuram, Chennai",
         "a5": 12.6203,
-        "a6": 80.1806
+        "a6": 80.1806,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "88",
@@ -1233,7 +1494,10 @@
         "a3": 1323,
         "a4": "Nelvoy Madhuranthagam KANCHEEPURAM-603107",
         "a5": 12.6223,
-        "a6": 79.8304
+        "a6": 79.8304,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "89",
@@ -1241,7 +1505,10 @@
         "a3": 1324,
         "a4": "Sairam College Road, Sai Leo Nagar, West Tambaram, Chennai",
         "a5": 12.9607,
-        "a6": 80.0533
+        "a6": 80.0533,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "90",
@@ -1249,7 +1516,10 @@
         "a3": 1325,
         "a4": "Near Toll Plaza, Sriperumbudur, Chennai",
         "a5": 12.9784,
-        "a6": 79.9679
+        "a6": 79.9679,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "91",
@@ -1257,7 +1527,10 @@
         "a3": 1333,
         "a4": "96,Chengalpattu - Thiruporur Highway, Sirukundram,Kanchipuram District, Chengalpattu",
         "a5": 12.7098,
-        "a6": 80.0782
+        "a6": 80.0782,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "92",
@@ -1265,7 +1538,10 @@
         "a3": 1334,
         "a4": "Maraimalai Nagar, Chengalpattu, Kanchipuram",
         "a5": 12.8093,
-        "a6": 80.0006
+        "a6": 80.0006,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "93",
@@ -1273,7 +1549,10 @@
         "a3": 1335,
         "a4": "Kanchipuram",
         "a5": 12.8635,
-        "a6": 79.9737
+        "a6": 79.9737,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "94",
@@ -1281,7 +1560,10 @@
         "a3": 1399,
         "a4": "Sarathy Nagar, Kundrathur, State Highway 113, Kundrathur, Chennai",
         "a5": 12.9716,
-        "a6": 80.0434
+        "a6": 80.0434,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "95",
@@ -1289,7 +1571,10 @@
         "a3": 1401,
         "a4": "SH 115, Melmaruvathur",
         "a5": 12.4369,
-        "a6": 79.822
+        "a6": 79.822,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "96",
@@ -1297,7 +1582,10 @@
         "a3": 1402,
         "a4": "Ulundurpet, Tirunavalur",
         "a5": 11.7646,
-        "a6": 79.4158
+        "a6": 79.4158,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "97",
@@ -1305,7 +1593,10 @@
         "a3": 1405,
         "a4": "Dr. V. P. R Nagar, Off. Tambaram Sriperumbudur Road",
         "a5": 12.9309,
-        "a6": 80.0448
+        "a6": 80.0448,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "98",
@@ -1313,7 +1604,10 @@
         "a3": 1406,
         "a4": "Pauls Nagar",
         "a5": 12.031,
-        "a6": 79.7645
+        "a6": 79.7645,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "99",
@@ -1321,7 +1615,10 @@
         "a3": 1407,
         "a4": "Near Tambaram, G.K.M. Nagar, Perungalathur, Chennai",
         "a5": 12.895,
-        "a6": 80.1219
+        "a6": 80.1219,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "100",
@@ -1329,7 +1626,10 @@
         "a3": 1408,
         "a4": "IFET Nagar, Gangarampalayam, Valavanur Post, Villupuram",
         "a5": 11.9206,
-        "a6": 79.6109
+        "a6": 79.6109,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "101",
@@ -1337,7 +1637,10 @@
         "a3": 1409,
         "a4": "Maduranthagam",
         "a5": 12.5907,
-        "a6": 79.9137
+        "a6": 79.9137,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "102",
@@ -1345,7 +1648,10 @@
         "a3": 1411,
         "a4": "Madha Nagar, Kundrathur, Chennai",
         "a5": 12.9934,
-        "a6": 80.0861
+        "a6": 80.0861,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "103",
@@ -1353,7 +1659,10 @@
         "a3": 1412,
         "a4": "Mailam",
         "a5": 12.1178,
-        "a6": 79.6162
+        "a6": 79.6162,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "104",
@@ -1361,7 +1670,10 @@
         "a3": 1413,
         "a4": "Vadakal Village,Pondur Post, B.H.B Nagar,, Sriperumbudur",
         "a5": 12.9039,
-        "a6": 79.9344
+        "a6": 79.9344,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "105",
@@ -1369,7 +1681,10 @@
         "a3": 1414,
         "a4": "Mambakkam - Medavakkam Main Road, Chennai",
         "a5": 12.8512,
-        "a6": 80.1712
+        "a6": 80.1712,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "106",
@@ -1377,7 +1692,10 @@
         "a3": 1415,
         "a4": "Kaniyamoor, Kallakurichi",
         "a5": 11.6415,
-        "a6": 78.9189
+        "a6": 78.9189,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "107",
@@ -1385,7 +1703,10 @@
         "a3": 1416,
         "a4": "CTH Road, St Marys Nagar,(Near Avadi), Thiruninravur, Chennai",
         "a5": 13.1331,
-        "a6": 80.0446
+        "a6": 80.0446,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "108",
@@ -1393,7 +1714,10 @@
         "a3": 1417,
         "a4": "Chennai - Theni Highway, Mamandur",
         "a5": 12.6393,
-        "a6": 79.9317
+        "a6": 79.9317,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "109",
@@ -1401,7 +1725,10 @@
         "a3": 1418,
         "a4": "83, 3, Agaram Main Road, Tiruvanchery, Selaiyur, Chennai",
         "a5": 12.8956,
-        "a6": 80.1432
+        "a6": 80.1432,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "110",
@@ -1409,7 +1736,10 @@
         "a3": 1419,
         "a4": "Sairam Campus, Sai Leo Nagar, West Tambaram, Chennai",
         "a5": 12.9601,
-        "a6": 80.0574
+        "a6": 80.0574,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "111",
@@ -1417,7 +1747,10 @@
         "a3": 1420,
         "a4": "Rathinamangalam, Kelambakkam - Vandalur Road, Chennai",
         "a5": 12.8617,
-        "a6": 80.1313
+        "a6": 80.1313,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "112",
@@ -1425,7 +1758,10 @@
         "a3": 1421,
         "a4": "NH 45, Villupuram",
         "a5": 11.8207,
-        "a6": 79.4198
+        "a6": 79.4198,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "113",
@@ -1433,7 +1769,10 @@
         "a3": 1422,
         "a4": "National Highway 45, Potheri, SRM Nagar, Kattankulathur",
         "a5": 12.8257,
-        "a6": 80.0428
+        "a6": 80.0428,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "114",
@@ -1441,7 +1780,10 @@
         "a3": 1423,
         "a4": "Asan Nagar, Thandarai, Oragadam Main Road, Chengalpet, PeriyaIrumbedu",
         "a5": 12.6485,
-        "a6": 80.0442
+        "a6": 80.0442,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "115",
@@ -1449,7 +1791,10 @@
         "a3": 1424,
         "a4": "Dhaanish Nagar Vanchuvancherry Padappai, Near, Tambaram, Chennai",
         "a5": 12.8733,
-        "a6": 79.9947
+        "a6": 79.9947,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "116",
@@ -1457,7 +1802,10 @@
         "a3": 1426,
         "a4": "Vandalur-Kelambakkam Road, Kolapakkam, Chennai",
         "a5": 12.8652,
-        "a6": 80.1134
+        "a6": 80.1134,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "117",
@@ -1465,7 +1813,10 @@
         "a3": 1427,
         "a4": "Panapakkam, near Padappai, Via, Tambaram, Chennai",
         "a5": 12.8638,
-        "a6": 79.9729
+        "a6": 79.9729,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "118",
@@ -1473,7 +1824,10 @@
         "a3": 1428,
         "a4": "NH-45, Thiruchi-Chennai Highway, Villupuram",
         "a5": 11.9636,
-        "a6": 79.5015
+        "a6": 79.5015,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "119",
@@ -1481,7 +1835,10 @@
         "a3": 1430,
         "a4": "NH 79, Salem Main Road, A. Vasudevanur, Chinna Salem, Villupuram",
         "a5": 11.6024,
-        "a6": 78.8256
+        "a6": 78.8256,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "120",
@@ -1489,7 +1846,10 @@
         "a3": 1431,
         "a4": "Vengaivasal Main Road, Gowrivakkam, Chennai",
         "a5": 12.9148,
-        "a6": 80.1686
+        "a6": 80.1686,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "121",
@@ -1497,7 +1857,10 @@
         "a3": 1432,
         "a4": "Kuthambakkam Post, National Highway 4, Chembarambakkam, Chennai",
         "a5": 13.0392,
-        "a6": 80.045
+        "a6": 80.045,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "122",
@@ -1505,7 +1868,10 @@
         "a3": 1433,
         "a4": "SH 136, Villupuram",
         "a5": 12.0085,
-        "a6": 79.7454
+        "a6": 79.7454,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "123",
@@ -1513,7 +1879,10 @@
         "a3": 1434,
         "a4": "668, Nehruji Road, Villpuram",
         "a5": 12.0583,
-        "a6": 79.548
+        "a6": 79.548,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "124",
@@ -1521,7 +1890,10 @@
         "a3": 1435,
         "a4": "Thiruporur, Old Mahabalipuram Road",
         "a5": 12.7044,
-        "a6": 80.1985
+        "a6": 80.1985,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "125",
@@ -1529,7 +1901,10 @@
         "a3": 1436,
         "a4": "Kappiampuliyur",
         "a5": 11.9734,
-        "a6": 79.5375
+        "a6": 79.5375,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "126",
@@ -1537,7 +1912,10 @@
         "a3": 1437,
         "a4": "Vanchuvancherry, Vandalur - Oragadam - Walajabad Road, Padapai",
         "a5": 12.8777,
-        "a6": 79.9975
+        "a6": 79.9975,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "127",
@@ -1545,7 +1923,10 @@
         "a3": 1438,
         "a4": "Anaicut Post, Vellore Dist",
         "a5": 12.8738,
-        "a6": 78.9698
+        "a6": 78.9698,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "128",
@@ -1553,7 +1934,10 @@
         "a3": 1439,
         "a4": "Tiruvannamalai",
         "a5": 12.4977,
-        "a6": 79.6361
+        "a6": 79.6361,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "129",
@@ -1561,7 +1945,10 @@
         "a3": 1440,
         "a4": "SH 114, Towards, to, Chennai - Tiruvallur High Road, Redhills, Koduvalli",
         "a5": 13.2061,
-        "a6": 80.0679
+        "a6": 80.0679,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "130",
@@ -1569,7 +1956,10 @@
         "a3": 1441,
         "a4": "AKT Nagar, Neelamangalam, AKT Memorial College Road",
         "a5": 11.7417,
-        "a6": 78.9823
+        "a6": 78.9823,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "131",
@@ -1577,7 +1967,10 @@
         "a3": 1442,
         "a4": "Mambakkam - Medavakkam Main Road, Ponmar, Chennai",
         "a5": 12.8531,
-        "a6": 80.1715
+        "a6": 80.1715,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "132",
@@ -1585,7 +1978,10 @@
         "a3": 1444,
         "a4": "Mudukarai-Pavinjur Road, Near Zamin Endathur, Madurantakam, Muruganthangal",
         "a5": 12.4621,
-        "a6": 79.9226
+        "a6": 79.9226,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "133",
@@ -1593,7 +1989,10 @@
         "a3": 1445,
         "a4": "Alampoondi Gingee Taluk",
         "a5": 12.2462,
-        "a6": 79.3521
+        "a6": 79.3521,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "134",
@@ -1601,7 +2000,10 @@
         "a3": 1447,
         "a4": "SABARMATHI, No.54, Kalaignar Karunanidhi Road, Kaverirangan Nagar,, Saligramam, Chennai",
         "a5": 13.0553,
-        "a6": 80.2005
+        "a6": 80.2005,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "135",
@@ -1609,7 +2011,10 @@
         "a3": 1448,
         "a4": "Kanchipuram - Cheyyar, Main Road, Cheyyar",
         "a5": 12.6924,
-        "a6": 79.5816
+        "a6": 79.5816,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "136",
@@ -1617,7 +2022,10 @@
         "a3": 1449,
         "a4": "Vanniar Educational Trust, Olakkur, Tindivanam",
         "a5": 12.3045,
-        "a6": 79.7399
+        "a6": 79.7399,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "137",
@@ -1625,7 +2033,10 @@
         "a3": 1450,
         "a4": "Loyola Campus, Nungambakkam, Chennai",
         "a5": 13.0593,
-        "a6": 80.2337
+        "a6": 80.2337,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "138",
@@ -1633,7 +2044,10 @@
         "a3": 1452,
         "a4": "No.1, Near West Tambaram, Mannivakkam, Chennai",
         "a5": 12.886,
-        "a6": 80.0608
+        "a6": 80.0608,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "139",
@@ -1641,7 +2055,10 @@
         "a3": 1501,
         "a4": "Kalavai, Vellore, SH-5, Tiruvettipuram Vandavasi,Tindivanam Road, Paradharami",
         "a5": 12.8016,
-        "a6": 79.434
+        "a6": 79.434,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "140",
@@ -1649,7 +2066,10 @@
         "a3": 1503,
         "a4": "Vadamavandal, Namandi P.O, Cheyyar Taluk, Near Kanchipuram",
         "a5": 12.7817,
-        "a6": 79.6279
+        "a6": 79.6279,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "141",
@@ -1657,7 +2077,10 @@
         "a3": 1504,
         "a4": "Velu Nagar, Vellore - Thoothukudi Highway, High way, State Highway 9, Su.Kilnachipattu",
         "a5": 12.193,
-        "a6": 79.0835
+        "a6": 79.0835,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "142",
@@ -1665,7 +2088,10 @@
         "a3": 1505,
         "a4": "Melvisharam, Vellore District",
         "a5": 12.9075,
-        "a6": 79.2958
+        "a6": 79.2958,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "143",
@@ -1673,7 +2099,10 @@
         "a3": 1506,
         "a4": "Pillaiyar Kuppam, Perumugai",
         "a5": 12.9524,
-        "a6": 79.2138
+        "a6": 79.2138,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "144",
@@ -1681,7 +2110,10 @@
         "a3": 1507,
         "a4": "Ganadipathy Tulsi's Jain Engineering College, Chittoor-Cuddalore Road, Kaniyambadi, Vellore",
         "a5": 12.8162,
-        "a6": 79.1358
+        "a6": 79.1358,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "145",
@@ -1689,7 +2121,10 @@
         "a3": 1508,
         "a4": "Tiruvannamalai",
         "a5": 12.19,
-        "a6": 79.0818
+        "a6": 79.0818,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "146",
@@ -1697,7 +2132,10 @@
         "a3": 1509,
         "a4": "12, Vembuliamman Koil Street, KK Nagar West, Chennai",
         "a5": 13.0417,
-        "a6": 80.1887
+        "a6": 80.1887,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "147",
@@ -1705,7 +2143,10 @@
         "a3": 1510,
         "a4": "Bharat Nagar, Kalendira, Vellore",
         "a5": 12.6507,
-        "a6": 78.6048
+        "a6": 78.6048,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "148",
@@ -1713,7 +2154,10 @@
         "a3": 1511,
         "a4": "Thangal, Walaja, Vellore, 632513",
         "a5": 12.9119,
-        "a6": 79.394
+        "a6": 79.394,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "149",
@@ -1721,7 +2165,10 @@
         "a3": 1512,
         "a4": "NH 66, Somasipadi Post, Chinnakangiyanur, Tiruvannamalai",
         "a5": 12.2355,
-        "a6": 79.1233
+        "a6": 79.1233,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "150",
@@ -1729,7 +2176,10 @@
         "a3": 1513,
         "a4": "A.C.S. NAGAR, IRUMBEDU, Arani",
         "a5": 12.6964,
-        "a6": 79.2975
+        "a6": 79.2975,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "151",
@@ -1737,7 +2187,10 @@
         "a3": 1514,
         "a4": "Mangamma Road, Tamil Nagar, Kasinaickenpatti",
         "a5": 12.4613,
-        "a6": 78.5427
+        "a6": 78.5427,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "152",
@@ -1745,7 +2198,10 @@
         "a3": 1515,
         "a4": "Jambukulam Road, Melvenkatapuram, Sholinghur",
         "a5": 13.0278,
-        "a6": 79.3884
+        "a6": 79.3884,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "153",
@@ -1753,7 +2209,10 @@
         "a3": 1516,
         "a4": "Bagayam, Vellore",
         "a5": 12.8802,
-        "a6": 79.1205
+        "a6": 79.1205,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "154",
@@ -1761,7 +2220,10 @@
         "a3": 1517,
         "a4": "Kilambi, Kanchipuram",
         "a5": 12.8645,
-        "a6": 79.66
+        "a6": 79.66,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "155",
@@ -1769,7 +2231,10 @@
         "a3": 1518,
         "a4": "Vandavasi Road, Ponnur Malai",
         "a5": 12.4986,
-        "a6": 79.5181
+        "a6": 79.5181,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "156",
@@ -1777,7 +2242,10 @@
         "a3": 1519,
         "a4": "Natrampalli, Vellore",
         "a5": 12.5729,
-        "a6": 78.4813
+        "a6": 78.4813,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "157",
@@ -1785,7 +2253,10 @@
         "a3": 1520,
         "a4": "Chittur, East Main Road, Christainpet, Katpadi, Vellore",
         "a5": 13.0127,
-        "a6": 79.1334
+        "a6": 79.1334,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "158",
@@ -1793,7 +2264,10 @@
         "a3": 1521,
         "a4": "No. 381, MBT Road, Ocheri, Arakonam Taluk, Vellore",
         "a5": 12.8955,
-        "a6": 79.5087
+        "a6": 79.5087,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "159",
@@ -1801,7 +2275,10 @@
         "a3": 1523,
         "a4": "257/1, Bangalore-Chennai Highway, Melvisharam, Vellore",
         "a5": 12.9266,
-        "a6": 79.2704
+        "a6": 79.2704,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "160",
@@ -1809,7 +2286,10 @@
         "a3": 1524,
         "a4": "Tiruvannamalai",
         "a5": 12.502,
-        "a6": 79.2431
+        "a6": 79.2431,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "161",
@@ -1817,7 +2297,10 @@
         "a3": 1525,
         "a4": "Salem Rd, Adiyur, Tirupattur",
         "a5": 12.4586,
-        "a6": 78.5664
+        "a6": 78.5664,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "162",
@@ -1825,7 +2308,10 @@
         "a3": 1526,
         "a4": "State Highway 58, Arakkonam",
         "a5": 13.1013,
-        "a6": 79.6492
+        "a6": 79.6492,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "163",
@@ -1833,7 +2319,10 @@
         "a3": 1529,
         "a4": "Tiruvannamalai",
         "a5": 12.5083,
-        "a6": 79.1539
+        "a6": 79.1539,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "164",
@@ -1841,7 +2330,10 @@
         "a3": 1605,
         "a4": "Devakottai",
         "a5": 9.9369,
-        "a6": 78.8294
+        "a6": 78.8294,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "165",
@@ -1849,7 +2341,10 @@
         "a3": 2005,
         "a4": "Thadagam Road, Coimbatore",
         "a5": 11.0196,
-        "a6": 76.9385
+        "a6": 76.9385,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "166",
@@ -1857,7 +2352,10 @@
         "a3": 2006,
         "a4": "Avinashi Road, Peelamedu, Coimbatore",
         "a5": 11.0247,
-        "a6": 77.0021
+        "a6": 77.0021,
+        "a7": {
+          "a71": "Government Aided College"
+        }
       },
       {
         "a1": "167",
@@ -1865,7 +2363,10 @@
         "a3": 2007,
         "a4": "Avinashi Road, Civil Aerodrome Post, Coimbatore",
         "a5": 11.0283,
-        "a6": 77.0273
+        "a6": 77.0273,
+        "a7": {
+          "a71": "Government Aided College"
+        }
       },
       {
         "a1": "168",
@@ -1873,7 +2374,10 @@
         "a3": 2025,
         "a4": "Maruthamalai Main Road, Navavoor, Coimbatore(Dt)",
         "a5": 11.0425,
-        "a6": 76.8861
+        "a6": 76.8861,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "169",
@@ -1881,7 +2385,10 @@
         "a3": 2302,
         "a4": "Puthur",
         "a5": 11.437,
-        "a6": 77.8806
+        "a6": 77.8806,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "170",
@@ -1889,7 +2396,10 @@
         "a3": 2314,
         "a4": "Attur - Rasipuram Road, Kakkaveri",
         "a5": 11.4445,
-        "a6": 78.2251
+        "a6": 78.2251,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "171",
@@ -1897,7 +2407,10 @@
         "a3": 2327,
         "a4": "N.S.N. Kalvi Nagar, Manalmedu, Thalapatti Post, National Highway 44",
         "a5": 10.8916,
-        "a6": 78.0274
+        "a6": 78.0274,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "172",
@@ -1905,7 +2418,10 @@
         "a3": 2328,
         "a4": "K.S.R. Kalvi Nagar, Namakkal, Tiruchengode",
         "a5": 11.3584,
-        "a6": 77.8319
+        "a6": 77.8319,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "173",
@@ -1913,7 +2429,10 @@
         "a3": 2329,
         "a4": "Rathinam Techzone Campus, Pollachi Main Road, Eachanari, Coimbatore",
         "a5": 10.9343,
-        "a6": 76.9798
+        "a6": 76.9798,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "174",
@@ -1921,7 +2440,10 @@
         "a3": 2332,
         "a4": "Errattaikaradu, Anthiyur, Bhavani Taluk,, Bhavani-Anthiyur-Kollegal Road, Erode",
         "a5": 11.5162,
-        "a6": 77.6427
+        "a6": 77.6427,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "175",
@@ -1929,7 +2451,10 @@
         "a3": 2337,
         "a4": "State Highway 96, Perundurai - Chennimalai State Highway, Perundurai Taluk, Erode",
         "a5": 11.2113,
-        "a6": 77.5841
+        "a6": 77.5841,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "176",
@@ -1937,7 +2462,10 @@
         "a3": 2338,
         "a4": "294/2, Asian College Road, Near Saravanampatti, Kondayampalayam, Coimbatore",
         "a5": 11.1372,
-        "a6": 77.017
+        "a6": 77.017,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "177",
@@ -1945,7 +2473,10 @@
         "a3": 2340,
         "a4": "NH-7, Bangalore Main Road, Melumalai Village, Krishnagiri",
         "a5": 12.7379,
-        "a6": 77.8215
+        "a6": 77.8215,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "178",
@@ -1953,7 +2484,10 @@
         "a3": 2341,
         "a4": "Attur Main Road, Near Government High School, Mettupatti, Salem",
         "a5": 11.6662,
-        "a6": 78.3065
+        "a6": 78.3065,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "179",
@@ -1961,7 +2495,10 @@
         "a3": 2342,
         "a4": "SF NO: 162, Athipalayam, Thudiyalur to Kovil Palayam Road, Coimbatore",
         "a5": 11.129,
-        "a6": 76.9862
+        "a6": 76.9862,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "180",
@@ -1969,7 +2506,10 @@
         "a3": 2343,
         "a4": "Ponnammapet, Salem",
         "a5": 11.6619,
-        "a6": 78.1676
+        "a6": 78.1676,
+        "a7": {
+          "a71": "Government of India"
+        }
       },
       {
         "a1": "181",
@@ -1977,7 +2517,10 @@
         "a3": 2345,
         "a4": "Sikanampatty,Omalur, Salem",
         "a5": 11.7968,
-        "a6": 78.0562
+        "a6": 78.0562,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "182",
@@ -1985,7 +2528,10 @@
         "a3": 2346,
         "a4": "Shree sathyam college of engineering and technology, Sankari, Manjakkalpatty, Salem - Kochi Highway, Manjakalpatti",
         "a5": 11.4975,
-        "a6": 77.874
+        "a6": 77.874,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "183",
@@ -1993,7 +2539,10 @@
         "a3": 2347,
         "a4": "Near AVS College of Arts & Science, Attur Main Road, Chinnagoundapuram, Salem",
         "a5": 11.6571,
-        "a6": 78.2601
+        "a6": 78.2601,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "184",
@@ -2001,7 +2550,10 @@
         "a3": 2349,
         "a4": "Dhaanish Avenue, Verappanur, KG Chavadi, Coimbatore",
         "a5": 10.848,
-        "a6": 76.879
+        "a6": 76.879,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "185",
@@ -2009,7 +2561,10 @@
         "a3": 2350,
         "a4": "SH 81, Kathankanni PO, Thottipalayam",
         "a5": 11.1034,
-        "a6": 77.4657
+        "a6": 77.4657,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "186",
@@ -2017,7 +2572,10 @@
         "a3": 2354,
         "a4": "Poosaripatti, Pollachi - Dharapuram - Mulanur, Karur Road, Coimbatore",
         "a5": 10.6766,
-        "a6": 77.1175
+        "a6": 77.1175,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "187",
@@ -2025,7 +2583,10 @@
         "a3": 2355,
         "a4": "Cheran Nagar, Coimbatore Highway NH 67, K.Paramathi, Aravakuruchi Taluk",
         "a5": 10.9614,
-        "a6": 77.8967
+        "a6": 77.8967,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "188",
@@ -2033,7 +2594,10 @@
         "a3": 2356,
         "a4": "Thennilai East",
         "a5": 10.9545,
-        "a6": 77.8259
+        "a6": 77.8259,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "189",
@@ -2041,7 +2605,10 @@
         "a3": 2357,
         "a4": "NH-209, Coimbatore-Pollachi main road, Ealur Pirivu, Solavampalayam(po), Coimbatore",
         "a5": 10.8435,
-        "a6": 77.0179
+        "a6": 77.0179,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "190",
@@ -2049,7 +2616,10 @@
         "a3": 2358,
         "a4": "Tiruppur",
         "a5": 10.936,
-        "a6": 77.2392
+        "a6": 77.2392,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "191",
@@ -2057,7 +2627,10 @@
         "a3": 2360,
         "a4": "Near International, Kalapatti Road, Airport Road, Nehru Nagar West, Coimbatore",
         "a5": 11.0502,
-        "a6": 77.0324
+        "a6": 77.0324,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "192",
@@ -2065,7 +2638,10 @@
         "a3": 2362,
         "a4": "Kalingavaram Road, Errandappalli Village, Beerpalli PO, Ramapuram Via,, Krishnagiri",
         "a5": 12.6468,
-        "a6": 78.0769
+        "a6": 78.0769,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "193",
@@ -2073,7 +2649,10 @@
         "a3": 2367,
         "a4": "Chettiyakkapalayam, Thamaraikulam-Nehamam Main road, Kinathukadavu, Coimbatore",
         "a5": 10.7313,
-        "a6": 77.0795
+        "a6": 77.0795,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "194",
@@ -2081,7 +2660,10 @@
         "a3": 2368,
         "a4": "10/1, Kambar Street, Kanjikonampalayam Vellalore, Po, South(Tk, Coimbatore",
         "a5": 10.9648,
-        "a6": 77.0183
+        "a6": 77.0183,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "195",
@@ -2089,7 +2671,10 @@
         "a3": 2369,
         "a4": "Settikarai - PO, Dharmapuri",
         "a5": 12.1314,
-        "a6": 78.1976
+        "a6": 78.1976,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "196",
@@ -2097,7 +2682,10 @@
         "a3": 2377,
         "a4": "Salem-Coimbatore Highway, Avinashi Road, Neelambur, Coimbatore",
         "a5": 11.0654,
-        "a6": 77.0928
+        "a6": 77.0928,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "197",
@@ -2105,7 +2693,10 @@
         "a3": 2601,
         "a4": "Dr. M.G.R. Nagar,Bangalore- District, Hosur Inner Ring Road, Hosur",
         "a5": 12.7179,
-        "a6": 77.8701
+        "a6": 77.8701,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "198",
@@ -2113,7 +2704,10 @@
         "a3": 2602,
         "a4": "Erumapatty, Namakkal",
         "a5": 11.1565,
-        "a6": 78.3071
+        "a6": 78.3071,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "199",
@@ -2121,7 +2715,10 @@
         "a3": 2603,
         "a4": "Madepalli, Barugur, burgur",
         "a5": 12.5469,
-        "a6": 78.3316
+        "a6": 78.3316,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "200",
@@ -2129,7 +2726,10 @@
         "a3": 2606,
         "a4": "Opposite to SIB, Dharmapuri - Hogenakkal Road, Nallanur",
         "a5": 12.1365,
-        "a6": 78.0083
+        "a6": 78.0083,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "201",
@@ -2137,7 +2737,10 @@
         "a3": 2607,
         "a4": "KSR Kalvi Nagar, Tiruchengode, Namakkal",
         "a5": 11.3628,
-        "a6": 77.8279
+        "a6": 77.8279,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "202",
@@ -2145,7 +2748,10 @@
         "a3": 2608,
         "a4": "Karur, Thalavapalayam",
         "a5": 11.0549,
-        "a6": 78.0481
+        "a6": 78.0481,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "203",
@@ -2153,7 +2759,10 @@
         "a3": 2609,
         "a4": "Salem - Thiruchengode Highway, Mahendhirapuri, Namakkal District, Mallasamudram",
         "a5": 11.4765,
-        "a6": 77.9997
+        "a6": 77.9997,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "204",
@@ -2161,7 +2770,10 @@
         "a3": 2610,
         "a4": "Rasipuram",
         "a5": 11.4447,
-        "a6": 78.2265
+        "a6": 78.2265,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "205",
@@ -2169,7 +2781,10 @@
         "a3": 2611,
         "a4": "Paavai Nagar, NH-7,, Namakkal",
         "a5": 11.399,
-        "a6": 78.1607
+        "a6": 78.1607,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "206",
@@ -2177,7 +2792,10 @@
         "a3": 2612,
         "a4": "Karur Road, National Highway 44, Namakkal",
         "a5": 11.1747,
-        "a6": 78.0464
+        "a6": 78.0464,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "207",
@@ -2185,7 +2803,10 @@
         "a3": 2613,
         "a4": "Tiruchengode, KSR Kalvi Nagar",
         "a5": 11.3585,
-        "a6": 77.8267
+        "a6": 77.8267,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "208",
@@ -2193,7 +2814,10 @@
         "a3": 2614,
         "a4": "NH 47 Valyakaranoor, Salem Main Road, Komarapalayam",
         "a5": 11.4413,
-        "a6": 77.7412
+        "a6": 77.7412,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "209",
@@ -2201,7 +2825,10 @@
         "a3": 2615,
         "a4": "National Highway 44, Karuppur, Salem",
         "a5": 11.7136,
-        "a6": 78.0872
+        "a6": 78.0872,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "210",
@@ -2209,7 +2836,10 @@
         "a3": 2616,
         "a4": "National Highway 44, Periyanahalli",
         "a5": 12.2462,
-        "a6": 78.1934
+        "a6": 78.1934,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "211",
@@ -2217,7 +2847,10 @@
         "a3": 2617,
         "a4": "Kumaramangalam Road, Tiruchengode",
         "a5": 11.3773,
-        "a6": 77.9257
+        "a6": 77.9257,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "212",
@@ -2225,7 +2858,10 @@
         "a3": 2618,
         "a4": "Junction Main Road, Salem",
         "a5": 11.679,
-        "a6": 78.1244
+        "a6": 78.1244,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "213",
@@ -2233,7 +2869,10 @@
         "a3": 2620,
         "a4": "Namakkal, Elaiyampalayam, Tiruchengode - TK",
         "a5": 11.3578,
-        "a6": 77.9466
+        "a6": 77.9466,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "214",
@@ -2241,7 +2880,10 @@
         "a3": 2621,
         "a4": "NH-7, 17th KM Hosur to Krishnagiri Highways, Nallaganakothapalli, Hosur",
         "a5": 12.6732,
-        "a6": 77.966
+        "a6": 77.966,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "215",
@@ -2249,7 +2891,10 @@
         "a3": 2622,
         "a4": "67, Covai Road, Karudayapalayam Post, Karur",
         "a5": 10.9543,
-        "a6": 77.9544
+        "a6": 77.9544,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "216",
@@ -2257,7 +2902,10 @@
         "a3": 2623,
         "a4": "Chennai main road, Salem",
         "a5": 11.668,
-        "a6": 78.2643
+        "a6": 78.2643,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "217",
@@ -2265,7 +2913,10 @@
         "a3": 2624,
         "a4": "NH-7, A.K.Samuthiram, Pachal P.O, Namakkal",
         "a5": 11.4203,
-        "a6": 78.1577
+        "a6": 78.1577,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "218",
@@ -2273,7 +2924,10 @@
         "a3": 2625,
         "a4": "Mecheri, Thoppur-Mettur Dam-Bhavani-Erode Road, M.Kalipatti",
         "a5": 11.8249,
-        "a6": 77.9334
+        "a6": 77.9334,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "219",
@@ -2281,7 +2935,10 @@
         "a3": 2627,
         "a4": "Ponnusamy Nagar, Namakkal",
         "a5": 11.2742,
-        "a6": 78.1606
+        "a6": 78.1606,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "220",
@@ -2289,7 +2946,10 @@
         "a3": 2628,
         "a4": "NH-7, Service Road, Paavai Nagar, Pachal",
         "a5": 11.4003,
-        "a6": 78.1618
+        "a6": 78.1618,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "221",
@@ -2297,7 +2957,10 @@
         "a3": 2629,
         "a4": "Kumaramangalam, Namakkal",
         "a5": 11.3795,
-        "a6": 77.9263
+        "a6": 77.9263,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "222",
@@ -2305,7 +2968,10 @@
         "a3": 2630,
         "a4": "NH-67, Karur Trichy Highways, Puliyur CF, Karur",
         "a5": 10.9392,
-        "a6": 78.1359
+        "a6": 78.1359,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "223",
@@ -2313,7 +2979,10 @@
         "a3": 2631,
         "a4": "Trichy Main Road, Nallur, Namakkal",
         "a5": 11.1704,
-        "a6": 78.2024
+        "a6": 78.2024,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "224",
@@ -2321,7 +2990,10 @@
         "a3": 2632,
         "a4": "Mahendhirapuri, Mallasamudram west, Namakkal District, Tiruchengode",
         "a5": 11.4777,
-        "a6": 78.0039
+        "a6": 78.0039,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "225",
@@ -2329,7 +3001,10 @@
         "a3": 2633,
         "a4": "Koottappalli,Tiruchengode",
         "a5": 11.3605,
-        "a6": 77.8522
+        "a6": 77.8522,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "226",
@@ -2337,7 +3012,10 @@
         "a3": 2634,
         "a4": "NH 544, Salem Main Road, Pallakapalayam, Komarapalayam",
         "a5": 11.4484,
-        "a6": 77.7713
+        "a6": 77.7713,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "227",
@@ -2345,7 +3023,10 @@
         "a3": 2635,
         "a4": "SH 94, Namakkal",
         "a5": 11.2652,
-        "a6": 78.0975
+        "a6": 78.0975,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "228",
@@ -2353,7 +3034,10 @@
         "a3": 2636,
         "a4": "2, Military Road, Ammapet, Salem",
         "a5": 11.6635,
-        "a6": 78.1832
+        "a6": 78.1832,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "229",
@@ -2361,7 +3045,10 @@
         "a3": 2638,
         "a4": "Kumaramangalam, Kavundampalayam",
         "a5": 11.3695,
-        "a6": 77.9244
+        "a6": 77.9244,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "230",
@@ -2369,7 +3056,10 @@
         "a3": 2639,
         "a4": "Omalur Taluk, Salem District, Poosaripatti",
         "a5": 11.8401,
-        "a6": 78.0598
+        "a6": 78.0598,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "231",
@@ -2377,7 +3067,10 @@
         "a3": 2640,
         "a4": "Thoppur",
         "a5": 11.9469,
-        "a6": 78.0495
+        "a6": 78.0495,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "232",
@@ -2385,7 +3078,10 @@
         "a3": 2641,
         "a4": "Krishnagiri Main Road, NH-7, Gundalapattay, Dharmapuri",
         "a5": 12.1789,
-        "a6": 78.1712
+        "a6": 78.1712,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "233",
@@ -2393,7 +3089,10 @@
         "a3": 2642,
         "a4": "Mittapalli, Balinayanapalli, Elathagiri",
         "a5": 12.5345,
-        "a6": 78.303
+        "a6": 78.303,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "234",
@@ -2401,7 +3100,10 @@
         "a3": 2643,
         "a4": "43/3, Deviyakurichi, Attur, Salem",
         "a5": 11.5875,
-        "a6": 78.7398
+        "a6": 78.7398,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "235",
@@ -2409,7 +3111,10 @@
         "a3": 2646,
         "a4": "Deviyakurichi, Attur TK, Salem",
         "a5": 11.5883,
-        "a6": 78.7232
+        "a6": 78.7232,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "236",
@@ -2417,7 +3122,10 @@
         "a3": 2647,
         "a4": "Girivala Pathai Road",
         "a5": 11.4427,
-        "a6": 77.7293
+        "a6": 77.7293,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "237",
@@ -2425,7 +3133,10 @@
         "a3": 2648,
         "a4": "Sankari Main Road Periya Seeragapadi, Salem",
         "a5": 11.5804,
-        "a6": 78.0478
+        "a6": 78.0478,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "238",
@@ -2433,7 +3144,10 @@
         "a3": 2649,
         "a4": "Sanjay Nagar, Erode-Karur Road, Athur, Andankoil East",
         "a5": 10.9789,
-        "a6": 78.0384
+        "a6": 78.0384,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "239",
@@ -2441,7 +3155,10 @@
         "a3": 2650,
         "a4": "158/3, Cecilia Gardens, Onnipalayam Road, Karamadai",
         "a5": 11.2264,
-        "a6": 76.981
+        "a6": 76.981,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "240",
@@ -2449,7 +3166,10 @@
         "a3": 2651,
         "a4": "Avinashipalayam, Tiruppur",
         "a5": 10.9727,
-        "a6": 77.4245
+        "a6": 77.4245,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "241",
@@ -2457,7 +3177,10 @@
         "a3": 2652,
         "a4": "Erode-Modakuruchi Main road, Kurundevan Palayam, Nanjai Uthukili(PO), Erode",
         "a5": 11.269,
-        "a6": 77.7645
+        "a6": 77.7645,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "242",
@@ -2465,7 +3188,10 @@
         "a3": 2653,
         "a4": "Knowledge College Road, Kakapalayam",
         "a5": 11.5541,
-        "a6": 78.019
+        "a6": 78.019,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "243",
@@ -2473,7 +3199,10 @@
         "a3": 2654,
         "a4": "J P Nagar, Arasampalayam, Coimbatore",
         "a5": 10.8538,
-        "a6": 77.0344
+        "a6": 77.0344,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "244",
@@ -2481,7 +3210,10 @@
         "a3": 2655,
         "a4": "Kulithalai- Manapparai Road, Near AyyerMalai, Kulithalai, Karur",
         "a5": 10.818,
-        "a6": 78.3858
+        "a6": 78.3858,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "245",
@@ -2489,7 +3221,10 @@
         "a3": 2656,
         "a4": "Mullipuram Post, Nathakadaiyur, Taluk, Kangayam",
         "a5": 11.0715,
-        "a6": 77.6525
+        "a6": 77.6525,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "246",
@@ -2497,7 +3232,10 @@
         "a3": 2657,
         "a4": "NH-7, Service Road, Paavai Nagar, Pachal",
         "a5": 11.4003,
-        "a6": 78.1618
+        "a6": 78.1618,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "247",
@@ -2505,7 +3243,10 @@
         "a3": 2658,
         "a4": "NH-47 Main Road, Uthamasolapuram Post, Salem",
         "a5": 11.5767,
-        "a6": 78.052
+        "a6": 78.052,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "248",
@@ -2513,7 +3254,10 @@
         "a3": 2659,
         "a4": "NH-68, Salem-Attur Main Road, Mettupatty, Perumapalayam, Selliamman Nagar, Salem",
         "a5": 11.6653,
-        "a6": 78.3319
+        "a6": 78.3319,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "249",
@@ -2521,7 +3265,10 @@
         "a3": 2660,
         "a4": "NH-7, A.K.Samuthiram, Pachal P.O, Namakkal",
         "a5": 11.4203,
-        "a6": 78.1577
+        "a6": 78.1577,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "250",
@@ -2529,7 +3276,10 @@
         "a3": 2661,
         "a4": "Elayampalayam, Sathinaickenpalayam, Namakkal",
         "a5": 11.3577,
-        "a6": 77.9418
+        "a6": 77.9418,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "251",
@@ -2537,7 +3287,10 @@
         "a3": 2662,
         "a4": "Anathagoundampalayam, Minakkal, Mullur, Rasipuram, India, Namakkal",
         "a5": 11.524,
-        "a6": 78.1103
+        "a6": 78.1103,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "252",
@@ -2545,7 +3298,10 @@
         "a3": 2663,
         "a4": "Harur Main Road, Kuppanur",
         "a5": 11.7481,
-        "a6": 78.2845
+        "a6": 78.2845,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "253",
@@ -2553,7 +3309,10 @@
         "a3": 2664,
         "a4": "NH-544, Salem Main Road, Sankari West, Pallakkapalayam, Komarapalayam",
         "a5": 11.4462,
-        "a6": 77.7691
+        "a6": 77.7691,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "254",
@@ -2561,7 +3320,10 @@
         "a3": 2665,
         "a4": "Mahendrapuri, Tiruchengode - Salem Main Road, Mallasamudram West",
         "a5": 11.4774,
-        "a6": 78.003
+        "a6": 78.003,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "255",
@@ -2569,7 +3331,10 @@
         "a3": 2666,
         "a4": "Mecheri, Thoppur-Mettur Dam-Bhavani-Erode Road, M.Kalipatti",
         "a5": 11.8249,
-        "a6": 77.9334
+        "a6": 77.9334,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "256",
@@ -2577,7 +3342,10 @@
         "a3": 2673,
         "a4": "839/1-D, Bettathapuram Pudur, Karamadai, Coimbatore",
         "a5": 11.2212,
-        "a6": 76.9469
+        "a6": 76.9469,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "257",
@@ -2585,7 +3353,10 @@
         "a3": 2682,
         "a4": "K.N. Puram, Trichy Road, Palladam",
         "a5": 11.0081,
-        "a6": 77.2147
+        "a6": 77.2147,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "258",
@@ -2593,7 +3364,10 @@
         "a3": 2683,
         "a4": "B Pallipatti, Bommidi,, Pappireddipatti (TK)",
         "a5": 11.9566,
-        "a6": 78.2758
+        "a6": 78.2758,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "259",
@@ -2601,7 +3375,10 @@
         "a3": 2702,
         "a4": "Alathukombai Post, Erode District, Sathyamangalam",
         "a5": 11.4962,
-        "a6": 77.2768
+        "a6": 77.2768,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "260",
@@ -2609,7 +3386,10 @@
         "a3": 2704,
         "a4": "Thondamuthur, Vellimalaipattinam, Coimbatore District, Narasipuram",
         "a5": 10.9958,
-        "a6": 76.7716
+        "a6": 76.7716,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "261",
@@ -2617,7 +3397,10 @@
         "a3": 2705,
         "a4": "Ketti, Coonoor",
         "a5": 11.3741,
-        "a6": 76.7281
+        "a6": 76.7281,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "262",
@@ -2625,7 +3408,10 @@
         "a3": 2706,
         "a4": "Udumalai Road, Pollachi",
         "a5": 10.6559,
-        "a6": 77.0363
+        "a6": 77.0363,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "263",
@@ -2633,7 +3419,10 @@
         "a3": 2707,
         "a4": "Thudupathi-Sullipalayam Road,Erode -Dist, Perundurai",
         "a5": 11.3141,
-        "a6": 77.5514
+        "a6": 77.5514,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "264",
@@ -2641,7 +3430,10 @@
         "a3": 2708,
         "a4": "Hindusthan College Of Engineering And Technology Main Building, Ottakkalmandapam Road, Coimbatore",
         "a5": 10.8915,
-        "a6": 76.9908
+        "a6": 76.9908,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "265",
@@ -2649,7 +3441,10 @@
         "a3": 2709,
         "a4": "Near Vasavi College PO, Erode",
         "a5": 11.4151,
-        "a6": 77.6656
+        "a6": 77.6656,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "266",
@@ -2657,7 +3452,10 @@
         "a3": 2710,
         "a4": "Myleripalayam Village, Othakkal Mandapam",
         "a5": 10.8801,
-        "a6": 77.0224
+        "a6": 77.0224,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "267",
@@ -2665,7 +3463,10 @@
         "a3": 2711,
         "a4": "Thoppupalayam, Erode, Perundurai",
         "a5": 11.2742,
-        "a6": 77.607
+        "a6": 77.607,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "268",
@@ -2673,7 +3474,10 @@
         "a3": 2712,
         "a4": "Athipalayam Road, Chinnavedampatti, Coimbatore",
         "a5": 11.0778,
-        "a6": 76.9897
+        "a6": 76.9897,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "269",
@@ -2681,7 +3485,10 @@
         "a3": 2713,
         "a4": "Erode-Chennimalai Rd, Erode",
         "a5": 11.1847,
-        "a6": 77.6235
+        "a6": 77.6235,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "270",
@@ -2689,7 +3496,10 @@
         "a3": 2714,
         "a4": "Palankarai Village, Avinashi (TK), Coimbatore, Avinashi",
         "a5": 11.2052,
-        "a6": 77.3134
+        "a6": 77.3134,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "271",
@@ -2697,7 +3507,10 @@
         "a3": 2715,
         "a4": "Erode - Perundurai Main Road, Vaikkaalmedu, Erode",
         "a5": 11.2858,
-        "a6": 77.6213
+        "a6": 77.6213,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "272",
@@ -2705,7 +3518,10 @@
         "a3": 2716,
         "a4": "NH 47, Avinashi - Coimbatore Road, Kaniyur",
         "a5": 11.0921,
-        "a6": 77.1633
+        "a6": 77.1633,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "273",
@@ -2713,7 +3529,10 @@
         "a3": 2717,
         "a4": "Tirupur District, Vijayamangalam",
         "a5": 11.2173,
-        "a6": 77.4896
+        "a6": 77.4896,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "274",
@@ -2721,7 +3540,10 @@
         "a3": 2718,
         "a4": "Kuniamuthur, Coimbatore",
         "a5": 10.9365,
-        "a6": 76.9562
+        "a6": 76.9562,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "275",
@@ -2729,7 +3551,10 @@
         "a3": 2719,
         "a4": "NGGO Colony, Vattamalaipalayam, Coimbatore",
         "a5": 11.1022,
-        "a6": 76.9657
+        "a6": 76.9657,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "276",
@@ -2737,7 +3562,10 @@
         "a3": 2721,
         "a4": "Palanisame Ravi Nagar, Karumathampatti, Coimbatore",
         "a5": 11.1271,
-        "a6": 77.1999
+        "a6": 77.1999,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "277",
@@ -2745,7 +3573,10 @@
         "a3": 2722,
         "a4": "Golf Rd Arivozi Nagar, Kovai Pudur, Coimbatore",
         "a5": 10.9277,
-        "a6": 76.9257
+        "a6": 76.9257,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "278",
@@ -2753,7 +3584,10 @@
         "a3": 2723,
         "a4": "Thindal, Erode",
         "a5": 11.3237,
-        "a6": 77.6742
+        "a6": 77.6742,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "279",
@@ -2761,7 +3595,10 @@
         "a3": 2725,
         "a4": "Perur Chettipalayam, Pachapalayam, Coimbatore",
         "a5": 10.9417,
-        "a6": 76.9008
+        "a6": 76.9008,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "280",
@@ -2769,7 +3606,10 @@
         "a3": 2726,
         "a4": "Sathy Road, SNS Kalvi Nagar, Vazhiyampalayam, Coimbatore",
         "a5": 11.1,
-        "a6": 77.0266
+        "a6": 77.0266,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "281",
@@ -2777,7 +3617,10 @@
         "a3": 2727,
         "a4": "Sri Shakthi Nagar, L & T By Pass, Chinniyampalayam Post, Coimbatore",
         "a5": 11.0402,
-        "a6": 77.0744
+        "a6": 77.0744,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "282",
@@ -2785,7 +3628,10 @@
         "a3": 2729,
         "a4": "Nehru Gardens, Nehru College Road, T.M Palayam, Coimbatore",
         "a5": 10.8702,
-        "a6": 76.9263
+        "a6": 76.9263,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "283",
@@ -2793,7 +3639,10 @@
         "a3": 2730,
         "a4": "1025 Sulur Pirivu, Avinashi Road, Neelambur, Arasur",
         "a5": 11.0784,
-        "a6": 77.1087
+        "a6": 77.1087,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "284",
@@ -2801,7 +3650,10 @@
         "a3": 2731,
         "a4": "Kumaran Kottam Campus, Trichy Road, Kannampalayam, Coimbatore",
         "a5": 11.0155,
-        "a6": 77.1035
+        "a6": 77.1035,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "285",
@@ -2809,7 +3661,10 @@
         "a3": 2732,
         "a4": "NH - 209, Sathyamangalam Road, Kovilpalayam, Sarkar Samakulam,, Coimbatore",
         "a5": 11.1281,
-        "a6": 77.039
+        "a6": 77.039,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "286",
@@ -2817,7 +3672,10 @@
         "a3": 2733,
         "a4": "Angel Nagar, Dharapuram Road, P.K, Palayam",
         "a5": 11.0119,
-        "a6": 77.399
+        "a6": 77.399,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "287",
@@ -2825,7 +3683,10 @@
         "a3": 2734,
         "a4": "SNS Kalvi Nagar, Sathy Main Road (Opp. CRI Pumps), Kurumbapalayam (Po), S.S.Kulam (via), Coimbatore",
         "a5": 11.1038,
-        "a6": 77.0274
+        "a6": 77.0274,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "288",
@@ -2833,7 +3694,10 @@
         "a3": 2735,
         "a4": "S.F.No.247,248, L&T Bypass Road, Seerapalayam Village, Bodipalayam Post, Coimbatore",
         "a5": 10.9083,
-        "a6": 76.9786
+        "a6": 76.9786,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "289",
@@ -2841,7 +3705,10 @@
         "a3": 2736,
         "a4": "Sharp Nagar, Coimbatore",
         "a5": 11.0625,
-        "a6": 77.0347
+        "a6": 77.0347,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "290",
@@ -2849,7 +3716,10 @@
         "a3": 2737,
         "a4": "REC Kalvi Nagar, Thondamuthur, Zakirnaickenpalayam Village, Viraliyur Post, Thondamurthur Via, Coimbatore",
         "a5": 10.9935,
-        "a6": 76.7854
+        "a6": 76.7854,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "291",
@@ -2857,7 +3727,10 @@
         "a3": 2738,
         "a4": "Coimbatore",
         "a5": 11.1943,
-        "a6": 77.0739
+        "a6": 77.0739,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "292",
@@ -2865,7 +3738,10 @@
         "a3": 2739,
         "a4": "Vadasithur, Kinathukadavu - Kattampatti Road, Kondampatti",
         "a5": 10.828,
-        "a6": 77.0607
+        "a6": 77.0607,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "293",
@@ -2873,7 +3749,10 @@
         "a3": 2740,
         "a4": "National Highway 83, Malumichampatty",
         "a5": 10.8945,
-        "a6": 76.9971
+        "a6": 76.9971,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "294",
@@ -2881,7 +3760,10 @@
         "a3": 2741,
         "a4": "SH 19, Puliyampatti, Pollachi",
         "a5": 10.6795,
-        "a6": 77.0338
+        "a6": 77.0338,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "295",
@@ -2889,7 +3771,10 @@
         "a3": 2743,
         "a4": "NH-47, Palakkad Main Road, Near Nandhi Temple, Salem - Kochi - Kanyakumari Hwy, Pichanur",
         "a5": 10.8558,
-        "a6": 76.8668
+        "a6": 76.8668,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "296",
@@ -2897,7 +3782,10 @@
         "a3": 2744,
         "a4": "Sathy Road, Kurumbapalayam, Coimbatore",
         "a5": 11.1134,
-        "a6": 77.0364
+        "a6": 77.0364,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "297",
@@ -2905,7 +3793,10 @@
         "a3": 2745,
         "a4": "Wisdom Tree, Avinashi Road, Near Bye Pass, Neelambur, Coimbatore",
         "a5": 11.0679,
-        "a6": 77.0832
+        "a6": 77.0832,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "298",
@@ -2913,7 +3804,10 @@
         "a3": 2747,
         "a4": "Erode � Gobi Main Road, Sri Kalaivani Nagar, K.Mettupalayam Post, Gobichettipalayam, Erode District, Otthakkuthirai",
         "a5": 11.4405,
-        "a6": 77.5048
+        "a6": 77.5048,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "299",
@@ -2921,7 +3815,10 @@
         "a3": 2748,
         "a4": "Erode - Perundurai Highway, Kathirampatti, Mettukadai, Erode",
         "a5": 11.3122,
-        "a6": 77.6423
+        "a6": 77.6423,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "300",
@@ -2929,7 +3826,10 @@
         "a3": 2749,
         "a4": "Navakkarai (P.O), NH - 47, Palakkad Main Road, Coimbatore",
         "a5": 10.8643,
-        "a6": 76.8822
+        "a6": 76.8822,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "301",
@@ -2937,7 +3837,10 @@
         "a3": 2750,
         "a4": "Kannampalayam, Coimbatore",
         "a5": 11,
-        "a6": 77.0849
+        "a6": 77.0849,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "302",
@@ -2945,7 +3848,10 @@
         "a3": 2751,
         "a4": "365, Thudiyalur Road, Saravanampatty, Coimbatore",
         "a5": 11.085,
-        "a6": 76.998
+        "a6": 76.998,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "303",
@@ -2953,7 +3859,10 @@
         "a3": 2752,
         "a4": "Vailkaalmedu",
         "a5": 11.2855,
-        "a6": 77.6199
+        "a6": 77.6199,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "304",
@@ -2961,7 +3870,10 @@
         "a3": 2753,
         "a4": "209 Vilankurichi t - Sathy Road Road Villankurichi Saravanampatti P.O, Coimbatore",
         "a5": 11.0901,
-        "a6": 77.0184
+        "a6": 77.0184,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "305",
@@ -2969,7 +3881,10 @@
         "a3": 2754,
         "a4": "Nadupatti",
         "a5": 11.2066,
-        "a6": 77.4893
+        "a6": 77.4893,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "306",
@@ -2977,7 +3892,10 @@
         "a3": 2755,
         "a4": "Jawahar Gardens, Kaliyapuram, Thirumalayampalayam,, Coimbatore",
         "a5": 10.8688,
-        "a6": 76.9159
+        "a6": 76.9159,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "307",
@@ -2985,7 +3903,10 @@
         "a3": 2758,
         "a4": "Talamalai R.F., Gobichettipalayam",
         "a5": 11.5195,
-        "a6": 77.3956
+        "a6": 77.3956,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "308",
@@ -2993,7 +3914,10 @@
         "a3": 2761,
         "a4": "Gudalur Koundampalayam, Periyanaickenpalayam, Coimbatore",
         "a5": 11.1703,
-        "a6": 76.9222
+        "a6": 76.9222,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "309",
@@ -3001,7 +3925,10 @@
         "a3": 2762,
         "a4": "Karumathampatti",
         "a5": 11.116,
-        "a6": 77.188
+        "a6": 77.188,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "310",
@@ -3009,7 +3936,10 @@
         "a3": 2763,
         "a4": "Kinathukadavu, Coimbatore",
         "a5": 10.8096,
-        "a6": 77.0112
+        "a6": 77.0112,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "311",
@@ -3017,7 +3947,10 @@
         "a3": 2764,
         "a4": "Kollupalayam , Arasur, Coimbatore",
         "a5": 11.0767,
-        "a6": 77.1419
+        "a6": 77.1419,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "312",
@@ -3025,7 +3958,10 @@
         "a3": 2765,
         "a4": "Varathaiyangarpalayam, Near Saravanampatti, Sri Guru College Road, Coimbatore",
         "a5": 11.1176,
-        "a6": 77.0159
+        "a6": 77.0159,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "313",
@@ -3033,7 +3969,10 @@
         "a3": 2767,
         "a4": "SH-95, Mohanur Road,Aniyapuram (PO),Namakkal",
         "a5": 11.1337,
-        "a6": 78.1539
+        "a6": 78.1539,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "314",
@@ -3041,7 +3980,10 @@
         "a3": 2768,
         "a4": "Prema Ravi Nagar, Karumathampatti, Coimbatore, TCE Main Road",
         "a5": 11.1298,
-        "a6": 77.2105
+        "a6": 77.2105,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "315",
@@ -3049,7 +3991,10 @@
         "a3": 2769,
         "a4": "Pichanur Road, Off NH 47, Pichanur, Coimbatore",
         "a5": 10.8364,
-        "a6": 76.879
+        "a6": 76.879,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "316",
@@ -3057,7 +4002,10 @@
         "a3": 2770,
         "a4": "1/2A-1, Alagu Nachiamman Kovil Road, Palathurai, Madukkarai, Coimbatore",
         "a5": 10.8792,
-        "a6": 76.9599
+        "a6": 76.9599,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "317",
@@ -3065,7 +4013,10 @@
         "a3": 2771,
         "a4": "New Bypass Road, Dharapuram",
         "a5": 10.7174,
-        "a6": 77.549
+        "a6": 77.549,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "318",
@@ -3073,7 +4024,10 @@
         "a3": 2772,
         "a4": "Appachigoudanpathy, Kumittipathy, Othakalmandapam, Coimbatore",
         "a5": 10.8241,
-        "a6": 76.893
+        "a6": 76.893,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "319",
@@ -3081,7 +4035,10 @@
         "a3": 2776,
         "a4": "Coimbatore",
         "a5": 11.0162,
-        "a6": 77.1022
+        "a6": 77.1022,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "320",
@@ -3089,7 +4046,10 @@
         "a3": 3011,
         "a4": "Anna University, Tiruchirappalli",
         "a5": 10.6581,
-        "a6": 78.7439
+        "a6": 78.7439,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "321",
@@ -3097,7 +4057,10 @@
         "a3": 3016,
         "a4": "Kavanur",
         "a5": 11.1306,
-        "a6": 79.1995
+        "a6": 79.1995,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "322",
@@ -3105,7 +4068,10 @@
         "a3": 3018,
         "a4": "Sattiyakudi Main Road, Thirukkuvalai, Nagapattinam",
         "a5": 10.6378,
-        "a6": 79.7175
+        "a6": 79.7175,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "323",
@@ -3113,7 +4079,10 @@
         "a3": 3019,
         "a4": "Chennai-Kumbakonam Highway, Panikkankuppam, Panruti",
         "a5": 11.7382,
-        "a6": 79.5532
+        "a6": 79.5532,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "324",
@@ -3121,7 +4090,10 @@
         "a3": 3021,
         "a4": "State Highway 200, Marudangavayal",
         "a5": 10.312,
-        "a6": 79.3499
+        "a6": 79.3499,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "325",
@@ -3129,7 +4101,10 @@
         "a3": 3403,
         "a4": "Trichy - Salem Main Road, Thudaiyur post, Tiruchirappalli",
         "a5": 10.8904,
-        "a6": 78.6375
+        "a6": 78.6375,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "326",
@@ -3137,7 +4112,10 @@
         "a3": 3410,
         "a4": "Nellikuppam Main Road, S.Kumarapuram, Cuddalore",
         "a5": 11.7687,
-        "a6": 79.7137
+        "a6": 79.7137,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "327",
@@ -3145,7 +4123,10 @@
         "a3": 3425,
         "a4": "Jayaram Nagar, Chellangkuppam, Cuddalore",
         "a5": 11.7342,
-        "a6": 79.7674
+        "a6": 79.7674,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "328",
@@ -3153,7 +4134,10 @@
         "a3": 3451,
         "a4": "Peravurani, Tiruvathevan, Thanjavur, SH-49, East Coast Road, East Coast Road, Pattukkottai, Pattukkottai",
         "a5": 10.164,
-        "a6": 79.2334
+        "a6": 79.2334,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "329",
@@ -3161,7 +4145,10 @@
         "a3": 3454,
         "a4": "Sri Saradha Nagar, Perambalur",
         "a5": 11.1968,
-        "a6": 78.8809
+        "a6": 78.8809,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "330",
@@ -3169,7 +4156,10 @@
         "a3": 3456,
         "a4": "Ammapettai, Darasuram, Kumbakonam",
         "a5": 10.9465,
-        "a6": 79.3458
+        "a6": 79.3458,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "331",
@@ -3177,7 +4167,10 @@
         "a3": 3457,
         "a4": "Thuraiyur Road,, Perambalur",
         "a5": 11.2374,
-        "a6": 78.8397
+        "a6": 78.8397,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "332",
@@ -3185,7 +4178,10 @@
         "a3": 3458,
         "a4": "NH45, Perambalur",
         "a5": 11.199,
-        "a6": 78.8749
+        "a6": 78.8749,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "333",
@@ -3193,7 +4189,10 @@
         "a3": 3459,
         "a4": "NO-2 MAIN ROAD, Samayapuram, Trichy, NO-2, Chennai - Theni Highway, Samayapuram, Tiruchirappalli",
         "a5": 10.9283,
-        "a6": 78.7478
+        "a6": 78.7478,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "334",
@@ -3201,7 +4200,10 @@
         "a3": 3460,
         "a4": "Chennai - Theni Highway",
         "a5": 10.9823,
-        "a6": 78.7739
+        "a6": 78.7739,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "335",
@@ -3209,7 +4211,10 @@
         "a3": 3461,
         "a4": "Esanoor Village, Taluk, Thirukkuvalai",
         "a5": 10.6078,
-        "a6": 79.757
+        "a6": 79.757,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "336",
@@ -3217,7 +4222,10 @@
         "a3": 3462,
         "a4": "Melakaruppur",
         "a5": 11.0567,
-        "a6": 79.1001
+        "a6": 79.1001,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "337",
@@ -3225,7 +4233,10 @@
         "a3": 3463,
         "a4": "Vepppanthattai Taluka, Perambalur District, Annamangalam",
         "a5": 11.3102,
-        "a6": 78.8034
+        "a6": 78.8034,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "338",
@@ -3233,7 +4244,10 @@
         "a3": 3464,
         "a4": "Thanjavur",
         "a5": 10.6945,
-        "a6": 78.977
+        "a6": 78.977,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "339",
@@ -3241,7 +4255,10 @@
         "a3": 3465,
         "a4": "Trichy - Madurai Highway, Sethurapatti Village",
         "a5": 10.6778,
-        "a6": 78.5997
+        "a6": 78.5997,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "340",
@@ -3249,7 +4266,10 @@
         "a3": 3466,
         "a4": "National Highway 227, Trichy - Chidambaram Highway, Pudhupalayam, Ariyalur",
         "a5": 11.0944,
-        "a6": 79.14
+        "a6": 79.14,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "341",
@@ -3257,7 +4277,10 @@
         "a3": 3701,
         "a4": "Kariyamanikam Road, Samayapuram, Trichy, Tiruchirappalli",
         "a5": 10.9296,
-        "a6": 78.7388
+        "a6": 78.7388,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "342",
@@ -3265,7 +4288,10 @@
         "a3": 3760,
         "a4": "Velankanni Road, Pappakoil, Nagapattinam",
         "a5": 10.745,
-        "a6": 79.82
+        "a6": 79.82,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "343",
@@ -3273,7 +4299,10 @@
         "a3": 3766,
         "a4": "Manangorai, Thanjavur",
         "a5": 10.8568,
-        "a6": 79.1608
+        "a6": 79.1608,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "344",
@@ -3281,7 +4310,10 @@
         "a3": 3781,
         "a4": "T. Palur Road, Jayamkondan",
         "a5": 11.1939,
-        "a6": 79.3653
+        "a6": 79.3653,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "345",
@@ -3289,7 +4321,10 @@
         "a3": 3782,
         "a4": "State Highway 62, Pulivalam",
         "a5": 11.0278,
-        "a6": 78.6278
+        "a6": 78.6278,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "346",
@@ -3297,7 +4332,10 @@
         "a3": 3786,
         "a4": "Siruganur",
         "a5": 10.9967,
-        "a6": 78.7789
+        "a6": 78.7789,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "347",
@@ -3305,7 +4343,10 @@
         "a3": 3795,
         "a4": "NH 45, Mannachanallur Taluk, Tiruchirappalli District, Irungalur",
         "a5": 10.9522,
-        "a6": 78.7517
+        "a6": 78.7517,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "348",
@@ -3313,7 +4354,10 @@
         "a3": 3801,
         "a4": "Mayiladuthurai - Akkur Road, Mannampandal, Mayiladuthurai",
         "a5": 11.105,
-        "a6": 79.6938
+        "a6": 79.6938,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "349",
@@ -3321,7 +4365,10 @@
         "a3": 3802,
         "a4": "Siruganoor,Mannachanallur Taluk, Tiruchirappalli",
         "a5": 10.9891,
-        "a6": 78.7815
+        "a6": 78.7815,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "350",
@@ -3329,7 +4376,10 @@
         "a3": 3803,
         "a4": "NH 67, Tanjore-Velankanni Main Road, Kovilvenni",
         "a5": 10.7795,
-        "a6": 79.365
+        "a6": 79.365,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "351",
@@ -3337,7 +4387,10 @@
         "a3": 3804,
         "a4": "Kumbakonam to chennai road, Kallappuliyur",
         "a5": 11.0142,
-        "a6": 79.4101
+        "a6": 79.4101,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "352",
@@ -3345,7 +4398,10 @@
         "a3": 3805,
         "a4": "Thuraiyur Road,, Perambalur",
         "a5": 11.2374,
-        "a6": 78.8397
+        "a6": 78.8397,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "353",
@@ -3353,7 +4409,10 @@
         "a3": 3806,
         "a4": "Old, Nagore Main Road, Thethi village, Nagore, Nagapattinam",
         "a5": 10.8034,
-        "a6": 79.8351
+        "a6": 79.8351,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "354",
@@ -3361,7 +4420,10 @@
         "a3": 3807,
         "a4": "Ammapettai, Poolangulathupatti Post, Tiruchirappalli",
         "a5": 10.732,
-        "a6": 78.5689
+        "a6": 78.5689,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "355",
@@ -3369,7 +4431,10 @@
         "a3": 3808,
         "a4": "Karattampatti, SH 62, Pagalavadi, Tiruchirappalli",
         "a5": 11.0744,
-        "a6": 78.6013
+        "a6": 78.6013,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "356",
@@ -3377,7 +4442,10 @@
         "a3": 3809,
         "a4": "Kurinji Nagar, Trichy-Dindigul NH-Road, Manapparai, Trichirappalli",
         "a5": 10.588,
-        "a6": 78.371
+        "a6": 78.371,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "357",
@@ -3385,7 +4453,10 @@
         "a3": 3810,
         "a4": "Trichy-Chennai Trunk Road,Siruganur, Trichy",
         "a5": 10.9944,
-        "a6": 78.7795
+        "a6": 78.7795,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "358",
@@ -3393,7 +4464,10 @@
         "a3": 3811,
         "a4": "Trichy Pudukottai Main Road, Gundur, Tiruchirappalli",
         "a5": 10.7307,
-        "a6": 78.707
+        "a6": 78.707,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "359",
@@ -3401,7 +4475,10 @@
         "a3": 3812,
         "a4": "Ramanathapuram Road, Pudukkottai",
         "a5": 10.5929,
-        "a6": 78.7639
+        "a6": 78.7639,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "360",
@@ -3409,7 +4486,10 @@
         "a3": 3813,
         "a4": "Trichy- Diddugal, East Coast Road, Pirattiyur, Tiruchirappalli",
         "a5": 10.7882,
-        "a6": 78.653
+        "a6": 78.653,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "361",
@@ -3417,7 +4497,10 @@
         "a3": 3814,
         "a4": "Trichy - Thanjavur highway,Vallam, Thanjavur",
         "a5": 10.7206,
-        "a6": 79.043
+        "a6": 79.043,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "362",
@@ -3425,7 +4508,10 @@
         "a3": 3815,
         "a4": "Thanjai Natarajan Nagar, Mathur, Pudukottai Road, Trichirapalli",
         "a5": 10.6787,
-        "a6": 78.7325
+        "a6": 78.7325,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "363",
@@ -3433,7 +4519,10 @@
         "a3": 3817,
         "a4": "Elambalur, Perambalur",
         "a5": 11.282,
-        "a6": 78.8913
+        "a6": 78.8913,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "364",
@@ -3441,7 +4530,10 @@
         "a3": 3819,
         "a4": "Trichy-madurai road Panjappur, Venkateswara Nagar, Edamalaipatti Pudur, Tiruchirappalli",
         "a5": 10.756,
-        "a6": 78.6513
+        "a6": 78.6513,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "365",
@@ -3449,7 +4541,10 @@
         "a3": 3820,
         "a4": "Sivagnanam Nagar, Konalai, Trichy",
         "a5": 10.9828,
-        "a6": 78.7752
+        "a6": 78.7752,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "366",
@@ -3457,7 +4552,10 @@
         "a3": 3821,
         "a4": "Edayarnatham",
         "a5": 10.6186,
-        "a6": 79.4542
+        "a6": 79.4542,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "367",
@@ -3465,7 +4563,10 @@
         "a3": 3822,
         "a4": "Tholudur, Cuddalore",
         "a5": 11.4237,
-        "a6": 78.9772
+        "a6": 78.9772,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "368",
@@ -3473,7 +4574,10 @@
         "a3": 3823,
         "a4": "Thuraiyur Road, Perambalur",
         "a5": 11.2408,
-        "a6": 78.8382
+        "a6": 78.8382,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "369",
@@ -3481,7 +4585,10 @@
         "a3": 3825,
         "a4": "A.S. Nagar, Elupatti, Thanjavur",
         "a5": 10.696,
-        "a6": 79.096
+        "a6": 79.096,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "370",
@@ -3489,7 +4596,10 @@
         "a3": 3826,
         "a4": "Namakkal-Trichy Main Road, Thottiam Taluk, Dist Trichy, Tholurpatti",
         "a5": 11.0148,
-        "a6": 78.2981
+        "a6": 78.2981,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "371",
@@ -3497,7 +4607,10 @@
         "a3": 3829,
         "a4": "Trichy-Chennai Trunk Road,Siruganur, Trichy",
         "a5": 10.9944,
-        "a6": 78.7795
+        "a6": 78.7795,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "372",
@@ -3505,7 +4618,10 @@
         "a3": 3830,
         "a4": "Kariyamanikam Road, Samayapuram, Trichy, Tiruchirappalli",
         "a5": 10.9296,
-        "a6": 78.7388
+        "a6": 78.7388,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "373",
@@ -3513,7 +4629,10 @@
         "a3": 3831,
         "a4": "Trichy-Madurai Highway, Madurai Main Road, NH-45B, Tiruchirappalli, Manikandam",
         "a5": 10.7398,
-        "a6": 78.6379
+        "a6": 78.6379,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "374",
@@ -3521,7 +4640,10 @@
         "a3": 3833,
         "a4": "NH-67 Ring Road, Kamaraj Nagar, Nanjikottai, Thanjavur",
         "a5": 10.7355,
-        "a6": 79.1263
+        "a6": 79.1263,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "375",
@@ -3529,7 +4651,10 @@
         "a3": 3841,
         "a4": "#27, Thayanur",
         "a5": 10.7688,
-        "a6": 78.6141
+        "a6": 78.6141,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "376",
@@ -3537,7 +4662,10 @@
         "a3": 3843,
         "a4": "Nattarmangalam, Kattumannarkoil",
         "a5": 11.2757,
-        "a6": 79.538
+        "a6": 79.538,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "377",
@@ -3545,7 +4673,10 @@
         "a3": 3844,
         "a4": "No.90, Navallur Kuttapattu Village, Trichy Dindigul High Road, Trichy",
         "a5": 10.7338,
-        "a6": 78.5734
+        "a6": 78.5734,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "378",
@@ -3553,7 +4684,10 @@
         "a3": 3845,
         "a4": "Kannanur, Thuraiyur, Trichy",
         "a5": 11.1031,
-        "a6": 78.5647
+        "a6": 78.5647,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "379",
@@ -3561,7 +4695,10 @@
         "a3": 3846,
         "a4": "Illuppur, Mettusalai, State Highway 71, Pudukkottai",
         "a5": 10.4972,
-        "a6": 78.6439
+        "a6": 78.6439,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "380",
@@ -3569,7 +4706,10 @@
         "a3": 3847,
         "a4": "Elambalur",
         "a5": 11.2825,
-        "a6": 78.8884
+        "a6": 78.8884,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "381",
@@ -3577,7 +4717,10 @@
         "a3": 3848,
         "a4": "PULAVARNATHAM, PO, Mariamman Kovil, Thanjavur",
         "a5": 10.7833,
-        "a6": 79.2138
+        "a6": 79.2138,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "382",
@@ -3585,7 +4728,10 @@
         "a3": 3849,
         "a4": "Anakudi Road, Kovilacheri, Thanjavur",
         "a5": 11.0335,
-        "a6": 79.4162
+        "a6": 79.4162,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "383",
@@ -3593,7 +4739,10 @@
         "a3": 3850,
         "a4": "Tiruchengode - Namakkal - Trichy Road, Tholurpatti",
         "a5": 11.0125,
-        "a6": 78.307
+        "a6": 78.307,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "384",
@@ -3601,7 +4750,10 @@
         "a3": 3852,
         "a4": "Kaikkuruchi, Pudukkottai",
         "a5": 10.3424,
-        "a6": 78.849
+        "a6": 78.849,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "385",
@@ -3609,7 +4761,10 @@
         "a3": 3854,
         "a4": "State Highway 71, Ariyur",
         "a5": 10.4264,
-        "a6": 78.7473
+        "a6": 78.7473,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "386",
@@ -3617,7 +4772,10 @@
         "a3": 3855,
         "a4": "Aduthurai - Tiruppandal Road, Thanjavur",
         "a5": 11.0326,
-        "a6": 79.4704
+        "a6": 79.4704,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "387",
@@ -3625,7 +4783,10 @@
         "a3": 3857,
         "a4": "Thathanur",
         "a5": 11.1642,
-        "a6": 79.2784
+        "a6": 79.2784,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "388",
@@ -3633,7 +4794,10 @@
         "a3": 3859,
         "a4": "Sembodai",
         "a5": 10.4525,
-        "a6": 79.8334
+        "a6": 79.8334,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "389",
@@ -3641,7 +4805,10 @@
         "a3": 3860,
         "a4": "SH 9,Anguchettipalayam,, Siruvathur Post, Panruti",
         "a5": 11.7768,
-        "a6": 79.5174
+        "a6": 79.5174,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "390",
@@ -3649,7 +4816,10 @@
         "a3": 3905,
         "a4": "Punalkulam, Gandarvakottai Taluk, Pudukkottai",
         "a5": 10.6472,
-        "a6": 79.0488
+        "a6": 79.0488,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "391",
@@ -3657,7 +4827,10 @@
         "a3": 3908,
         "a4": "Lena Vilakku, Pilivalam P.O, Thirumayam Tk, Pudukkottai",
         "a5": 10.2945,
-        "a6": 78.7644
+        "a6": 78.7644,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "392",
@@ -3665,7 +4838,10 @@
         "a3": 3918,
         "a4": "Pudukkottai - Thirumayam Road, Arasampatti",
         "a5": 10.2704,
-        "a6": 78.7557
+        "a6": 78.7557,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "393",
@@ -3673,7 +4849,10 @@
         "a3": 3920,
         "a4": "Sathiyamangalam, Pudukkottai District, Pudukkottai",
         "a5": 10.4775,
-        "a6": 78.7769
+        "a6": 78.7769,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "394",
@@ -3681,7 +4860,10 @@
         "a3": 3923,
         "a4": "Vallathirakkottai",
         "a5": 10.3155,
-        "a6": 78.897
+        "a6": 78.897,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "395",
@@ -3689,7 +4871,10 @@
         "a3": 3925,
         "a4": "Viralimalai Toll Plaza, Trichy - Madurai Highway, Velur",
         "a5": 10.6359,
-        "a6": 78.5803
+        "a6": 78.5803,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "396",
@@ -3697,7 +4882,10 @@
         "a3": 3926,
         "a4": "NH 226, Ennapatti",
         "a5": 10.2924,
-        "a6": 78.766
+        "a6": 78.766,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "397",
@@ -3705,7 +4893,10 @@
         "a3": 3940,
         "a4": "Annamalai Nagar, Chidambaram",
         "a5": 11.3906,
-        "a6": 79.7057
+        "a6": 79.7057,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "398",
@@ -3713,7 +4904,10 @@
         "a3": 4020,
         "a4": "Tirunelveli Region, Nagercoil Road, Tirunelveli",
         "a5": 8.6869,
-        "a6": 77.7257
+        "a6": 77.7257,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "399",
@@ -3721,7 +4915,10 @@
         "a3": 4023,
         "a4": "Industrial Estate, Konam, Nagercoil",
         "a5": 8.1666,
-        "a6": 77.4142
+        "a6": 77.4142,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "400",
@@ -3729,7 +4926,10 @@
         "a3": 4024,
         "a4": "7th Street West, Bryant Nagar Main Road, Thoothukudi",
         "a5": 8.7898,
-        "a6": 78.1277
+        "a6": 78.1277,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "401",
@@ -3737,7 +4937,10 @@
         "a3": 4669,
         "a4": "Chitambara nagar-veppamkulam road,Thatchanallur,Tirunelveli, Chathiramputukulam",
         "a5": 8.7729,
-        "a6": 77.6965
+        "a6": 77.6965,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "402",
@@ -3745,7 +4948,10 @@
         "a3": 4670,
         "a4": "Near Anjugramam Junction, Kanyakumari Main Road Palkulam, Anjugramam",
         "a5": 8.1347,
-        "a6": 77.5623
+        "a6": 77.5623,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "403",
@@ -3753,7 +4959,10 @@
         "a3": 4672,
         "a4": "Aruthenganvilai, Kalluketti Junction, Azhikal, Kanyakumari",
         "a5": 8.1337,
-        "a6": 77.3431
+        "a6": 77.3431,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "404",
@@ -3761,7 +4970,10 @@
         "a3": 4675,
         "a4": "Anbagam Campus Radhapuram Road Vallioor - 627 117 Tirunelveli District",
         "a5": 8.3407,
-        "a6": 77.6194
+        "a6": 77.6194,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "405",
@@ -3769,7 +4981,10 @@
         "a3": 4676,
         "a4": "Salvarpatti, Thayilpatti, Sivakasi, Virudhunagar",
         "a5": 9.3642,
-        "a6": 77.8422
+        "a6": 77.8422,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "406",
@@ -3777,7 +4992,10 @@
         "a3": 4677,
         "a4": "Marthandam � Karungal Road, Chunda vilai, Mullangana Vilai, Kanyakumari",
         "a5": 8.2666,
-        "a6": 77.2379
+        "a6": 77.2379,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "407",
@@ -3785,7 +5003,10 @@
         "a3": 4678,
         "a4": "Ayyanar Kovil Road, Venganallur, Virudhunagar District, Rajapalayam",
         "a5": 9.4822,
-        "a6": 77.5143
+        "a6": 77.5143,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "408",
@@ -3793,7 +5014,10 @@
         "a3": 4680,
         "a4": "Kamarajar Educational Road, Amathur, Sivakasi",
         "a5": 9.5687,
-        "a6": 77.87
+        "a6": 77.87,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "409",
@@ -3801,7 +5025,10 @@
         "a3": 4864,
         "a4": "V.V.Nagar, Tisaiyanvilai, Tirunelveli",
         "a5": 8.3672,
-        "a6": 77.8609
+        "a6": 77.8609,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "410",
@@ -3809,7 +5036,10 @@
         "a3": 4917,
         "a4": "Pulloor",
         "a5": 9.708,
-        "a6": 78.0951
+        "a6": 78.0951,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "411",
@@ -3817,7 +5047,10 @@
         "a3": 4927,
         "a4": "Attoor, State Highway 90, Thiruvattaru",
         "a5": 8.3269,
-        "a6": 77.26
+        "a6": 77.26,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "412",
@@ -3825,7 +5058,10 @@
         "a3": 4928,
         "a4": "Malankara Hills, Elavuvilai, Marthandam",
         "a5": 8.2793,
-        "a6": 77.2198
+        "a6": 77.2198,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "413",
@@ -3833,7 +5069,10 @@
         "a3": 4929,
         "a4": "State Highway 45",
         "a5": 8.2581,
-        "a6": 77.5058
+        "a6": 77.5058,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "414",
@@ -3841,7 +5080,10 @@
         "a3": 4931,
         "a4": "Chandy Nagar, Mullakadu, Thoothukudi",
         "a5": 8.7247,
-        "a6": 78.108
+        "a6": 78.108,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "415",
@@ -3849,7 +5091,10 @@
         "a3": 4932,
         "a4": "Kanyakumari",
         "a5": 8.2794,
-        "a6": 77.2406
+        "a6": 77.2406,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "416",
@@ -3857,7 +5102,10 @@
         "a3": 4933,
         "a4": "Putupatti, Thoothukudi, NH-7A, Palayamkottai Vagaikulam Tuticorin Road, Thoothukudi",
         "a5": 8.7372,
-        "a6": 78.015
+        "a6": 78.015,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "417",
@@ -3865,7 +5113,10 @@
         "a3": 4934,
         "a4": "7/131, Vagaikulam Srivaikuntam Express Road, Tannuthu",
         "a5": 8.6995,
-        "a6": 77.9726
+        "a6": 77.9726,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "418",
@@ -3873,7 +5124,10 @@
         "a3": 4937,
         "a4": "Therkumadathur, Tirunelveli",
         "a5": 8.8286,
-        "a6": 77.403
+        "a6": 77.403,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "419",
@@ -3881,7 +5135,10 @@
         "a3": 4938,
         "a4": "Manivila, Palukal Village, Vilavancode Taluk, Manivila",
         "a5": 8.3827,
-        "a6": 77.1577
+        "a6": 77.1577,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "420",
@@ -3889,7 +5146,10 @@
         "a3": 4941,
         "a4": "Suba Nagar, Near New Bus Stand, Kovilpatti",
         "a5": 9.1789,
-        "a6": 77.8298
+        "a6": 77.8298,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "421",
@@ -3897,7 +5157,10 @@
         "a3": 4943,
         "a4": "Satyam Nagar, Kannappannalur,Kanyakumari District, Aralvaimozhi",
         "a5": 8.2355,
-        "a6": 77.5412
+        "a6": 77.5412,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "422",
@@ -3905,7 +5168,10 @@
         "a3": 4944,
         "a4": "Manavilai, Nagercoil",
         "a5": 8.1618,
-        "a6": 77.3326
+        "a6": 77.3326,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "423",
@@ -3913,7 +5179,10 @@
         "a3": 4945,
         "a4": "Vins Nagar, Chunkankadai, Nagercoil",
         "a5": 8.2041,
-        "a6": 77.3831
+        "a6": 77.3831,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "424",
@@ -3921,7 +5190,10 @@
         "a3": 4946,
         "a4": "Kumarapuram Road, Aralvaimozhi, Kanyakumari",
         "a5": 8.2089,
-        "a6": 77.4611
+        "a6": 77.4611,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "425",
@@ -3929,7 +5201,10 @@
         "a3": 4948,
         "a4": "National Highway 47B,OZHUGINASERY, Nagercoil",
         "a5": 8.192,
-        "a6": 77.441
+        "a6": 77.441,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "426",
@@ -3937,7 +5212,10 @@
         "a3": 4949,
         "a4": "PSN Nagar, Tirunelveli",
         "a5": 8.6402,
-        "a6": 77.6381
+        "a6": 77.6381,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "427",
@@ -3945,7 +5223,10 @@
         "a3": 4950,
         "a4": "Tamizhan Nagar, Chenbagaramanputhoor, Kanyakumari",
         "a5": 8.2455,
-        "a6": 77.4982
+        "a6": 77.4982,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "428",
@@ -3953,7 +5234,10 @@
         "a3": 4952,
         "a4": "Thovalai, Kanyakumari",
         "a5": 8.2407,
-        "a6": 77.5006
+        "a6": 77.5006,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "429",
@@ -3961,7 +5245,10 @@
         "a3": 4953,
         "a4": "Near Azhagappapuram, Tirunelveli, Levinjipuram",
         "a5": 8.1781,
-        "a6": 77.5523
+        "a6": 77.5523,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "430",
@@ -3969,7 +5256,10 @@
         "a3": 4954,
         "a4": "Paalayangottai Road, Tuticorin District, Tiruchendur",
         "a5": 8.5208,
-        "a6": 78.0892
+        "a6": 78.0892,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "431",
@@ -3977,7 +5267,10 @@
         "a3": 4955,
         "a4": "103/G2, By pass Road, Vannarpet, Tirunelveli",
         "a5": 8.7321,
-        "a6": 77.7241
+        "a6": 77.7241,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "432",
@@ -3985,7 +5278,10 @@
         "a3": 4956,
         "a4": "Aralvaimozhi, Kanyakumari",
         "a5": 8.2642,
-        "a6": 77.552
+        "a6": 77.552,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "433",
@@ -3993,7 +5289,10 @@
         "a3": 4957,
         "a4": "Nazareth, Thoothukudi",
         "a5": 8.5384,
-        "a6": 77.9703
+        "a6": 77.9703,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "434",
@@ -4001,7 +5300,10 @@
         "a3": 4959,
         "a4": "C.Nagammal Campus, S.P.G.C.Nagar, Vellakulam, Madurai",
         "a5": 9.6728,
-        "a6": 77.9658
+        "a6": 77.9658,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "435",
@@ -4009,7 +5311,10 @@
         "a3": 4960,
         "a4": "mepco Schlenk engineering college, Mepco Nagar, Sivakasi",
         "a5": 9.5257,
-        "a6": 77.8583
+        "a6": 77.8583,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "436",
@@ -4017,7 +5322,10 @@
         "a3": 4961,
         "a4": "Maruthakulam, Tirunelveli",
         "a5": 8.5888,
-        "a6": 77.7112
+        "a6": 77.7112,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "437",
@@ -4025,7 +5333,10 @@
         "a3": 4962,
         "a4": "National Highway 44, Kovilpatti",
         "a5": 9.1482,
-        "a6": 77.8327
+        "a6": 77.8327,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "438",
@@ -4033,7 +5344,10 @@
         "a3": 4964,
         "a4": "PSN Nagar, Tirunelveli (Dist), Melathediyoor, Tirunelveli",
         "a5": 8.6404,
-        "a6": 77.6399
+        "a6": 77.6399,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "439",
@@ -4041,7 +5355,10 @@
         "a3": 4965,
         "a4": "Sivakasi, Sevalpatti",
         "a5": 9.2906,
-        "a6": 77.701
+        "a6": 77.701,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "440",
@@ -4049,7 +5366,10 @@
         "a3": 4966,
         "a4": "6, Thiruchendur Road, Tirunelveli District, Vallioor",
         "a5": 8.3683,
-        "a6": 77.637
+        "a6": 77.637,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "441",
@@ -4057,7 +5377,10 @@
         "a3": 4967,
         "a4": "SV Nagar, Tirunelveli, Puliyangudi",
         "a5": 9.1769,
-        "a6": 77.4245
+        "a6": 77.4245,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "442",
@@ -4065,7 +5388,10 @@
         "a3": 4968,
         "a4": "Tenkasi - Tirunelveli Road, Raja Nagar, Alangulam, Tirunelveli",
         "a5": 8.877,
-        "a6": 77.4487
+        "a6": 77.4487,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "443",
@@ -4073,7 +5399,10 @@
         "a3": 4969,
         "a4": "Cheranmahadevi, Tirunelveli",
         "a5": 8.667,
-        "a6": 77.5726
+        "a6": 77.5726,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "444",
@@ -4081,7 +5410,10 @@
         "a3": 4970,
         "a4": "Aruppukottai, Virudhunagar District, Chettikurichi, Virudhunagar",
         "a5": 9.465,
-        "a6": 78.0974
+        "a6": 78.0974,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "445",
@@ -4089,7 +5421,10 @@
         "a3": 4971,
         "a4": "Chunkankadai, Kanyakumari District, Nagercoil",
         "a5": 8.1954,
-        "a6": 77.384
+        "a6": 77.384,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "446",
@@ -4097,7 +5432,10 @@
         "a3": 4972,
         "a4": "Amritagiri, ERACHAKULAM(P.O NAGARCOIL",
         "a5": 8.2293,
-        "a6": 77.4153
+        "a6": 77.4153,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "447",
@@ -4105,7 +5443,10 @@
         "a3": 4973,
         "a4": "College Rd, Raja Nagar, Alaganeri, Tirunelveli",
         "a5": 8.2435,
-        "a6": 77.6058
+        "a6": 77.6058,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "448",
@@ -4113,7 +5454,10 @@
         "a3": 4974,
         "a4": "Trivandrum Road, Marshal Nager, Tirunelveli",
         "a5": 8.6861,
-        "a6": 77.7258
+        "a6": 77.7258,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "449",
@@ -4121,7 +5465,10 @@
         "a3": 4975,
         "a4": "Pope Nagar, Sawyerpuram, Thoothukudi",
         "a5": 8.689,
-        "a6": 78.0343
+        "a6": 78.0343,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "450",
@@ -4129,7 +5476,10 @@
         "a3": 4976,
         "a4": "Tirunelveli - Thoothukudi National Highway[NH-7A], Kamarajar Nagar, Keela, Vallanadu",
         "a5": 8.7362,
-        "a6": 77.8831
+        "a6": 77.8831,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "451",
@@ -4137,7 +5487,10 @@
         "a3": 4977,
         "a4": "Manjalumoodu P.O, ( Via ) Karakonam , Kuzhithurai, Kanyakumari",
         "a5": 8.405,
-        "a6": 77.2109
+        "a6": 77.2109,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "452",
@@ -4145,7 +5498,10 @@
         "a3": 4978,
         "a4": "Udaya Nagar ,Kanyakumari, Vellamodi, Kanyakumari",
         "a5": 8.14,
-        "a6": 77.3271
+        "a6": 77.3271,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "453",
@@ -4153,7 +5509,10 @@
         "a3": 4979,
         "a4": "Taluk, Krishnan Kovil Street, Srivilliputhur",
         "a5": 9.5589,
-        "a6": 77.6817
+        "a6": 77.6817,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "454",
@@ -4161,7 +5520,10 @@
         "a3": 4980,
         "a4": "Sir C.V.Raman Nagar, Seethaparpanalur, Tirunelveli Dist, Near MS University, Tirunelveli",
         "a5": 8.7829,
-        "a6": 77.613
+        "a6": 77.613,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "455",
@@ -4169,7 +5531,10 @@
         "a3": 4981,
         "a4": "Parvathipuram, Kanyakumari District, Nagercoil",
         "a5": 8.2077,
-        "a6": 77.3995
+        "a6": 77.3995,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "456",
@@ -4177,7 +5542,10 @@
         "a3": 4982,
         "a4": "Vins Nagar, Chunkankadai, Nagercoil",
         "a5": 8.2041,
-        "a6": 77.3831
+        "a6": 77.3831,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "457",
@@ -4185,7 +5553,10 @@
         "a3": 4983,
         "a4": "PSN Nagar, Ramanathichanputhur, Kumarapuramthoppur, Kanyakumari",
         "a5": 8.3282,
-        "a6": 77.3275
+        "a6": 77.3275,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "458",
@@ -4193,7 +5564,10 @@
         "a3": 4984,
         "a4": "Kuttakuzhi Veeyannoor India",
         "a5": 8.3119,
-        "a6": 77.2642
+        "a6": 77.2642,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "459",
@@ -4201,7 +5575,10 @@
         "a3": 4985,
         "a4": "P.C.P. Nagar, Therekalputhoor, Thirupathisaram, Theroor",
         "a5": 8.1935,
-        "a6": 77.4554
+        "a6": 77.4554,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "460",
@@ -4209,7 +5586,10 @@
         "a3": 4987,
         "a4": "Jamespuram, Near Nagercoil, Kanyakumari District, Navalkadu",
         "a5": 8.2458,
-        "a6": 77.4205
+        "a6": 77.4205,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "461",
@@ -4217,7 +5597,10 @@
         "a3": 4989,
         "a4": "Melathidiyoor, Melathediyoor",
         "a5": 8.6381,
-        "a6": 77.6418
+        "a6": 77.6418,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "462",
@@ -4225,7 +5608,10 @@
         "a3": 4991,
         "a4": "Anand Nagar, Krishnankoil, Via Srivilliputtur, Virudhunagar Dist., Krishnankoil",
         "a5": 9.5737,
-        "a6": 77.6831
+        "a6": 77.6831,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "463",
@@ -4233,7 +5619,10 @@
         "a3": 4992,
         "a4": "Karungal Road, Ulaganvillai, Kanyakumari",
         "a5": 8.2267,
-        "a6": 77.2446
+        "a6": 77.2446,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "464",
@@ -4241,7 +5630,10 @@
         "a3": 4993,
         "a4": "Rajavoor Road,Loyola Nager, Thovalai Post � 629 302",
         "a5": 8.2122,
-        "a6": 77.491
+        "a6": 77.491,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "465",
@@ -4249,7 +5641,10 @@
         "a3": 4994,
         "a4": "151, JP College Road, Ayikudi, Agarakattu, Tenkasi",
         "a5": 8.9922,
-        "a6": 77.3315
+        "a6": 77.3315,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "466",
@@ -4257,7 +5652,10 @@
         "a3": 4995,
         "a4": "Appayanaickenpatti",
         "a5": 9.2967,
-        "a6": 77.706
+        "a6": 77.706,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "467",
@@ -4265,7 +5663,10 @@
         "a3": 4996,
         "a4": "Sivakasi Main Road, Virudhunagar",
         "a5": 9.5836,
-        "a6": 77.9299
+        "a6": 77.9299,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "468",
@@ -4273,7 +5674,10 @@
         "a3": 4998,
         "a4": "Thalaiyanai Road, Aathu Vali, Tirunelveli District, Vasudevanallur",
         "a5": 9.2753,
-        "a6": 77.3752
+        "a6": 77.3752,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "469",
@@ -4281,7 +5685,10 @@
         "a3": 4999,
         "a4": "Pottalkulam Malangarai Road, Azhagappapuram Post, Kanyakumari",
         "a5": 8.1356,
-        "a6": 77.5247
+        "a6": 77.5247,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "470",
@@ -4289,7 +5696,10 @@
         "a3": 5008,
         "a4": "Ramasamy Naidu Street, Rail Marutham Nagar, Simmakkal, Madurai Main, Madurai",
         "a5": 9.9252,
-        "a6": 78.1198
+        "a6": 78.1198,
+        "a7": {
+          "a71": "Government Aided College"
+        }
       },
       {
         "a1": "471",
@@ -4297,7 +5707,10 @@
         "a3": 5009,
         "a4": "Palayam-Bodi Rd, Near B.Renganathapuram, Bodinayakkanur , Theni, Melachokkanathapuram",
         "a5": 9.9946,
-        "a6": 77.3494
+        "a6": 77.3494,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "472",
@@ -4305,7 +5718,10 @@
         "a3": 5010,
         "a4": "NH-7, Kanyakumari National Highway, Keelakuilkudi Road",
         "a5": 9.9021,
-        "a6": 78.0398
+        "a6": 78.0398,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "473",
@@ -4313,7 +5729,10 @@
         "a3": 5012,
         "a4": "College Road, Karaikudi",
         "a5": 10.0841,
-        "a6": 78.8
+        "a6": 78.8,
+        "a7": {
+          "a71": "Government of India"
+        }
       },
       {
         "a1": "474",
@@ -4321,7 +5740,10 @@
         "a3": 5017,
         "a4": "State Highway 49, Ramanathapuram - Manamelkudi Road, Pullangudi",
         "a5": 9.4248,
-        "a6": 78.8668
+        "a6": 78.8668,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "475",
@@ -4329,7 +5751,10 @@
         "a3": 5022,
         "a4": "Kothapulli",
         "a5": 10.4226,
-        "a6": 77.8844
+        "a6": 77.8844,
+        "a7": {
+          "a71": "Constituent College of Anna University"
+        }
       },
       {
         "a1": "476",
@@ -4337,7 +5762,10 @@
         "a3": 5502,
         "a4": "No.146/4B1, Amaravathi Village, Amaravathipudur, Karaikudi",
         "a5": 10.07,
-        "a6": 78.78
+        "a6": 78.78,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "477",
@@ -4345,7 +5773,10 @@
         "a3": 5530,
         "a4": "SSM Institute of Engineering and Technology,, Dindigul-Palani Highway,, Dindigul",
         "a5": 10.3971,
-        "a6": 77.9207
+        "a6": 77.9207,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "478",
@@ -4353,7 +5784,10 @@
         "a3": 5532,
         "a4": "Madurai - Melur Road, Therkutheru, Melur, Madurai",
         "a5": 10.0097,
-        "a6": 78.2988
+        "a6": 78.2988,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "479",
@@ -4361,7 +5795,10 @@
         "a3": 5533,
         "a4": "Karaikudi Taluk, Sivaganga District.",
         "a5": 10.0483,
-        "a6": 78.7093
+        "a6": 78.7093,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "480",
@@ -4369,7 +5806,10 @@
         "a3": 5536,
         "a4": "Mangayarkarasi Nagar, Madurai North Taluk, Madurai District.",
         "a5": 9.9564,
-        "a6": 78.0685
+        "a6": 78.0685,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "481",
@@ -4377,7 +5817,10 @@
         "a3": 5537,
         "a4": "Dindigul-Theni Road, Plot No. 532 & 533, N.H 45 B Extn, Aathupatti Pirivu, Near Vakkampatti, Veerakkal (B.P.O), N.Panjampatti (P.O), Aathur, Dindigul",
         "a5": 10.3673,
-        "a6": 77.9803
+        "a6": 77.9803,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "482",
@@ -4385,7 +5828,10 @@
         "a3": 5540,
         "a4": "144/1A1 Mettupatti(Thiuvandapuram)-624616,Palani Taulk, Dindigul Dist, Tamilnadu, India, Mettupatti",
         "a5": 10.6169,
-        "a6": 77.5809
+        "a6": 77.5809,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "483",
@@ -4393,7 +5839,10 @@
         "a3": 5703,
         "a4": "Christian college of engineering and technology, Oddanchatram",
         "a5": 10.4834,
-        "a6": 77.7593
+        "a6": 77.7593,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "484",
@@ -4401,7 +5850,10 @@
         "a3": 5720,
         "a4": "Sukkamanaickenpatti, Palani",
         "a5": 10.4883,
-        "a6": 77.4534
+        "a6": 77.4534,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "485",
@@ -4409,7 +5861,10 @@
         "a3": 5832,
         "a4": "NPR Nagar, Natham, Dindigul",
         "a5": 10.2423,
-        "a6": 78.1858
+        "a6": 78.1858,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "486",
@@ -4417,7 +5872,10 @@
         "a3": 5842,
         "a4": "Near Madurai, Madurai � Chinthamani Nedungulam Road, Pottapalayam, Sivagangai",
         "a5": 9.8288,
-        "a6": 78.1711
+        "a6": 78.1711,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "487",
@@ -4425,7 +5883,10 @@
         "a3": 5851,
         "a4": "PVP Nagar Dindigul - Theni Highways, Singarakottai",
         "a5": 10.2127,
-        "a6": 77.8108
+        "a6": 77.8108,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "488",
@@ -4433,7 +5894,10 @@
         "a3": 5862,
         "a4": "State Highway 74, RVS Nagar, Padiyur",
         "a5": 10.4184,
-        "a6": 78.0034
+        "a6": 78.0034,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "489",
@@ -4441,7 +5905,10 @@
         "a3": 5865,
         "a4": "Vadapudupatti, Theni",
         "a5": 10.0301,
-        "a6": 77.507
+        "a6": 77.507,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "490",
@@ -4449,7 +5916,10 @@
         "a3": 5901,
         "a4": "Near Kendriya Vidhyalaya, College Road, Karaikudi",
         "a5": 10.09,
-        "a6": 78.7947
+        "a6": 78.7947,
+        "a7": {
+          "a71": "Government Engineering College"
+        }
       },
       {
         "a1": "491",
@@ -4457,7 +5927,10 @@
         "a3": 5902,
         "a4": "Sri Gowri Nagar, Thimmarasanaickanoor, Aundipatty",
         "a5": 9.9948,
-        "a6": 77.6734
+        "a6": 77.6734,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "492",
@@ -4465,7 +5938,10 @@
         "a3": 5903,
         "a4": "Madurai - Pottapalayam - Kusavapatti Road, Manamadurai, Sivagangai, Pottapalayam",
         "a5": 9.8369,
-        "a6": 78.1594
+        "a6": 78.1594,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "493",
@@ -4473,7 +5949,10 @@
         "a3": 5904,
         "a4": "Route 47 C, Pottapalayam",
         "a5": 9.8359,
-        "a6": 78.1632
+        "a6": 78.1632,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "494",
@@ -4481,7 +5960,10 @@
         "a3": 5907,
         "a4": "East Coast Road, Sathak Nagar, Kilakarai, Ramanathapuram",
         "a5": 9.2362,
-        "a6": 78.7592
+        "a6": 78.7592,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "495",
@@ -4489,7 +5971,10 @@
         "a3": 5910,
         "a4": "psnacet, Kothandaraman Nagar",
         "a5": 10.4164,
-        "a6": 77.9006
+        "a6": 77.9006,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "496",
@@ -4497,7 +5982,10 @@
         "a3": 5911,
         "a4": "Rail Marutham Nagar, Simmakkal, Madurai Main, Madurai",
         "a5": 9.8741,
-        "a6": 78.0144
+        "a6": 78.0144,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "497",
@@ -4505,7 +5993,10 @@
         "a3": 5912,
         "a4": "Arasanoor, Thirumansolai Post, Sivaganga Dist., Sivaganga",
         "a5": 9.849,
-        "a6": 78.3457
+        "a6": 78.3457,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "498",
@@ -4513,7 +6004,10 @@
         "a3": 5913,
         "a4": "State Highway 74, RVS Nagar, Dindigul",
         "a5": 10.4195,
-        "a6": 78.0066
+        "a6": 78.0066,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "499",
@@ -4521,7 +6015,10 @@
         "a3": 5914,
         "a4": "S.V. Raja Nagar, Madurai, Veerapanjan",
         "a5": 9.9279,
-        "a6": 78.1995
+        "a6": 78.1995,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "500",
@@ -4529,7 +6026,10 @@
         "a3": 5915,
         "a4": "Kidaripatti, Melur - Azhagarkovil Road",
         "a5": 10.0646,
-        "a6": 78.245
+        "a6": 78.245,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "501",
@@ -4537,7 +6037,10 @@
         "a3": 5919,
         "a4": "St. Santhiagappar Nagar, Kalayarkoil",
         "a5": 9.8547,
-        "a6": 78.6232
+        "a6": 78.6232,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "502",
@@ -4545,7 +6048,10 @@
         "a3": 5921,
         "a4": "Dr.E.M.Abdullah Campus, Madurai-Rameshwaram Rd, Landhai",
         "a5": 9.3703,
-        "a6": 78.7689
+        "a6": 78.7689,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "503",
@@ -4553,7 +6059,10 @@
         "a3": 5922,
         "a4": "Sreenivasa Gardens, Madurai Sivagangai Road,, Enathi",
         "a5": 9.8545,
-        "a6": 78.3207
+        "a6": 78.3207,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "504",
@@ -4561,7 +6070,10 @@
         "a3": 5924,
         "a4": "Muthukulathur Road, Paramakudi, Melakavanoor",
         "a5": 9.4871,
-        "a6": 78.5636
+        "a6": 78.5636,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "505",
@@ -4569,7 +6081,10 @@
         "a3": 5930,
         "a4": "SBM Nagar, Thamaraipadi PO, Dindigul",
         "a5": 10.4187,
-        "a6": 78.0476
+        "a6": 78.0476,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "506",
@@ -4577,7 +6092,10 @@
         "a3": 5935,
         "a4": "State Highway 33, Senkottai Village, Madurai sivagangai Main Road, Madurai",
         "a5": 9.8758,
-        "a6": 78.2739
+        "a6": 78.2739,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "507",
@@ -4585,7 +6103,10 @@
         "a3": 5942,
         "a4": "Ultra Nagar, Madurai - Chennai Highway, Madurai",
         "a5": 9.9715,
-        "a6": 78.2117
+        "a6": 78.2117,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "508",
@@ -4593,7 +6114,10 @@
         "a3": 5986,
         "a4": "Viraganoor Dam, Iravadanallur",
         "a5": 9.8938,
-        "a6": 78.1782
+        "a6": 78.1782,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "509",
@@ -4601,7 +6125,10 @@
         "a3": 5988,
         "a4": "Kammavar Nagar, Koduvilarpatti Post, Veerapand, Theni",
         "a5": 9.9818,
-        "a6": 77.487
+        "a6": 77.487,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       },
       {
         "a1": "510",
@@ -4609,7 +6136,10 @@
         "a3": 5990,
         "a4": "Plot Latha Mathavan Nagar, Near Alagarkovil Perumal Temple, Melur Taluk Madurai,, Kidaripatti",
         "a5": 10.0726,
-        "a6": 78.2403
+        "a6": 78.2403,
+        "a7": {
+          "a71": "Self Financing College"
+        }
       }
     ]
   }
